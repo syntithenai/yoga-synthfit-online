@@ -1,0 +1,172 @@
+{
+  "id": "loving-kindness",
+  "voiceId": "fr-denise",
+  "edgeVoice": "fr-FR-DeniseNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 131,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Asseyez-vous confortablement. Adoucit le visage.",
+      "file": "c000.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 1,
+      "text": "Placez une main sur le cœur si cela peut aider.",
+      "file": "c001.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 2,
+      "text": "Nous vous proposerons des phrases simples de gentillesse.",
+      "file": "c002.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 3,
+      "text": "D’abord envers vous-même.",
+      "file": "c003.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 4,
+      "text": "Répétez silencieusement après moi, ou écoutez simplement.",
+      "file": "c004.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 5,
+      "text": "Puis-je être en sécurité.",
+      "file": "c005.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 6,
+      "text": "Puis-je aller bien.",
+      "file": "c006.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 7,
+      "text": "Puis-je être à l'aise.",
+      "file": "c007.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 8,
+      "text": "Répétez-les lentement.",
+      "file": "c008.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 9,
+      "text": "Puis-je être en sécurité.",
+      "file": "c009.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 10,
+      "text": "Puis-je aller bien.",
+      "file": "c010.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 11,
+      "text": "May I be at ease.",
+      "file": "c011.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 12,
+      "text": "If that feels hard, that is okay. Stay with the wish itself.",
+      "file": "c012.ogg",
+      "durationSec": 9.504
+    },
+    {
+      "index": 13,
+      "text": "Maintenant, pensez à quelqu’un dont il est facile de se soucier.",
+      "file": "c013.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 14,
+      "text": "A friend, a pet, a kind stranger.",
+      "file": "c014.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 15,
+      "text": "Imaginez-les brièvement.",
+      "file": "c015.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 16,
+      "text": "May you be safe.",
+      "file": "c016.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 17,
+      "text": "Puissiez-vous aller bien.",
+      "file": "c017.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 18,
+      "text": "Puissiez-vous être à l'aise.",
+      "file": "c018.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 19,
+      "text": "Une fois de plus.",
+      "file": "c019.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 20,
+      "text": "Puissiez-vous être en sécurité.",
+      "file": "c020.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 21,
+      "text": "Puissiez-vous aller bien.",
+      "file": "c021.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 22,
+      "text": "Puissiez-vous être à l'aise.",
+      "file": "c022.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 23,
+      "text": "Ressentez toute la chaleur qui surgit. Ou reposez-vous simplement sur les mots.",
+      "file": "c023.ogg",
+      "durationSec": 9.768
+    },
+    {
+      "index": 24,
+      "text": "Revenez à votre propre souffle.",
+      "file": "c024.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 25,
+      "text": "Merci d'avoir pratiqué.",
+      "file": "c025.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 26,
+      "text": "Ouvrez doucement les yeux.",
+      "file": "c026.ogg",
+      "durationSec": 3.504
+    }
+  ]
+}

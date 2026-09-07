@@ -1,0 +1,172 @@
+{
+  "id": "loving-kindness",
+  "voiceId": "ja-nanami",
+  "edgeVoice": "ja-JP-NanamiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 157,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "快適にお座りください。顔を柔らかくします。",
+      "file": "c000.ogg",
+      "durationSec": 8.784
+    },
+    {
+      "index": 1,
+      "text": "それが役立つ場合は、心臓に手を当ててください。",
+      "file": "c001.ogg",
+      "durationSec": 8.088
+    },
+    {
+      "index": 2,
+      "text": "シンプルな優しさのフレーズをご紹介します。",
+      "file": "c002.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 3,
+      "text": "まずは自分自身に対して。",
+      "file": "c003.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 4,
+      "text": "私の後を黙って繰り返すか、ただ聞いてください。",
+      "file": "c004.ogg",
+      "durationSec": 8.088
+    },
+    {
+      "index": 5,
+      "text": "無事でありますように。",
+      "file": "c005.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 6,
+      "text": "元気でありますように。",
+      "file": "c006.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 7,
+      "text": "安心していただけますように。",
+      "file": "c007.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 8,
+      "text": "もう一度ゆっくり言ってください。",
+      "file": "c008.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 9,
+      "text": "無事でありますように。",
+      "file": "c009.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 10,
+      "text": "元気でありますように。",
+      "file": "c010.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 11,
+      "text": "安心していただけますように。",
+      "file": "c011.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 12,
+      "text": "それが難しいと感じても、大丈夫です。願いそのものを持ち続けてください。",
+      "file": "c012.ogg",
+      "durationSec": 12.408
+    },
+    {
+      "index": 13,
+      "text": "ここで、気にかけやすい人を思い出してください。",
+      "file": "c013.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 14,
+      "text": "友人、ペット、親切な見知らぬ人。",
+      "file": "c014.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 15,
+      "text": "それらを簡単にイメージしてみましょう。",
+      "file": "c015.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 16,
+      "text": "ご無事でありますように。",
+      "file": "c016.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 17,
+      "text": "ご無事でありますように。",
+      "file": "c017.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 18,
+      "text": "ご安心ください。",
+      "file": "c018.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 19,
+      "text": "もう一度。",
+      "file": "c019.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 20,
+      "text": "ご無事でありますように。",
+      "file": "c020.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 21,
+      "text": "ご無事でありますように。",
+      "file": "c021.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 22,
+      "text": "ご安心ください。",
+      "file": "c022.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 23,
+      "text": "湧き上がる温もりを感じてください。あるいは単に言葉の中で休んでください。",
+      "file": "c023.ogg",
+      "durationSec": 12.24
+    },
+    {
+      "index": 24,
+      "text": "自分自身の呼吸に戻ります。",
+      "file": "c024.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 25,
+      "text": "練習してくれてありがとう。",
+      "file": "c025.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 26,
+      "text": "そっと目を開けてください。",
+      "file": "c026.ogg",
+      "durationSec": 4.536
+    }
+  ]
+}

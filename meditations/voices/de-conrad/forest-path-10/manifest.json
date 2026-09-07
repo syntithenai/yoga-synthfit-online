@@ -1,0 +1,664 @@
+{
+  "id": "forest-path-10",
+  "voiceId": "de-conrad",
+  "edgeVoice": "de-DE-ConradNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 698,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 1,
+      "text": "Finden Sie eine Haltung, die nichts von Ihnen verlangt.",
+      "file": "c001.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 2,
+      "text": "Setzen Sie sich oder legen Sie sich hin, mit der Unterstützung, die Sie benötigen.",
+      "file": "c002.ogg",
+      "durationSec": 9.144
+    },
+    {
+      "index": 3,
+      "text": "Lassen Sie Ihre Hände offen oder weich ruhen.",
+      "file": "c003.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 4,
+      "text": "Lassen Sie Ihre Augen schließen oder behalten Sie einen sanften Blick bei.",
+      "file": "c004.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 5,
+      "text": "Spüren Sie die Stellen, an denen Ihr Körper den Boden berührt.",
+      "file": "c005.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 6,
+      "text": "Die Fersen, die Sitzknochen, der Hinterkopf oder die Länge der Wirbelsäule.",
+      "file": "c006.ogg",
+      "durationSec": 8.952
+    },
+    {
+      "index": 7,
+      "text": "Im Moment gibt es nichts, was man aufhalten könnte.",
+      "file": "c007.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 8,
+      "text": "Atmen Sie langsam durch die Nase ein.",
+      "file": "c008.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 9,
+      "text": "Spüren Sie die Kühle der ankommenden Luft.",
+      "file": "c009.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 10,
+      "text": "Und atme noch etwas länger aus.",
+      "file": "c010.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 11,
+      "text": "Spüren Sie die Wärme des Ausatmens.",
+      "file": "c011.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 12,
+      "text": "Wieder. Sanft einatmen.",
+      "file": "c012.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 13,
+      "text": "Atmen Sie ruhig aus.",
+      "file": "c013.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 14,
+      "text": "Lassen Sie die Schultern etwas nach unten fallen.",
+      "file": "c014.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 15,
+      "text": "Lassen Sie den Kiefer entspannen.",
+      "file": "c015.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 16,
+      "text": "Lass den Bauch weich sein.",
+      "file": "c016.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 17,
+      "text": "Bleiben Sie bei drei ruhigen Atemzügen, so wie sie sind.",
+      "file": "c017.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 18,
+      "text": "Einatmen. Ankommen.",
+      "file": "c018.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 19,
+      "text": "Ausatmen. Siedeln.",
+      "file": "c019.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 20,
+      "text": "Wenn der Geist abschweift, bemerken Sie es freundlich und kehren Sie zu diesem Atemzug zurück.",
+      "file": "c020.ogg",
+      "durationSec": 10.44
+    },
+    {
+      "index": 21,
+      "text": "Beginnen Sie nun einen langsamen Spaziergang in einen alten Wald.",
+      "file": "c021.ogg",
+      "durationSec": 7.68
+    },
+    {
+      "index": 22,
+      "text": "Der Weg ist weich mit Nadeln und abgefallenen Blättern.",
+      "file": "c022.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 23,
+      "text": "Jeder Schritt macht ein leises Geräusch, dann kehrt Stille ein.",
+      "file": "c023.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 24,
+      "text": "Das Sonnenlicht schlängelt sich in warmen Bändern durch hohe Äste.",
+      "file": "c024.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 25,
+      "text": "Spüren Sie einen Sonnenfleck auf Ihrem Unterarm – plötzliche sanfte Hitze.",
+      "file": "c025.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 26,
+      "text": "Dann wieder schattieren, kühl und grün.",
+      "file": "c026.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 27,
+      "text": "Eine Brise bewegt das Blätterdach. Frische Luft erreicht Ihr Gesicht.",
+      "file": "c027.ogg",
+      "durationSec": 9.432
+    },
+    {
+      "index": 28,
+      "text": "Riechen Sie Harz, feuchte Erde und die reine Süße von Moos.",
+      "file": "c028.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 29,
+      "text": "Pause. Legen Sie eine Handfläche auf raue Rinde.",
+      "file": "c029.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 30,
+      "text": "Spüren Sie, wie die Stille des Baumes in Ihre Hand eindringt.",
+      "file": "c030.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 31,
+      "text": "Gehen Sie tiefer weiter. Die Geräusche der Außenwelt verschwinden.",
+      "file": "c031.ogg",
+      "durationSec": 8.952
+    },
+    {
+      "index": 32,
+      "text": "Irgendwo spricht ein Bach in kleinen, hellen Silben.",
+      "file": "c032.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 33,
+      "text": "Sie folgen dem Weg, bis Wasser zwischen den Steinen erscheint.",
+      "file": "c033.ogg",
+      "durationSec": 7.392
+    },
+    {
+      "index": 34,
+      "text": "Knien. Tauchen Sie Ihre Hände ein. Coole Klarheit.",
+      "file": "c034.ogg",
+      "durationSec": 9.768
+    },
+    {
+      "index": 35,
+      "text": "Spritzen Sie etwas auf Ihre Handgelenke. Frische weckt die Haut.",
+      "file": "c035.ogg",
+      "durationSec": 9.144
+    },
+    {
+      "index": 36,
+      "text": "Setzen Sie sich auf einen flachen Felsen, der von einer schmalen Sonnensäule erwärmt wird.",
+      "file": "c036.ogg",
+      "durationSec": 9.84
+    },
+    {
+      "index": 37,
+      "text": "Spüren Sie die Wärme in Ihren Sitzknochen und der Rückseite Ihrer Oberschenkel.",
+      "file": "c037.ogg",
+      "durationSec": 8.616
+    },
+    {
+      "index": 38,
+      "text": "Spüren Sie den kühlen Atem des Baches an Ihren Schienbeinen.",
+      "file": "c038.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 39,
+      "text": "Vögel rufen einmal, dann verlassen sie die Stille wieder.",
+      "file": "c039.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 40,
+      "text": "Atmen Sie die Frische des Waldes ein.",
+      "file": "c040.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 41,
+      "text": "Atmen Sie in die Patientenstämme um Sie herum aus.",
+      "file": "c041.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 42,
+      "text": "Beachten Sie, wie Ihre Schultern ungefragt herabgesunken sind.",
+      "file": "c042.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 43,
+      "text": "Wie der Kiefer weich wird, wenn es keinen anderen Ort mehr gibt.",
+      "file": "c043.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 44,
+      "text": "Stehen Sie auf, wenn Sie bereit sind, und gehen Sie ein wenig weiter.",
+      "file": "c044.ogg",
+      "durationSec": 8.232
+    },
+    {
+      "index": 45,
+      "text": "Farne streifen Ihre Waden mit kühlen grünen Fingerspitzen.",
+      "file": "c045.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 46,
+      "text": "Eine Lichtung öffnet sich – rund wie ein angehaltener Atem.",
+      "file": "c046.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 47,
+      "text": "Lehnen Sie sich im tiefen Moos zurück.",
+      "file": "c047.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 48,
+      "text": "Die Erde nimmt Ihr Gewicht vollständig auf.",
+      "file": "c048.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 49,
+      "text": "Wärme gefilterter Sonne auf Ihrem Gesicht.",
+      "file": "c049.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 50,
+      "text": "Kühles Moos entlang Ihrer Wirbelsäule.",
+      "file": "c050.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 51,
+      "text": "Die Brise kommt, geht, kommt wieder.",
+      "file": "c051.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 52,
+      "text": "Bleiben Sie bei dem Gefühl, von einem lebendigen Ort gehalten zu werden.",
+      "file": "c052.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 53,
+      "text": "Sicher. Ruhig. Ohne Anstrengung dazugehören.",
+      "file": "c053.ogg",
+      "durationSec": 9.36
+    },
+    {
+      "index": 54,
+      "text": "Zählen Sie hier fünf langsame Atemzüge, jeder davon sanfter.",
+      "file": "c054.ogg",
+      "durationSec": 7.992
+    },
+    {
+      "index": 55,
+      "text": "Nehmen Sie wieder den Duft wahr – grün, feucht, ehrlich.",
+      "file": "c055.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 56,
+      "text": "Beachten Sie erneut den Ton – fast keiner, und das ist ausreichend.",
+      "file": "c056.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 57,
+      "text": "Wenn ein Gedanke auftaucht, lassen Sie ihn treiben wie ein Blatt im Strom.",
+      "file": "c057.ogg",
+      "durationSec": 8.688
+    },
+    {
+      "index": 58,
+      "text": "Kehren Sie zu Wärme auf der Haut zurück, wo auch immer die Sonne Sie findet.",
+      "file": "c058.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 59,
+      "text": "Kehren Sie im Schatten zwischen den warmen Bändern zur Kühle zurück.",
+      "file": "c059.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 60,
+      "text": "Du bist weit genug nach innen gegangen.",
+      "file": "c060.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 61,
+      "text": "Lassen Sie drei langsame Atemzüge dies im Körper versiegeln.",
+      "file": "c061.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 62,
+      "text": "Bevor Sie gehen, stellen Sie sich noch einmal an den Bach.",
+      "file": "c062.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 63,
+      "text": "Beobachten Sie, wie klares Wasser die Steine ​​umspült.",
+      "file": "c063.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 64,
+      "text": "Kühle Luft steigt von der bewegten Oberfläche auf.",
+      "file": "c064.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 65,
+      "text": "Warmes Licht findet immer noch einen Streifen deines Unterarms.",
+      "file": "c065.ogg",
+      "durationSec": 7.344
+    },
+    {
+      "index": 66,
+      "text": "Wenn Sie möchten, trinken Sie eine Tasse Wasser und befeuchten Sie die Stirn – in der Fantasie, kühl und freundlich.",
+      "file": "c066.ogg",
+      "durationSec": 12.312
+    },
+    {
+      "index": 67,
+      "text": "Der Wald applaudiert nicht. Es geht einfach weiter.",
+      "file": "c067.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 68,
+      "text": "Dieser Fortbestand ist ein Lehrer.",
+      "file": "c068.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 69,
+      "text": "Gehen Sie den Weg nach außen ein paar ruhige Schritte im Geiste.",
+      "file": "c069.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 70,
+      "text": "Nadeln unter den Füßen. Sanfter Klang. Sanfte Rückkehr.",
+      "file": "c070.ogg",
+      "durationSec": 10.56
+    },
+    {
+      "index": 71,
+      "text": "Doch der Frieden der Lichtung bleibt in der Brust wie gespeicherte Sonne.",
+      "file": "c071.ogg",
+      "durationSec": 7.536
+    },
+    {
+      "index": 72,
+      "text": "Spüren Sie es dort – Wärme hinter dem Brustbein.",
+      "file": "c072.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 73,
+      "text": "Spüren Sie immer noch die Frische in der Nase.",
+      "file": "c073.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 74,
+      "text": "Sie können beides in normale Räume bringen.",
+      "file": "c074.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 75,
+      "text": "Ein letzter Blick durch die Zweige hinauf zu einer Himmelsmünze.",
+      "file": "c075.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 76,
+      "text": "Genug.",
+      "file": "c076.ogg",
+      "durationSec": 2.424
+    },
+    {
+      "index": 77,
+      "text": "Nun lassen Sie die Geschichte ruhen und bleiben Sie bei der Sensation.",
+      "file": "c077.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 78,
+      "text": "Atmen Sie die Frische dieses Ortes ein.",
+      "file": "c078.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 79,
+      "text": "Atme aus in seine Wärme und Stille.",
+      "file": "c079.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 80,
+      "text": "Einatmen.",
+      "file": "c080.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 81,
+      "text": "Ausatmen.",
+      "file": "c081.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 82,
+      "text": "Wieder. Sanft einatmen.",
+      "file": "c082.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 83,
+      "text": "Länger ausatmen.",
+      "file": "c083.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 84,
+      "text": "Spüren Sie, wie der Körper vom Boden dieser imaginären Welt gehalten wird.",
+      "file": "c084.ogg",
+      "durationSec": 8.616
+    },
+    {
+      "index": 85,
+      "text": "Einatmen.",
+      "file": "c085.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 86,
+      "text": "Ausatmen.",
+      "file": "c086.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 87,
+      "text": "Wenn die Gedanken abschweifen, kehren Sie zur Wärme auf der Haut zurück.",
+      "file": "c087.ogg",
+      "durationSec": 8.04
+    },
+    {
+      "index": 88,
+      "text": "Oder um die Luft an der Nase zu kühlen.",
+      "file": "c088.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 89,
+      "text": "Einatmen.",
+      "file": "c089.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 90,
+      "text": "Ausatmen.",
+      "file": "c090.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 91,
+      "text": "Einatmen.",
+      "file": "c091.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 92,
+      "text": "Ausatmen.",
+      "file": "c092.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 93,
+      "text": "Bleiben. Erweichen. Weitermachen.",
+      "file": "c093.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 94,
+      "text": "Einatmen.",
+      "file": "c094.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 95,
+      "text": "Ausatmen.",
+      "file": "c095.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 96,
+      "text": "Noch ein einfacher Zyklus.",
+      "file": "c096.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 97,
+      "text": "Einatmen.",
+      "file": "c097.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 98,
+      "text": "Ausatmen.",
+      "file": "c098.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 99,
+      "text": "Verweilen Sie noch ein paar Atemzüge in diesem Gefühl.",
+      "file": "c099.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 100,
+      "text": "Wärme. Weichheit. Genug.",
+      "file": "c100.ogg",
+      "durationSec": 7.608
+    },
+    {
+      "index": 101,
+      "text": "Sie können jederzeit an diesen Ort zurückkehren.",
+      "file": "c101.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 102,
+      "text": "Es lebt in Ihrer Aufmerksamkeit, nicht nur in Ihrer Vorstellung.",
+      "file": "c102.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 103,
+      "text": "Beginnen Sie, den Atem zu vertiefen.",
+      "file": "c103.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 104,
+      "text": "Spüren Sie wieder den Raum um Sie herum.",
+      "file": "c104.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 105,
+      "text": "Wackeln Sie mit den Fingern. Machen Sie die Zehen weich.",
+      "file": "c105.ogg",
+      "durationSec": 8.016
+    },
+    {
+      "index": 106,
+      "text": "Wenn Sie bereit sind, öffnen Sie Ihre Augen.",
+      "file": "c106.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 107,
+      "text": "Atmen Sie noch einmal ruhig durch.",
+      "file": "c107.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 108,
+      "text": "Tragen Sie diese Ruhe in alles, was als nächstes kommt.",
+      "file": "c108.ogg",
+      "durationSec": 7.176
+    }
+  ]
+}

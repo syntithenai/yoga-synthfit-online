@@ -1,0 +1,136 @@
+{
+  "id": "calm-arrive",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 117,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать.",
+      "file": "c000.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 1,
+      "text": "Найдите минутку, чтобы приехать.",
+      "file": "c001.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 2,
+      "text": "Найдите удобное сиденье или лягте, если вам так удобнее.",
+      "file": "c002.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 3,
+      "text": "Дайте рукам отдохнуть.",
+      "file": "c003.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 4,
+      "text": "Позвольте глазам закрыться или смягчите взгляд.",
+      "file": "c004.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 5,
+      "text": "Обратите внимание, что вы здесь.",
+      "file": "c005.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 6,
+      "text": "Сейчас нечего исправлять.",
+      "file": "c006.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 7,
+      "text": "Нечего завершать.",
+      "file": "c007.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 8,
+      "text": "Сделайте медленный вдох через нос.",
+      "file": "c008.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 9,
+      "text": "И более длинный выдох.",
+      "file": "c009.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 10,
+      "text": "Снова. Мягкий вдох.",
+      "file": "c010.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 11,
+      "text": "Мягкий выдох.",
+      "file": "c011.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 12,
+      "text": "Почувствуйте, как поддерживается вес вашего тела.",
+      "file": "c012.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 13,
+      "text": "Пол, стул, земля держит тебя.",
+      "file": "c013.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 14,
+      "text": "Если мысли блуждают, это нормально.",
+      "file": "c014.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 15,
+      "text": "Просто обратите внимание и вернитесь к этому дыханию.",
+      "file": "c015.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 16,
+      "text": "Вдохните. Приезжать.",
+      "file": "c016.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 17,
+      "text": "Выдохните. Решить.",
+      "file": "c017.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 18,
+      "text": "Еще один легкий вздох.",
+      "file": "c018.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 19,
+      "text": "Когда будете готовы, откройте глаза.",
+      "file": "c019.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 20,
+      "text": "Носите эту тишину с собой.",
+      "file": "c020.ogg",
+      "durationSec": 5.064
+    }
+  ]
+}

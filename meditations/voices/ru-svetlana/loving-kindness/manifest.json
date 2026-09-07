@@ -1,0 +1,172 @@
+{
+  "id": "loving-kindness",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 150,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Сядьте удобно. Смягчите лицо.",
+      "file": "c000.ogg",
+      "durationSec": 7.68
+    },
+    {
+      "index": 1,
+      "text": "Положите руку на сердце, если это поможет.",
+      "file": "c001.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 2,
+      "text": "Мы предложим простые фразы доброты.",
+      "file": "c002.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 3,
+      "text": "Во-первых, по отношению к себе.",
+      "file": "c003.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 4,
+      "text": "Повторяйте молча за мной или просто слушайте.",
+      "file": "c004.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 5,
+      "text": "Пусть я буду в безопасности.",
+      "file": "c005.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 6,
+      "text": "Пусть мне будет хорошо.",
+      "file": "c006.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 7,
+      "text": "Пусть мне будет спокойно.",
+      "file": "c007.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 8,
+      "text": "Повторите их еще раз, медленно.",
+      "file": "c008.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 9,
+      "text": "Пусть я буду в безопасности.",
+      "file": "c009.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 10,
+      "text": "Пусть мне будет хорошо.",
+      "file": "c010.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 11,
+      "text": "Пусть мне будет спокойно.",
+      "file": "c011.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 12,
+      "text": "Если это кажется трудным, это нормально. Оставайтесь с самим желанием.",
+      "file": "c012.ogg",
+      "durationSec": 10.872
+    },
+    {
+      "index": 13,
+      "text": "Теперь вспомните кого-то, о ком легко заботиться.",
+      "file": "c013.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 14,
+      "text": "Друг, домашнее животное, добрый незнакомец.",
+      "file": "c014.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 15,
+      "text": "Представьте их кратко.",
+      "file": "c015.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 16,
+      "text": "Пусть ты будешь в безопасности.",
+      "file": "c016.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 17,
+      "text": "Пусть тебе будет хорошо.",
+      "file": "c017.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 18,
+      "text": "Пусть вам будет спокойно.",
+      "file": "c018.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 19,
+      "text": "Еще раз.",
+      "file": "c019.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 20,
+      "text": "Пусть ты будешь в безопасности.",
+      "file": "c020.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 21,
+      "text": "Пусть тебе будет хорошо.",
+      "file": "c021.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 22,
+      "text": "Пусть вам будет спокойно.",
+      "file": "c022.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 23,
+      "text": "Почувствуйте любое возникающее тепло. Или просто успокойтесь в словах.",
+      "file": "c023.ogg",
+      "durationSec": 10.728
+    },
+    {
+      "index": 24,
+      "text": "Вернитесь к собственному дыханию.",
+      "file": "c024.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 25,
+      "text": "Поблагодарите себя за практику.",
+      "file": "c025.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 26,
+      "text": "Аккуратно откройте глаза.",
+      "file": "c026.ogg",
+      "durationSec": 4.632
+    }
+  ]
+}

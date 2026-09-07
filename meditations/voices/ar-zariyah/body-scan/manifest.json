@@ -1,0 +1,148 @@
+{
+  "id": "body-scan",
+  "voiceId": "ar-zariyah",
+  "edgeVoice": "ar-SA-ZariyahNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 173,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "سنقوم بمسح الجسم بلطف.",
+      "file": "c000.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 1,
+      "text": "الاستلقاء أو الجلوس بكل سهولة.",
+      "file": "c001.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 2,
+      "text": "أغمض عينيك إذا كان ذلك آمنًا.",
+      "file": "c002.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 3,
+      "text": "ابدأ عند تاج الرأس.",
+      "file": "c003.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 4,
+      "text": "لاحظ أي إحساس هناك. الدفء. البرودة. لا شيء على الإطلاق.",
+      "file": "c004.ogg",
+      "durationSec": 14.52
+    },
+    {
+      "index": 5,
+      "text": "لا حاجة لتغييره. فقط لاحظ.",
+      "file": "c005.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 6,
+      "text": "تحرك بهدوء إلى الجبين والعينين.",
+      "file": "c006.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 7,
+      "text": "دع العضلات الصغيرة حول العينين تنعم.",
+      "file": "c007.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 8,
+      "text": "يشعر الفك. قم بفك إذا استطعت.",
+      "file": "c008.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 9,
+      "text": "اللسان يستريح بخفة.",
+      "file": "c009.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 10,
+      "text": "أكتاف. هل هم مرفوعون؟ دعهم يسقطون قليلا.",
+      "file": "c010.ogg",
+      "durationSec": 11.208
+    },
+    {
+      "index": 11,
+      "text": "الأسلحة ثقيلة. الأيدي مفتوحة أو ناعمة.",
+      "file": "c011.ogg",
+      "durationSec": 9.192
+    },
+    {
+      "index": 12,
+      "text": "ارتفاع الصدر وهبوطه مع التنفس.",
+      "file": "c012.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 13,
+      "text": "البطن ناعم. لا إجبار.",
+      "file": "c013.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 14,
+      "text": "استراحة الوركين والحوض.",
+      "file": "c014.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 15,
+      "text": "الفخذين. الركبتين. أسفل الساقين.",
+      "file": "c015.ogg",
+      "durationSec": 10.056
+    },
+    {
+      "index": 16,
+      "text": "قدم. باطن لمس الأرض أو حصيرة.",
+      "file": "c016.ogg",
+      "durationSec": 7.8
+    },
+    {
+      "index": 17,
+      "text": "الآن اشعر بالجسد كله كمجال واحد للوعي.",
+      "file": "c017.ogg",
+      "durationSec": 8.016
+    },
+    {
+      "index": 18,
+      "text": "التنفس يتحرك من خلاله.",
+      "file": "c018.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 19,
+      "text": "إذا ظهرت بقعة متوترة، أرسل زفيرًا لطيفًا هناك.",
+      "file": "c019.ogg",
+      "durationSec": 9.312
+    },
+    {
+      "index": 20,
+      "text": "البقاء لمدة ثلاثة أنفاس هادئة.",
+      "file": "c020.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 21,
+      "text": "عندما تكون مستعدًا، قم بهز أصابع اليدين والقدمين.",
+      "file": "c021.ogg",
+      "durationSec": 9.504
+    },
+    {
+      "index": 22,
+      "text": "افتح عينيك. العودة بلطف.",
+      "file": "c022.ogg",
+      "durationSec": 7.32
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "body-scan",
+  "voiceId": "en-au-natasha",
+  "edgeVoice": "en-AU-NatashaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 97,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "We will gently scan the body.",
+      "file": "c000.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 1,
+      "text": "Lie down or sit with ease.",
+      "file": "c001.ogg",
+      "durationSec": 3.237
+    },
+    {
+      "index": 2,
+      "text": "Close your eyes if that feels safe.",
+      "file": "c002.ogg",
+      "durationSec": 3.638
+    },
+    {
+      "index": 3,
+      "text": "Begin at the crown of the head.",
+      "file": "c003.ogg",
+      "durationSec": 3.47
+    },
+    {
+      "index": 4,
+      "text": "Notice any sensation there. Warmth. Coolness. Nothing at all.",
+      "file": "c004.ogg",
+      "durationSec": 8.514
+    },
+    {
+      "index": 5,
+      "text": "No need to change it. Just notice.",
+      "file": "c005.ogg",
+      "durationSec": 3.412
+    },
+    {
+      "index": 6,
+      "text": "Softly move to the forehead and the eyes.",
+      "file": "c006.ogg",
+      "durationSec": 4.401
+    },
+    {
+      "index": 7,
+      "text": "Let the tiny muscles around the eyes soften.",
+      "file": "c007.ogg",
+      "durationSec": 4.982
+    },
+    {
+      "index": 8,
+      "text": "Feel the jaw. Unclench if you can.",
+      "file": "c008.ogg",
+      "durationSec": 4.168
+    },
+    {
+      "index": 9,
+      "text": "Tongue resting lightly.",
+      "file": "c009.ogg",
+      "durationSec": 2.834
+    },
+    {
+      "index": 10,
+      "text": "Shoulders. Are they lifted? Let them drop a little.",
+      "file": "c010.ogg",
+      "durationSec": 5.911
+    },
+    {
+      "index": 11,
+      "text": "Arms heavy. Hands open or soft.",
+      "file": "c011.ogg",
+      "durationSec": 4.799
+    },
+    {
+      "index": 12,
+      "text": "Chest rising and falling with breath.",
+      "file": "c012.ogg",
+      "durationSec": 3.861
+    },
+    {
+      "index": 13,
+      "text": "Belly soft. No forcing.",
+      "file": "c013.ogg",
+      "durationSec": 3.526
+    },
+    {
+      "index": 14,
+      "text": "Hips and pelvis resting.",
+      "file": "c014.ogg",
+      "durationSec": 2.827
+    },
+    {
+      "index": 15,
+      "text": "Thighs. Knees. Lower legs.",
+      "file": "c015.ogg",
+      "durationSec": 3.691
+    },
+    {
+      "index": 16,
+      "text": "Feet. Soles touching the floor or the mat.",
+      "file": "c016.ogg",
+      "durationSec": 4.744
+    },
+    {
+      "index": 17,
+      "text": "Now sense the whole body as one field of awareness.",
+      "file": "c017.ogg",
+      "durationSec": 5.843
+    },
+    {
+      "index": 18,
+      "text": "Breath moving through it.",
+      "file": "c018.ogg",
+      "durationSec": 2.658
+    },
+    {
+      "index": 19,
+      "text": "If a tense spot appears, send a kind exhale there.",
+      "file": "c019.ogg",
+      "durationSec": 5.379
+    },
+    {
+      "index": 20,
+      "text": "Stay for three quiet breaths.",
+      "file": "c020.ogg",
+      "durationSec": 2.944
+    },
+    {
+      "index": 21,
+      "text": "When you are ready, wiggle fingers and toes.",
+      "file": "c021.ogg",
+      "durationSec": 4.915
+    },
+    {
+      "index": 22,
+      "text": "Open your eyes. Return gently.",
+      "file": "c022.ogg",
+      "durationSec": 3.814
+    }
+  ],
+  "engine": "elevenlabs",
+  "elevenVoice": "hpp4J3VqNfWAUOO0d1Us",
+  "elevenLabel": "Bella",
+  "elevenSpeed": 0.7,
+  "atempo": 0.8,
+  "eqDb": 6.0
+}

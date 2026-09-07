@@ -1,0 +1,172 @@
+{
+  "id": "loving-kindness",
+  "voiceId": "ar-hamed",
+  "edgeVoice": "ar-SA-HamedNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 154,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "اجلس بشكل مريح. تنعيم الوجه.",
+      "file": "c000.ogg",
+      "durationSec": 7.68
+    },
+    {
+      "index": 1,
+      "text": "ضع يدك على القلب إذا كان ذلك يساعد.",
+      "file": "c001.ogg",
+      "durationSec": 6.96
+    },
+    {
+      "index": 2,
+      "text": "وسوف نقدم عبارات بسيطة من اللطف.",
+      "file": "c002.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 3,
+      "text": "أولاً، تجاه نفسك.",
+      "file": "c003.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 4,
+      "text": "ردد خلفي بصمت، أو استمع فقط.",
+      "file": "c004.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 5,
+      "text": "أتمنى أن أكون آمنا.",
+      "file": "c005.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 6,
+      "text": "أتمنى أن أكون بخير.",
+      "file": "c006.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 7,
+      "text": "هل لي أن أكون مرتاحا.",
+      "file": "c007.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 8,
+      "text": "قلهم مرة أخرى، ببطء.",
+      "file": "c008.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 9,
+      "text": "أتمنى أن أكون آمنا.",
+      "file": "c009.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 10,
+      "text": "أتمنى أن أكون بخير.",
+      "file": "c010.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 11,
+      "text": "هل لي أن أكون مرتاحا.",
+      "file": "c011.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 12,
+      "text": "إذا كان هذا يبدو صعبًا، فلا بأس. ابق مع الرغبة نفسها.",
+      "file": "c012.ogg",
+      "durationSec": 11.496
+    },
+    {
+      "index": 13,
+      "text": "الآن تذكر شخصًا يسهل الاهتمام به.",
+      "file": "c013.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 14,
+      "text": "صديق، حيوان أليف، غريب لطيف.",
+      "file": "c014.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 15,
+      "text": "صورهم لفترة وجيزة.",
+      "file": "c015.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 16,
+      "text": "دمتم آمنين.",
+      "file": "c016.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 17,
+      "text": "أتمنى أن تكونوا بخير.",
+      "file": "c017.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 18,
+      "text": "نرجو أن تكون مرتاحًا.",
+      "file": "c018.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 19,
+      "text": "مرة أخرى.",
+      "file": "c019.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 20,
+      "text": "دمتم آمنين.",
+      "file": "c020.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 21,
+      "text": "أتمنى أن تكونوا بخير.",
+      "file": "c021.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 22,
+      "text": "نرجو أن تكون مرتاحًا.",
+      "file": "c022.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 23,
+      "text": "اشعر بأي دفء ينشأ. أو مجرد الراحة في الكلمات.",
+      "file": "c023.ogg",
+      "durationSec": 10.152
+    },
+    {
+      "index": 24,
+      "text": "العودة إلى أنفاسك.",
+      "file": "c024.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 25,
+      "text": "أشكر نفسك على ممارسة.",
+      "file": "c025.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 26,
+      "text": "افتح عينيك بلطف.",
+      "file": "c026.ogg",
+      "durationSec": 4.44
+    }
+  ]
+}

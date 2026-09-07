@@ -1,0 +1,352 @@
+{
+  "id": "cove-shore-5",
+  "voiceId": "es-alvaro",
+  "edgeVoice": "es-ES-AlvaroNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 353,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Bienvenido.",
+      "file": "c000.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 1,
+      "text": "Tome un asiento cómodo o acuéstese si se siente mejor.",
+      "file": "c001.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 2,
+      "text": "Deja que tus manos descansen.",
+      "file": "c002.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 3,
+      "text": "Deja que tus ojos se cierren o suaviza tu mirada.",
+      "file": "c003.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 4,
+      "text": "Observe el peso de su cuerpo que se sostiene.",
+      "file": "c004.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 5,
+      "text": "Respire lentamente por la nariz.",
+      "file": "c005.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 6,
+      "text": "Y una exhalación más larga y más fácil.",
+      "file": "c006.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 7,
+      "text": "De nuevo. Inhala suavemente.",
+      "file": "c007.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 8,
+      "text": "Exhala suavemente.",
+      "file": "c008.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 9,
+      "text": "Si los pensamientos divagan, está bien. Vuelve a la respiración.",
+      "file": "c009.ogg",
+      "durationSec": 9.504
+    },
+    {
+      "index": 10,
+      "text": "Imagínese llegar a una cala protegida.",
+      "file": "c010.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 11,
+      "text": "Los acantilados se curvan alrededor de arena suave y pálida.",
+      "file": "c011.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 12,
+      "text": "El mar se mueve en olas bajas y pacientes.",
+      "file": "c012.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 13,
+      "text": "Un sol suave calienta la parte superior de tus hombros.",
+      "file": "c013.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 14,
+      "text": "Una brisa salada refresca tus labios y párpados.",
+      "file": "c014.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 15,
+      "text": "Siente la frescura de ese aire llenando tu pecho.",
+      "file": "c015.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 16,
+      "text": "Camine hasta la línea de flotación. La arena mojada abraza tus pies.",
+      "file": "c016.ogg",
+      "durationSec": 9.768
+    },
+    {
+      "index": 17,
+      "text": "La espuma fría toca tus tobillos y se desliza.",
+      "file": "c017.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 18,
+      "text": "El ritmo es simple. Llegar. Ablandar. Dejar.",
+      "file": "c018.ogg",
+      "durationSec": 11.688
+    },
+    {
+      "index": 19,
+      "text": "Siéntate donde la arena seca esté cálida debajo de ti.",
+      "file": "c019.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 20,
+      "text": "Lean back on your hands. Feel the grainy heat.",
+      "file": "c020.ogg",
+      "durationSec": 7.632
+    },
+    {
+      "index": 21,
+      "text": "Escuche el silencio y el bullicio de la cala.",
+      "file": "c021.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 22,
+      "text": "Huele a sal, a sol y a piedra limpia.",
+      "file": "c022.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 23,
+      "text": "Warmth on your skin. Coolness in every inhale.",
+      "file": "c023.ogg",
+      "durationSec": 7.632
+    },
+    {
+      "index": 24,
+      "text": "A lo lejos, la luz brilla como una risa silenciosa.",
+      "file": "c024.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 25,
+      "text": "No es necesario que lo persigas. Ya está aquí.",
+      "file": "c025.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 26,
+      "text": "A wave reaches farther, cools your toes, then retreats.",
+      "file": "c026.ogg",
+      "durationSec": 7.344
+    },
+    {
+      "index": 27,
+      "text": "La arena cálida recupera tus pies.",
+      "file": "c027.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 28,
+      "text": "Deje que su respiración se mueva con las olas: inhalando lentamente, exhalando más tiempo.",
+      "file": "c028.ogg",
+      "durationSec": 10.488
+    },
+    {
+      "index": 29,
+      "text": "La paz es la cala misma. Estás dentro de él.",
+      "file": "c029.ogg",
+      "durationSec": 7.944
+    },
+    {
+      "index": 30,
+      "text": "Rest your attention on the warmth between your shoulder blades.",
+      "file": "c030.ogg",
+      "durationSec": 7.224
+    },
+    {
+      "index": 31,
+      "text": "Y en el aire fresco y salado en la punta de la nariz.",
+      "file": "c031.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 32,
+      "text": "Trace the cliff line with soft imagination.",
+      "file": "c032.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 33,
+      "text": "Piedra calentada durante el día. Sombra fresca en los pliegues.",
+      "file": "c033.ogg",
+      "durationSec": 9.024
+    },
+    {
+      "index": 34,
+      "text": "Una piscina de marea cercana contiene un pequeño mundo claro.",
+      "file": "c034.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 35,
+      "text": "No es necesario que te inclines. Saber que está ahí es suficiente.",
+      "file": "c035.ogg",
+      "durationSec": 9.456
+    },
+    {
+      "index": 36,
+      "text": "Otra ola. Tobillos frescos. Arena cálida. Aliento suave.",
+      "file": "c036.ogg",
+      "durationSec": 12.888
+    },
+    {
+      "index": 37,
+      "text": "La cala sigue ofreciendo la misma amabilidad sencilla.",
+      "file": "c037.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 38,
+      "text": "Recíbelo una vez más antes de partir.",
+      "file": "c038.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 39,
+      "text": "Now rest in the breath alone for a little while.",
+      "file": "c039.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 40,
+      "text": "Inhala lentamente.",
+      "file": "c040.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 41,
+      "text": "Exhala lentamente.",
+      "file": "c041.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 42,
+      "text": "Inhalar.",
+      "file": "c042.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 43,
+      "text": "Exhalar.",
+      "file": "c043.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 44,
+      "text": "Siente calidez dondequiera que el cuerpo esté caliente.",
+      "file": "c044.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 45,
+      "text": "Feel coolness wherever the air is cool.",
+      "file": "c045.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 46,
+      "text": "Inhalar.",
+      "file": "c046.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 47,
+      "text": "Exhalar.",
+      "file": "c047.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 48,
+      "text": "Ningún lugar adonde ir. Nada que arreglar.",
+      "file": "c048.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 49,
+      "text": "Inhalar.",
+      "file": "c049.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 50,
+      "text": "Exhalar.",
+      "file": "c050.ogg",
+      "durationSec": 2.784
+    },
+    {
+      "index": 51,
+      "text": "Rest here for a few quiet breaths.",
+      "file": "c051.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 52,
+      "text": "Sepa que puede regresar a este lugar en cualquier momento.",
+      "file": "c052.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 53,
+      "text": "Cuando estés listo, profundiza la respiración.",
+      "file": "c053.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 54,
+      "text": "Mueve los dedos de las manos y de los pies.",
+      "file": "c054.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 55,
+      "text": "Open your eyes softly.",
+      "file": "c055.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 56,
+      "text": "Carry a little of this peace with you.",
+      "file": "c056.ogg",
+      "durationSec": 4.728
+    }
+  ]
+}

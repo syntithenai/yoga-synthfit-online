@@ -1,0 +1,154 @@
+{
+  "id": "anxiety-soft-landing",
+  "voiceId": "ja-nanami",
+  "edgeVoice": "ja-JP-NanamiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 170,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "活性化されていると感じたり、不安を感じたりした場合は、ここにお越しください。",
+      "file": "c000.ogg",
+      "durationSec": 11.64
+    },
+    {
+      "index": 1,
+      "text": "まだ落ち着く必要はありません。",
+      "file": "c001.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 2,
+      "text": "ただ従ってください。",
+      "file": "c002.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 3,
+      "text": "可能であれば両足を床に置きます。",
+      "file": "c003.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 4,
+      "text": "接触を感じてください。かかと。足の指の付け根。つま先。",
+      "file": "c004.ogg",
+      "durationSec": 13.968
+    },
+    {
+      "index": 5,
+      "text": "軽く押し下げます。地面からの押し戻しに注目してください。",
+      "file": "c005.ogg",
+      "durationSec": 10.488
+    },
+    {
+      "index": 6,
+      "text": "目に見えるものを 5 つ挙げてください。",
+      "file": "c006.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 7,
+      "text": "静かに。急ぐ必要はありません。",
+      "file": "c007.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 8,
+      "text": "Name four things you can touch.",
+      "file": "c008.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 9,
+      "text": "服。椅子。肌に空気が当たる。",
+      "file": "c009.ogg",
+      "durationSec": 8.544
+    },
+    {
+      "index": 10,
+      "text": "Name three sounds, near or far.",
+      "file": "c010.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 11,
+      "text": "Name two scents, or simply notice the air.",
+      "file": "c011.ogg",
+      "durationSec": 8.088
+    },
+    {
+      "index": 12,
+      "text": "味、または口の中の感覚を 1 つ挙げてください。",
+      "file": "c012.ogg",
+      "durationSec": 8.664
+    },
+    {
+      "index": 13,
+      "text": "あなたはここにいる。この体で。この部屋で。",
+      "file": "c013.ogg",
+      "durationSec": 9.96
+    },
+    {
+      "index": 14,
+      "text": "今度は 4 回息を吸います。",
+      "file": "c014.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 15,
+      "text": "二人でそっと抱きしめてください。",
+      "file": "c015.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 16,
+      "text": "6人でアウト。",
+      "file": "c016.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 17,
+      "text": "よかったらまた。",
+      "file": "c017.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 18,
+      "text": "胸やお腹に手を置きます。",
+      "file": "c018.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 19,
+      "text": "手の下で動きを感じてください。",
+      "file": "c019.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 20,
+      "text": "不安がまだ残っている可能性があります。それは許されています。",
+      "file": "c020.ogg",
+      "durationSec": 10.752
+    },
+    {
+      "index": 21,
+      "text": "神経系にソフトランディングを与えたのです。",
+      "file": "c021.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 22,
+      "text": "もう一息。",
+      "file": "c022.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 23,
+      "text": "準備ができたら、目を開けて一日を続けてください。",
+      "file": "c023.ogg",
+      "durationSec": 7.968
+    }
+  ]
+}

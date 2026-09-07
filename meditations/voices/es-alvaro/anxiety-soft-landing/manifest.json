@@ -1,0 +1,154 @@
+{
+  "id": "anxiety-soft-landing",
+  "voiceId": "es-alvaro",
+  "edgeVoice": "es-ES-AlvaroNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 155,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Si te sientes activado o preocupado, eres bienvenido aquí.",
+      "file": "c000.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 1,
+      "text": "No es necesario que te sientas tranquilo todavía.",
+      "file": "c001.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 2,
+      "text": "Sólo sígueme.",
+      "file": "c002.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 3,
+      "text": "Si puedes, planta ambos pies en el suelo.",
+      "file": "c003.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 4,
+      "text": "Siente el contacto. Tacones. Bolas de los pies. Dedos de los pies.",
+      "file": "c004.ogg",
+      "durationSec": 13.536
+    },
+    {
+      "index": 5,
+      "text": "Presione hacia abajo suavemente. Observe el empuje hacia atrás desde el suelo.",
+      "file": "c005.ogg",
+      "durationSec": 10.512
+    },
+    {
+      "index": 6,
+      "text": "Nombra cinco cosas que puedas ver.",
+      "file": "c006.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 7,
+      "text": "En silencio. Sin prisas.",
+      "file": "c007.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 8,
+      "text": "Nombra cuatro cosas que puedas tocar.",
+      "file": "c008.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 9,
+      "text": "Ropa. Silla. Aire sobre la piel.",
+      "file": "c009.ogg",
+      "durationSec": 8.592
+    },
+    {
+      "index": 10,
+      "text": "Nombra tres sonidos, cercanos o lejanos.",
+      "file": "c010.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 11,
+      "text": "Nombra dos aromas o simplemente observa el aire.",
+      "file": "c011.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 12,
+      "text": "Nombra un sabor o sensación en la boca.",
+      "file": "c012.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 13,
+      "text": "Usted está aquí. En este cuerpo. En esta sala.",
+      "file": "c013.ogg",
+      "durationSec": 9.84
+    },
+    {
+      "index": 14,
+      "text": "Ahora inhale por cuatro.",
+      "file": "c014.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 15,
+      "text": "Mantenga suavemente durante dos.",
+      "file": "c015.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 16,
+      "text": "Fuera por seis.",
+      "file": "c016.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 17,
+      "text": "De nuevo si quieres.",
+      "file": "c017.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 18,
+      "text": "Coloque una mano sobre el pecho o el vientre.",
+      "file": "c018.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 19,
+      "text": "Siente el movimiento bajo tu mano.",
+      "file": "c019.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 20,
+      "text": "Es posible que la ansiedad todavía esté presente. Eso está permitido.",
+      "file": "c020.ogg",
+      "durationSec": 9.84
+    },
+    {
+      "index": 21,
+      "text": "Le has dado al sistema nervioso un aterrizaje más suave.",
+      "file": "c021.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 22,
+      "text": "Toma un respiro más.",
+      "file": "c022.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 23,
+      "text": "Cuando esté listo, abra los ojos y continúe con su día.",
+      "file": "c023.ogg",
+      "durationSec": 7.248
+    }
+  ]
+}

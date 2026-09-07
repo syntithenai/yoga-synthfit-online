@@ -1,0 +1,154 @@
+{
+  "id": "anxiety-soft-landing",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 170,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Если вы чувствуете возбуждение или беспокойство, добро пожаловать сюда.",
+      "file": "c000.ogg",
+      "durationSec": 8.76
+    },
+    {
+      "index": 1,
+      "text": "Вам пока не нужно чувствовать себя спокойно.",
+      "file": "c001.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 2,
+      "text": "Just follow along.",
+      "file": "c002.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 3,
+      "text": "Если можете, поставьте обе ноги на пол.",
+      "file": "c003.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 4,
+      "text": "Почувствуйте контакт. Каблуки. Подушечки стоп. Пальцы ног.",
+      "file": "c004.ogg",
+      "durationSec": 14.04
+    },
+    {
+      "index": 5,
+      "text": "Аккуратно нажмите вниз. Обратите внимание на отталкивание от земли.",
+      "file": "c005.ogg",
+      "durationSec": 10.752
+    },
+    {
+      "index": 6,
+      "text": "Назовите пять вещей, которые вы можете видеть.",
+      "file": "c006.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 7,
+      "text": "Тихо. Никакой спешки.",
+      "file": "c007.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 8,
+      "text": "Назовите четыре вещи, к которым можно прикоснуться.",
+      "file": "c008.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 9,
+      "text": "Одежда. Стул. Воздух на коже.",
+      "file": "c009.ogg",
+      "durationSec": 9.528
+    },
+    {
+      "index": 10,
+      "text": "Назовите три звука: ближний и дальний.",
+      "file": "c010.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 11,
+      "text": "Назовите два аромата или просто обратите внимание на воздух.",
+      "file": "c011.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 12,
+      "text": "Назовите один вкус или ощущение во рту.",
+      "file": "c012.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 13,
+      "text": "Вы здесь. В этом теле. В этой комнате.",
+      "file": "c013.ogg",
+      "durationSec": 10.272
+    },
+    {
+      "index": 14,
+      "text": "Now breathe in for four.",
+      "file": "c014.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 15,
+      "text": "Hold softly for two.",
+      "file": "c015.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 16,
+      "text": "Выход на шесть.",
+      "file": "c016.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 17,
+      "text": "Опять же, если хотите.",
+      "file": "c017.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 18,
+      "text": "Положите руку на грудь или живот.",
+      "file": "c018.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 19,
+      "text": "Feel movement under your hand.",
+      "file": "c019.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 20,
+      "text": "Тревога все еще может присутствовать. Это разрешено.",
+      "file": "c020.ogg",
+      "durationSec": 9.048
+    },
+    {
+      "index": 21,
+      "text": "Вы обеспечили нервной системе более мягкую посадку.",
+      "file": "c021.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 22,
+      "text": "Сделайте еще один вдох.",
+      "file": "c022.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 23,
+      "text": "Когда будете готовы, откройте глаза и продолжайте свой день.",
+      "file": "c023.ogg",
+      "durationSec": 8.088
+    }
+  ]
+}

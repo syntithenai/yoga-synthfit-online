@@ -1,0 +1,352 @@
+{
+  "id": "garden-dusk-5",
+  "voiceId": "ar-hamed",
+  "edgeVoice": "ar-SA-HamedNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 369,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 1,
+      "text": "خذ مقعدًا مريحًا، أو استلقِ إذا كان ذلك أفضل.",
+      "file": "c001.ogg",
+      "durationSec": 8.784
+    },
+    {
+      "index": 2,
+      "text": "دع يديك ترتاح.",
+      "file": "c002.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 3,
+      "text": "اسمح لعينيك بإغلاق أو تخفيف نظرتك.",
+      "file": "c003.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 4,
+      "text": "لاحظ وزن جسمك الذي يحمله.",
+      "file": "c004.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 5,
+      "text": "خذ نفسا بطيئا من خلال الأنف.",
+      "file": "c005.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 6,
+      "text": "وزفير أطول وأسهل.",
+      "file": "c006.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 7,
+      "text": "مرة أخرى. شهيق ناعم.",
+      "file": "c007.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 8,
+      "text": "زفير لطيف.",
+      "file": "c008.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 9,
+      "text": "إذا شردت الأفكار، فلا بأس. العودة إلى التنفس.",
+      "file": "c009.ogg",
+      "durationSec": 10.656
+    },
+    {
+      "index": 10,
+      "text": "Imagine a quiet walled garden at soft dusk.",
+      "file": "c010.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 11,
+      "text": "المسارات الحجرية تحمل الدفء الأخير في اليوم.",
+      "file": "c011.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 12,
+      "text": "اشعر بهذه الحرارة اللطيفة من خلال باطن قدميك.",
+      "file": "c012.ogg",
+      "durationSec": 8.424
+    },
+    {
+      "index": 13,
+      "text": "يطلق اللافندر وورد المساء رائحة هادئة.",
+      "file": "c013.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 14,
+      "text": "نسيم بارد ينزلق على الحائط ويبرد رقبتك.",
+      "file": "c014.ogg",
+      "durationSec": 8.232
+    },
+    {
+      "index": 15,
+      "text": "الهواء منعش بعد ظهر دافئ.",
+      "file": "c015.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 16,
+      "text": "أنت تمشي ببطء بين السياجات المشذّبة كالأنفاس.",
+      "file": "c016.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 17,
+      "text": "أوراق فرشاة أصابعك لا تزال تحتجز الشمس.",
+      "file": "c017.ogg",
+      "durationSec": 8.184
+    },
+    {
+      "index": 18,
+      "text": "دافيء. سلس. على قيد الحياة.",
+      "file": "c018.ogg",
+      "durationSec": 9.288
+    },
+    {
+      "index": 19,
+      "text": "مقعد خشبي ينتظر تحت شجرة هادئة.",
+      "file": "c019.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 20,
+      "text": "أنت تجلس. الخشب دافئ بشكل لطيف على ظهرك.",
+      "file": "c020.ogg",
+      "durationSec": 10.128
+    },
+    {
+      "index": 21,
+      "text": "في الأعلى، تتحول السماء إلى اللون الخزامي والورد.",
+      "file": "c021.ogg",
+      "durationSec": 8.424
+    },
+    {
+      "index": 22,
+      "text": "تستقر الطيور. الحديقة تصمت.",
+      "file": "c022.ogg",
+      "durationSec": 7.824
+    },
+    {
+      "index": 23,
+      "text": "اشعر بالدفء يتلاشى بلطف من الحجر والخشب.",
+      "file": "c023.ogg",
+      "durationSec": 7.344
+    },
+    {
+      "index": 24,
+      "text": "اشعري ببرودة المساء المنعشة على وجهك.",
+      "file": "c024.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 25,
+      "text": "استنشق الرائحة والسكون.",
+      "file": "c025.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 26,
+      "text": "زفر اليوم الذي حملت فيه.",
+      "file": "c026.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 27,
+      "text": "فراشة تمر عبر الضوء الذهبي الأخير.",
+      "file": "c027.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 28,
+      "text": "لا شيء هنا عاجل. كل شيء كافي.",
+      "file": "c028.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 29,
+      "text": "الراحة في هذا الكفاية.",
+      "file": "c029.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 30,
+      "text": "دع بطنك ينعم في هواء الغسق.",
+      "file": "c030.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 31,
+      "text": "دع أنفاسك القادمة تكون الأهدأ خلال اليوم.",
+      "file": "c031.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 32,
+      "text": "قم بالسير في حلقة واحدة بطيئة من المسار قبل أن تنتهي.",
+      "file": "c032.ogg",
+      "durationSec": 9.288
+    },
+    {
+      "index": 33,
+      "text": "الحجارة الدافئة تبرد بالأقدام.",
+      "file": "c033.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 34,
+      "text": "التحوطات تطلق العطر المخزن في اليوم.",
+      "file": "c034.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 35,
+      "text": "أصبح للنسيم الآن لمسة مسائية - منعشة وحلوة تقريبًا.",
+      "file": "c035.ogg",
+      "durationSec": 10.08
+    },
+    {
+      "index": 36,
+      "text": "توقف عند البوابة دون أن تفتحها بعد.",
+      "file": "c036.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 37,
+      "text": "اشعر كيف استقر الهدوء في الكتفين.",
+      "file": "c037.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 38,
+      "text": "احمل صمت الحديقة مثل فانوس صغير إلى الداخل.",
+      "file": "c038.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 39,
+      "text": "الآن استرح في أنفاسك وحدك لبعض الوقت.",
+      "file": "c039.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 40,
+      "text": "Inhale slowly.",
+      "file": "c040.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 41,
+      "text": "الزفير ببطء.",
+      "file": "c041.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 42,
+      "text": "يستنشق.",
+      "file": "c042.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 43,
+      "text": "الزفير.",
+      "file": "c043.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 44,
+      "text": "اشعر بالدفء أينما كان الجسم دافئًا.",
+      "file": "c044.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 45,
+      "text": "اشعر بالبرودة أينما كان الهواء باردًا.",
+      "file": "c045.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 46,
+      "text": "يستنشق.",
+      "file": "c046.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 47,
+      "text": "Exhale.",
+      "file": "c047.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 48,
+      "text": "لا مكان للذهاب. لا شيء لإصلاحه.",
+      "file": "c048.ogg",
+      "durationSec": 8.448
+    },
+    {
+      "index": 49,
+      "text": "يستنشق.",
+      "file": "c049.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 50,
+      "text": "الزفير.",
+      "file": "c050.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 51,
+      "text": "استرح هنا لبضع أنفاس هادئة.",
+      "file": "c051.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 52,
+      "text": "اعلم أنه يمكنك العودة إلى هذا المكان في أي وقت.",
+      "file": "c052.ogg",
+      "durationSec": 8.184
+    },
+    {
+      "index": 53,
+      "text": "عندما تكون مستعدًا، قم بتعميق أنفاسك.",
+      "file": "c053.ogg",
+      "durationSec": 7.944
+    },
+    {
+      "index": 54,
+      "text": "تذبذب أصابع اليدين والقدمين.",
+      "file": "c054.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 55,
+      "text": "افتح عينيك بهدوء.",
+      "file": "c055.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 56,
+      "text": "Carry a little of this peace with you.",
+      "file": "c056.ogg",
+      "durationSec": 5.976
+    }
+  ]
+}

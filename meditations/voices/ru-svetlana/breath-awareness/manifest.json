@@ -1,0 +1,148 @@
+{
+  "id": "breath-awareness",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 149,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Примите устойчивую позу.",
+      "file": "c000.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 1,
+      "text": "Спина высокая, но не жесткая.",
+      "file": "c001.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 2,
+      "text": "Приведите внимание к дыханию таким, какое оно есть.",
+      "file": "c002.ogg",
+      "durationSec": 7.872
+    },
+    {
+      "index": 3,
+      "text": "Пока не меняйте его. Просто наблюдайте.",
+      "file": "c003.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 4,
+      "text": "Почувствуйте прохладу вдоха в ноздрях.",
+      "file": "c004.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 5,
+      "text": "Почувствуйте тепло выдоха.",
+      "file": "c005.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 6,
+      "text": "Или обратите внимание на подъем и опускание живота.",
+      "file": "c006.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 7,
+      "text": "Выберите одно место для остановки своего внимания.",
+      "file": "c007.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 8,
+      "text": "Когда ум блуждает, пожалуйста, вернитесь.",
+      "file": "c008.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 9,
+      "text": "Никакого осуждения. Просто вернись.",
+      "file": "c009.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 10,
+      "text": "Теперь, если вам кажется, что это легко, посчитайте мягкие циклы.",
+      "file": "c010.ogg",
+      "durationSec": 8.736
+    },
+    {
+      "index": 11,
+      "text": "Вдохните. Один.",
+      "file": "c011.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 12,
+      "text": "Выдохните. Один.",
+      "file": "c012.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 13,
+      "text": "Вдохните. Два.",
+      "file": "c013.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 14,
+      "text": "Выдохните. Два.",
+      "file": "c014.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 15,
+      "text": "Продолжайте до пяти, затем начните снова с одного.",
+      "file": "c015.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 16,
+      "text": "Если вы сбились со счета, начните с доброты заново.",
+      "file": "c016.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 17,
+      "text": "Возвращение — это практика.",
+      "file": "c017.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 18,
+      "text": "Пусть дыхание будет естественным. Никакого напряжения.",
+      "file": "c018.ogg",
+      "durationSec": 9.768
+    },
+    {
+      "index": 19,
+      "text": "Еще несколько циклов в тишине.",
+      "file": "c019.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 20,
+      "text": "Отпустите счет.",
+      "file": "c020.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 21,
+      "text": "Отдохните на мгновение в открытом осознании.",
+      "file": "c021.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 22,
+      "text": "Когда будете готовы, откройте глаза.",
+      "file": "c022.ogg",
+      "durationSec": 5.76
+    }
+  ]
+}

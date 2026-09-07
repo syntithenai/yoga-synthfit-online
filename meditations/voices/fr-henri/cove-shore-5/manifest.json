@@ -1,0 +1,352 @@
+{
+  "id": "cove-shore-5",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 330,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Accueillir.",
+      "file": "c000.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 1,
+      "text": "Prenez un siège confortable ou allongez-vous si vous vous sentez mieux.",
+      "file": "c001.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 2,
+      "text": "Laissez vos mains se reposer.",
+      "file": "c002.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 3,
+      "text": "Laissez vos yeux se fermer ou adoucissez votre regard.",
+      "file": "c003.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 4,
+      "text": "Remarquez le poids de votre corps.",
+      "file": "c004.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 5,
+      "text": "Inspirez lentement par le nez.",
+      "file": "c005.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 6,
+      "text": "Et une expiration plus longue et plus facile.",
+      "file": "c006.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 7,
+      "text": "Encore. Inspirez doucement.",
+      "file": "c007.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 8,
+      "text": "Expirez doucement.",
+      "file": "c008.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 9,
+      "text": "Si les pensées s’égarent, ce n’est pas grave. Revenez à la respiration.",
+      "file": "c009.ogg",
+      "durationSec": 9.504
+    },
+    {
+      "index": 10,
+      "text": "Imaginez-vous arriver dans une crique abritée.",
+      "file": "c010.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 11,
+      "text": "Les falaises se courbent autour de sable pâle et doux.",
+      "file": "c011.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 12,
+      "text": "La mer se déplace par vagues basses et patientes.",
+      "file": "c012.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 13,
+      "text": "Un doux soleil réchauffe le haut de vos épaules.",
+      "file": "c013.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 14,
+      "text": "Une brise salée rafraîchit vos lèvres et vos paupières.",
+      "file": "c014.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 15,
+      "text": "Sentez la fraîcheur de cet air remplir votre poitrine.",
+      "file": "c015.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 16,
+      "text": "Marchez jusqu'à la ligne de flottaison. Le sable mouillé épouse vos pieds.",
+      "file": "c016.ogg",
+      "durationSec": 9.168
+    },
+    {
+      "index": 17,
+      "text": "La mousse fraîche touche vos chevilles et glisse.",
+      "file": "c017.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 18,
+      "text": "The rhythm is simple. Arrive. Soften. Leave.",
+      "file": "c018.ogg",
+      "durationSec": 11.088
+    },
+    {
+      "index": 19,
+      "text": "Asseyez-vous là où le sable sec est chaud sous vous.",
+      "file": "c019.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 20,
+      "text": "Appuyez-vous sur vos mains. Ressentez la chaleur granuleuse.",
+      "file": "c020.ogg",
+      "durationSec": 8.16
+    },
+    {
+      "index": 21,
+      "text": "Écoutez le silence et la ruée de la crique.",
+      "file": "c021.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 22,
+      "text": "Sentez le sel, le soleil et la pierre propre.",
+      "file": "c022.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 23,
+      "text": "De la chaleur sur votre peau. De la fraîcheur à chaque inspiration.",
+      "file": "c023.ogg",
+      "durationSec": 8.664
+    },
+    {
+      "index": 24,
+      "text": "Au loin, la lumière scintille comme un rire silencieux.",
+      "file": "c024.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 25,
+      "text": "Vous n'avez pas besoin de le poursuivre. C'est déjà là.",
+      "file": "c025.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 26,
+      "text": "Une vague atteint plus loin, refroidit vos orteils, puis recule.",
+      "file": "c026.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 27,
+      "text": "Le sable chaud récupère vos pieds.",
+      "file": "c027.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 28,
+      "text": "Laissez votre respiration suivre les vagues – entrez lentement, expirez plus longtemps.",
+      "file": "c028.ogg",
+      "durationSec": 8.592
+    },
+    {
+      "index": 29,
+      "text": "La paix est la crique elle-même. Vous êtes à l'intérieur.",
+      "file": "c029.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 30,
+      "text": "Portez votre attention sur la chaleur entre vos omoplates.",
+      "file": "c030.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 31,
+      "text": "Et sur l’air frais et salé du bout du nez.",
+      "file": "c031.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 32,
+      "text": "Tracez la ligne de la falaise avec une douce imagination.",
+      "file": "c032.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 33,
+      "text": "Pierre réchauffée par jour. Ombre fraîche dans les plis.",
+      "file": "c033.ogg",
+      "durationSec": 7.536
+    },
+    {
+      "index": 34,
+      "text": "Un bassin de marée à proximité abrite un petit monde clair.",
+      "file": "c034.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 35,
+      "text": "Vous n’avez pas besoin de vous pencher. Savoir que c’est là suffit.",
+      "file": "c035.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 36,
+      "text": "Une autre vague. Chevilles fraîches. Sable chaud. Souffle doux.",
+      "file": "c036.ogg",
+      "durationSec": 11.928
+    },
+    {
+      "index": 37,
+      "text": "La crique continue d'offrir la même gentillesse simple.",
+      "file": "c037.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 38,
+      "text": "Recevez-le une fois de plus avant de partir.",
+      "file": "c038.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 39,
+      "text": "Maintenant, reposez-vous sur la respiration pendant un petit moment.",
+      "file": "c039.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 40,
+      "text": "Inspirez lentement.",
+      "file": "c040.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 41,
+      "text": "Expirez lentement.",
+      "file": "c041.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 42,
+      "text": "Inhaler.",
+      "file": "c042.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 43,
+      "text": "Exhaler.",
+      "file": "c043.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 44,
+      "text": "Ressentez la chaleur partout où le corps est chaud.",
+      "file": "c044.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 45,
+      "text": "Ressentez la fraîcheur partout où l'air est frais.",
+      "file": "c045.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 46,
+      "text": "Inhaler.",
+      "file": "c046.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 47,
+      "text": "Exhaler.",
+      "file": "c047.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 48,
+      "text": "Nulle part où aller. Rien à réparer.",
+      "file": "c048.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 49,
+      "text": "Inhaler.",
+      "file": "c049.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 50,
+      "text": "Exhaler.",
+      "file": "c050.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 51,
+      "text": "Reposez-vous ici pour quelques respirations tranquilles.",
+      "file": "c051.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 52,
+      "text": "Sachez que vous pouvez revenir à cet endroit à tout moment.",
+      "file": "c052.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 53,
+      "text": "Lorsque vous êtes prêt, approfondissez la respiration.",
+      "file": "c053.ogg",
+      "durationSec": 6.576
+    },
+    {
+      "index": 54,
+      "text": "Remuez les doigts et les orteils.",
+      "file": "c054.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 55,
+      "text": "Ouvrez doucement les yeux.",
+      "file": "c055.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 56,
+      "text": "Emportez un peu de cette paix avec vous.",
+      "file": "c056.ogg",
+      "durationSec": 4.68
+    }
+  ]
+}

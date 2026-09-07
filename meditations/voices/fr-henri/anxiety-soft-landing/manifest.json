@@ -1,0 +1,154 @@
+{
+  "id": "anxiety-soft-landing",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 141,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Si vous vous sentez activé ou inquiet, vous êtes le bienvenu ici.",
+      "file": "c000.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 1,
+      "text": "Vous n’avez pas encore besoin de vous sentir calme.",
+      "file": "c001.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 2,
+      "text": "Suivez simplement.",
+      "file": "c002.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 3,
+      "text": "Plantez les deux pieds sur le sol si vous le pouvez.",
+      "file": "c003.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 4,
+      "text": "Ressentez le contact. Talons. Boules des pieds. Orteils.",
+      "file": "c004.ogg",
+      "durationSec": 11.376
+    },
+    {
+      "index": 5,
+      "text": "Appuyez doucement. Remarquez le recul du sol.",
+      "file": "c005.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 6,
+      "text": "Nommez cinq choses que vous pouvez voir.",
+      "file": "c006.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 7,
+      "text": "Tranquillement. Pas de précipitation.",
+      "file": "c007.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 8,
+      "text": "Nommez quatre choses que vous pouvez toucher.",
+      "file": "c008.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 9,
+      "text": "Vêtements. Chaise. Air sur la peau.",
+      "file": "c009.ogg",
+      "durationSec": 7.992
+    },
+    {
+      "index": 10,
+      "text": "Nommez trois sons, proches ou lointains.",
+      "file": "c010.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 11,
+      "text": "Nommez deux parfums ou remarquez simplement l’air.",
+      "file": "c011.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 12,
+      "text": "Nommez un goût ou une sensation en bouche.",
+      "file": "c012.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 13,
+      "text": "Vous êtes ici. Dans ce corps. Dans cette pièce.",
+      "file": "c013.ogg",
+      "durationSec": 9.24
+    },
+    {
+      "index": 14,
+      "text": "Maintenant, inspirez pendant quatre.",
+      "file": "c014.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 15,
+      "text": "Tenez doucement pendant deux.",
+      "file": "c015.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 16,
+      "text": "Sortie pour six heures.",
+      "file": "c016.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 17,
+      "text": "Encore une fois si tu veux.",
+      "file": "c017.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 18,
+      "text": "Placez une main sur la poitrine ou le ventre.",
+      "file": "c018.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 19,
+      "text": "Sentez le mouvement sous votre main.",
+      "file": "c019.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 20,
+      "text": "L'anxiété peut encore être présente. C'est permis.",
+      "file": "c020.ogg",
+      "durationSec": 7.848
+    },
+    {
+      "index": 21,
+      "text": "Vous avez donné au système nerveux un atterrissage plus doux.",
+      "file": "c021.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 22,
+      "text": "Respirez encore une fois.",
+      "file": "c022.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 23,
+      "text": "Lorsque vous êtes prêt, ouvrez les yeux et continuez votre journée.",
+      "file": "c023.ogg",
+      "durationSec": 7.152
+    }
+  ]
+}

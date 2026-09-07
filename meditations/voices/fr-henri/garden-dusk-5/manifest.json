@@ -1,0 +1,352 @@
+{
+  "id": "garden-dusk-5",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 309,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Accueillir.",
+      "file": "c000.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 1,
+      "text": "Prenez un siège confortable ou allongez-vous si vous vous sentez mieux.",
+      "file": "c001.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 2,
+      "text": "Laissez vos mains se reposer.",
+      "file": "c002.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 3,
+      "text": "Laissez vos yeux se fermer ou adoucissez votre regard.",
+      "file": "c003.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 4,
+      "text": "Remarquez le poids de votre corps.",
+      "file": "c004.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 5,
+      "text": "Inspirez lentement par le nez.",
+      "file": "c005.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 6,
+      "text": "Et une expiration plus longue et plus facile.",
+      "file": "c006.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 7,
+      "text": "Encore. Inspirez doucement.",
+      "file": "c007.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 8,
+      "text": "Expirez doucement.",
+      "file": "c008.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 9,
+      "text": "Si les pensées s’égarent, ce n’est pas grave. Revenez à la respiration.",
+      "file": "c009.ogg",
+      "durationSec": 9.504
+    },
+    {
+      "index": 10,
+      "text": "Imaginez un jardin clos et tranquille au doux crépuscule.",
+      "file": "c010.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 11,
+      "text": "Les chemins de pierre retiennent la dernière chaleur de la journée.",
+      "file": "c011.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 12,
+      "text": "Ressentez cette douce chaleur à travers la plante de vos pieds.",
+      "file": "c012.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 13,
+      "text": "La lavande et les roses du soir dégagent un parfum apaisant.",
+      "file": "c013.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 14,
+      "text": "Une brise fraîche glisse sur le mur et vous rafraîchit le cou.",
+      "file": "c014.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 15,
+      "text": "L'air est frais après un après-midi chaud.",
+      "file": "c015.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 16,
+      "text": "Vous marchez lentement entre des haies taillées douces comme le souffle.",
+      "file": "c016.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 17,
+      "text": "Vos doigts effleurent les feuilles qui retiennent encore le soleil.",
+      "file": "c017.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 18,
+      "text": "Chaud. Lisse. Vivant.",
+      "file": "c018.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 19,
+      "text": "Un banc en bois attend sous un arbre tranquille.",
+      "file": "c019.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 20,
+      "text": "Vous êtes assis. Le bois est agréablement chaud contre votre dos.",
+      "file": "c020.ogg",
+      "durationSec": 8.424
+    },
+    {
+      "index": 21,
+      "text": "Au-dessus, le ciel devient lavande et rose.",
+      "file": "c021.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 22,
+      "text": "Les oiseaux s'installent. Le jardin devient silencieux.",
+      "file": "c022.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 23,
+      "text": "Sentez la chaleur s'estomper doucement de la pierre et du bois.",
+      "file": "c023.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 24,
+      "text": "Sentez la fraîcheur rafraîchissante du soir sur votre visage.",
+      "file": "c024.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 25,
+      "text": "Inspirez le parfum et le calme.",
+      "file": "c025.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 26,
+      "text": "Expirez le jour où vous êtes arrivé.",
+      "file": "c026.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 27,
+      "text": "Un papillon traverse la dernière lumière dorée.",
+      "file": "c027.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 28,
+      "text": "Rien ici n’est urgent. Tout suffit.",
+      "file": "c028.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 29,
+      "text": "Reposez-vous dans cette suffisance.",
+      "file": "c029.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 30,
+      "text": "Laissez votre ventre se ramollir dans l’air du crépuscule.",
+      "file": "c030.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 31,
+      "text": "Laissez votre prochaine respiration être la plus calme de la journée.",
+      "file": "c031.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 32,
+      "text": "Parcourez une boucle lente du chemin avant de terminer.",
+      "file": "c032.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 33,
+      "text": "Des pierres chaudes refroidissant sous les pieds.",
+      "file": "c033.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 34,
+      "text": "Des haies libérant le parfum emmagasiné de la journée.",
+      "file": "c034.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 35,
+      "text": "La brise a maintenant une touche du soir : fraîche, presque douce.",
+      "file": "c035.ogg",
+      "durationSec": 7.896
+    },
+    {
+      "index": 36,
+      "text": "Faites une pause au portail sans l’ouvrir encore.",
+      "file": "c036.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 37,
+      "text": "Sentez à quel point le calme s'est installé dans vos épaules.",
+      "file": "c037.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 38,
+      "text": "Portez le silence du jardin comme une petite lanterne vers l’intérieur.",
+      "file": "c038.ogg",
+      "durationSec": 7.464
+    },
+    {
+      "index": 39,
+      "text": "Maintenant, reposez-vous sur la respiration pendant un petit moment.",
+      "file": "c039.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 40,
+      "text": "Inspirez lentement.",
+      "file": "c040.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 41,
+      "text": "Expirez lentement.",
+      "file": "c041.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 42,
+      "text": "Inhaler.",
+      "file": "c042.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 43,
+      "text": "Exhaler.",
+      "file": "c043.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 44,
+      "text": "Ressentez la chaleur partout où le corps est chaud.",
+      "file": "c044.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 45,
+      "text": "Feel coolness wherever the air is cool.",
+      "file": "c045.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 46,
+      "text": "Inhaler.",
+      "file": "c046.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 47,
+      "text": "Exhaler.",
+      "file": "c047.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 48,
+      "text": "Nulle part où aller. Rien à réparer.",
+      "file": "c048.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 49,
+      "text": "Inhaler.",
+      "file": "c049.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 50,
+      "text": "Exhaler.",
+      "file": "c050.ogg",
+      "durationSec": 2.664
+    },
+    {
+      "index": 51,
+      "text": "Reposez-vous ici pour quelques respirations tranquilles.",
+      "file": "c051.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 52,
+      "text": "Sachez que vous pouvez revenir à cet endroit à tout moment.",
+      "file": "c052.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 53,
+      "text": "When you are ready, deepen the breath.",
+      "file": "c053.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 54,
+      "text": "Remuez les doigts et les orteils.",
+      "file": "c054.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 55,
+      "text": "Ouvrez doucement les yeux.",
+      "file": "c055.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 56,
+      "text": "Emportez un peu de cette paix avec vous.",
+      "file": "c056.ogg",
+      "durationSec": 4.68
+    }
+  ]
+}

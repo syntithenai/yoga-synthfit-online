@@ -1,0 +1,172 @@
+{
+  "id": "loving-kindness",
+  "voiceId": "de-conrad",
+  "edgeVoice": "de-DE-ConradNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 144,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Sitzen Sie bequem. Machen Sie das Gesicht weicher.",
+      "file": "c000.ogg",
+      "durationSec": 7.8
+    },
+    {
+      "index": 1,
+      "text": "Legen Sie eine Hand auf das Herz, wenn das hilft.",
+      "file": "c001.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 2,
+      "text": "Wir werden einfache Sätze der Freundlichkeit anbieten.",
+      "file": "c002.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 3,
+      "text": "Erstens: Dir selbst gegenüber.",
+      "file": "c003.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 4,
+      "text": "Wiederholen Sie es leise nach mir oder hören Sie einfach zu.",
+      "file": "c004.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 5,
+      "text": "Möge ich in Sicherheit sein.",
+      "file": "c005.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 6,
+      "text": "Möge es mir gut gehen.",
+      "file": "c006.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 7,
+      "text": "Möge ich mich wohlfühlen.",
+      "file": "c007.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 8,
+      "text": "Sagen Sie sie noch einmal, langsam.",
+      "file": "c008.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 9,
+      "text": "Möge ich in Sicherheit sein.",
+      "file": "c009.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 10,
+      "text": "Möge es mir gut gehen.",
+      "file": "c010.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 11,
+      "text": "Möge ich mich wohlfühlen.",
+      "file": "c011.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 12,
+      "text": "Wenn sich das schwer anfühlt, ist das in Ordnung. Bleiben Sie beim Wunsch selbst.",
+      "file": "c012.ogg",
+      "durationSec": 10.464
+    },
+    {
+      "index": 13,
+      "text": "Denken Sie jetzt an jemanden, der leicht zu pflegen ist.",
+      "file": "c013.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 14,
+      "text": "Ein Freund, ein Haustier, ein freundlicher Fremder.",
+      "file": "c014.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 15,
+      "text": "Stellen Sie sie sich kurz vor.",
+      "file": "c015.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 16,
+      "text": "Mögen Sie in Sicherheit sein.",
+      "file": "c016.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 17,
+      "text": "Möge es dir gut gehen.",
+      "file": "c017.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 18,
+      "text": "Mögen Sie sich wohlfühlen.",
+      "file": "c018.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 19,
+      "text": "Noch einmal.",
+      "file": "c019.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 20,
+      "text": "Mögen Sie in Sicherheit sein.",
+      "file": "c020.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 21,
+      "text": "Möge es dir gut gehen.",
+      "file": "c021.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 22,
+      "text": "Mögen Sie sich wohlfühlen.",
+      "file": "c022.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 23,
+      "text": "Spüren Sie die entstehende Wärme. Oder ruhen Sie sich einfach in den Worten aus.",
+      "file": "c023.ogg",
+      "durationSec": 10.248
+    },
+    {
+      "index": 24,
+      "text": "Kehren Sie zu Ihrem eigenen Atem zurück.",
+      "file": "c024.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 25,
+      "text": "Vielen Dank fürs Üben.",
+      "file": "c025.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 26,
+      "text": "Öffne sanft deine Augen.",
+      "file": "c026.ogg",
+      "durationSec": 4.08
+    }
+  ]
+}

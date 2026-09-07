@@ -1,0 +1,364 @@
+{
+  "id": "lakeside-dawn-5",
+  "voiceId": "hi-madhur",
+  "edgeVoice": "hi-IN-MadhurNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 442,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "स्वागत।",
+      "file": "c000.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 1,
+      "text": "Take a comfortable seat, or lie down if that feels better.",
+      "file": "c001.ogg",
+      "durationSec": 8.736
+    },
+    {
+      "index": 2,
+      "text": "अपने हाथों को आराम दें.",
+      "file": "c002.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 3,
+      "text": "अपनी आँखों को बंद होने दें, या अपनी निगाहें नरम कर लें।",
+      "file": "c003.ogg",
+      "durationSec": 9.048
+    },
+    {
+      "index": 4,
+      "text": "अपने शरीर के भार पर ध्यान दें।",
+      "file": "c004.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 5,
+      "text": "नाक से धीमी गति से सांस लें।",
+      "file": "c005.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 6,
+      "text": "और लंबी, आसान साँस छोड़ना।",
+      "file": "c006.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 7,
+      "text": "दोबारा। नरम श्वास.",
+      "file": "c007.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 8,
+      "text": "धीरे से साँस छोड़ें.",
+      "file": "c008.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 9,
+      "text": "यदि विचार भटकते हैं तो यह ठीक है। श्वास पर लौटें।",
+      "file": "c009.ogg",
+      "durationSec": 11.328
+    },
+    {
+      "index": 10,
+      "text": "कल्पना कीजिए कि आप भोर के समय शांत झील के किनारे पर हैं।",
+      "file": "c010.ogg",
+      "durationSec": 10.272
+    },
+    {
+      "index": 11,
+      "text": "The water holds a pale silver sky.",
+      "file": "c011.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 12,
+      "text": "ठंडी हवा आपके गालों को स्वच्छ ताजगी से भर देती है।",
+      "file": "c012.ogg",
+      "durationSec": 9.096
+    },
+    {
+      "index": 13,
+      "text": "सूरज की एक नरम रिबन आपके कंधों को गर्म करना शुरू कर देती है।",
+      "file": "c013.ogg",
+      "durationSec": 10.464
+    },
+    {
+      "index": 14,
+      "text": "महसूस करें कि गर्मी धीरे-धीरे आपकी पीठ पर फैल रही है।",
+      "file": "c014.ogg",
+      "durationSec": 9.816
+    },
+    {
+      "index": 15,
+      "text": "तुम करीब आओ. पैरों के नीचे नरम रेत देती है।",
+      "file": "c015.ogg",
+      "durationSec": 9.576
+    },
+    {
+      "index": 16,
+      "text": "अपनी उंगलियों को पानी में डुबोएं। ठंडा। स्पष्ट।",
+      "file": "c016.ogg",
+      "durationSec": 10.488
+    },
+    {
+      "index": 17,
+      "text": "तरंगें बाहर की ओर बढ़ती हैं और गायब हो जाती हैं।",
+      "file": "c017.ogg",
+      "durationSec": 9.12
+    },
+    {
+      "index": 18,
+      "text": "हवा में पानी के पौधों और सुबह की हल्की गंध आती है।",
+      "file": "c018.ogg",
+      "durationSec": 9.096
+    },
+    {
+      "index": 19,
+      "text": "सुनना। लगभग कुछ भी नहीं है। एक दूर का पक्षी. आपकी अपनी सांस.",
+      "file": "c019.ogg",
+      "durationSec": 14.352
+    },
+    {
+      "index": 20,
+      "text": "उभरती हुई रोशनी से पर्याप्त गर्म चिकने पत्थर पर बैठें।",
+      "file": "c020.ogg",
+      "durationSec": 8.712
+    },
+    {
+      "index": 21,
+      "text": "अपने नीचे पत्थर की शांत गर्मी महसूस करें।",
+      "file": "c021.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 22,
+      "text": "अपने फेफड़ों में प्रवेश करने वाली हवा की ताजगी को महसूस करें।",
+      "file": "c022.ogg",
+      "durationSec": 9.192
+    },
+    {
+      "index": 23,
+      "text": "झील नरम गुलाबी और सुनहरे रंग का दर्पण है।",
+      "file": "c023.ogg",
+      "durationSec": 8.04
+    },
+    {
+      "index": 24,
+      "text": "आप प्रकाश को धीमी गति से सांस लेने की तरह सतह पर चलते हुए देखते हैं।",
+      "file": "c024.ogg",
+      "durationSec": 11.64
+    },
+    {
+      "index": 25,
+      "text": "एक मछली उठती है, छल्ले चौड़े करती है, फिर दर्पण लौट आता है।",
+      "file": "c025.ogg",
+      "durationSec": 10.944
+    },
+    {
+      "index": 26,
+      "text": "आपकी बंद पलकों पर गर्माहट।",
+      "file": "c026.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 27,
+      "text": "आपके हाथों के पिछले हिस्से पर ठंडक।",
+      "file": "c027.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 28,
+      "text": "कहीं दूर, एक नाव की रस्सी लकड़ी से टकराती है।",
+      "file": "c028.ogg",
+      "durationSec": 8.544
+    },
+    {
+      "index": 29,
+      "text": "फिर मौन, व्यापक और दयालु।",
+      "file": "c029.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 30,
+      "text": "ठंडी सुबह की साँस लें। खुले पानी में सांस छोड़ें।",
+      "file": "c030.ogg",
+      "durationSec": 9.6
+    },
+    {
+      "index": 31,
+      "text": "शांति उसी तरह सुलझती है जैसे पानी से धुंध उठती है - धीरे से, पूरी तरह से।",
+      "file": "c031.ogg",
+      "durationSec": 12.408
+    },
+    {
+      "index": 32,
+      "text": "आपको इस शांति में जगह लेने की अनुमति है।",
+      "file": "c032.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 33,
+      "text": "भोर का स्वाद चखती एक और सांस।",
+      "file": "c033.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 34,
+      "text": "Look again at the silver path of light on the water.",
+      "file": "c034.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 35,
+      "text": "दूर किनारे की ओर कोमल आँखों से इसका अनुसरण करें।",
+      "file": "c035.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 36,
+      "text": "वहां पर पेड़ दूरी और सुबह की धुंध के साथ नीले हैं।",
+      "file": "c036.ogg",
+      "durationSec": 9.096
+    },
+    {
+      "index": 37,
+      "text": "जैसे-जैसे सूरज चढ़ता है, आपके कंधों पर थोड़ी गर्माहट बढ़ती है।",
+      "file": "c037.ogg",
+      "durationSec": 10.92
+    },
+    {
+      "index": 38,
+      "text": "हवा ताज़ा रहती है - झील से जन्मी और साफ़।",
+      "file": "c038.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 39,
+      "text": "Let that freshness rinse the mind the way light rinses the surface.",
+      "file": "c039.ogg",
+      "durationSec": 8.856
+    },
+    {
+      "index": 40,
+      "text": "गर्म और ठंडी हवा की एक साथ तीन और सांसें लेने के लिए बैठें।",
+      "file": "c040.ogg",
+      "durationSec": 10.272
+    },
+    {
+      "index": 41,
+      "text": "अब थोड़ी देर के लिए अकेले सांसों पर आराम करें।",
+      "file": "c041.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 42,
+      "text": "धीरे-धीरे श्वास लें।",
+      "file": "c042.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 43,
+      "text": "Exhale slowly.",
+      "file": "c043.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 44,
+      "text": "श्वास लें.",
+      "file": "c044.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 45,
+      "text": "साँस छोड़ें।",
+      "file": "c045.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 46,
+      "text": "Feel warmth wherever the body is warm.",
+      "file": "c046.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 47,
+      "text": "जहां भी हवा ठंडी हो वहां ठंडक महसूस करें।",
+      "file": "c047.ogg",
+      "durationSec": 7.464
+    },
+    {
+      "index": 48,
+      "text": "श्वास लें.",
+      "file": "c048.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 49,
+      "text": "साँस छोड़ें।",
+      "file": "c049.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 50,
+      "text": "कहीं भी नहीं जाना। ठीक करने के लिए कुछ भी नहीं.",
+      "file": "c050.ogg",
+      "durationSec": 9.288
+    },
+    {
+      "index": 51,
+      "text": "श्वास लें.",
+      "file": "c051.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 52,
+      "text": "साँस छोड़ें।",
+      "file": "c052.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 53,
+      "text": "कुछ शांत सांसों के लिए यहां आराम करें।",
+      "file": "c053.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 54,
+      "text": "जान लें कि आप इस जगह पर कभी भी लौट सकते हैं।",
+      "file": "c054.ogg",
+      "durationSec": 8.976
+    },
+    {
+      "index": 55,
+      "text": "जब आप तैयार हों तो सांस को गहरा करें।",
+      "file": "c055.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 56,
+      "text": "उँगलियाँ और पैर की उँगलियाँ हिलाएँ।",
+      "file": "c056.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 57,
+      "text": "अपनी आँखें धीरे से खोलें.",
+      "file": "c057.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 58,
+      "text": "इस शांति का थोड़ा हिस्सा अपने साथ रखें।",
+      "file": "c058.ogg",
+      "durationSec": 7.008
+    }
+  ]
+}

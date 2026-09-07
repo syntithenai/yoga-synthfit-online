@@ -1,0 +1,154 @@
+{
+  "id": "evening-wind-down",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 148,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Эта практика предназначена для конца дня.",
+      "file": "c000.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 1,
+      "text": "Приглушите свет, если можете.",
+      "file": "c001.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 2,
+      "text": "Лягте или откиньтесь с поддержкой.",
+      "file": "c002.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 3,
+      "text": "Пусть день закончится, даже если ум все еще перечисляет задачи.",
+      "file": "c003.ogg",
+      "durationSec": 8.232
+    },
+    {
+      "index": 4,
+      "text": "Вы можете пока их отложить.",
+      "file": "c004.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 5,
+      "text": "Inhale softly for a count of four.",
+      "file": "c005.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 6,
+      "text": "Выдохните на счет шесть.",
+      "file": "c006.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 7,
+      "text": "Снова. Четыре входа. Шесть выхода.",
+      "file": "c007.ogg",
+      "durationSec": 9.864
+    },
+    {
+      "index": 8,
+      "text": "Более длинные выдохи сообщают телу, что отдых безопасен.",
+      "file": "c008.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 9,
+      "text": "Сканируйте лицо на наличие остатков напряжения.",
+      "file": "c009.ogg",
+      "durationSec": 7.248
+    },
+    {
+      "index": 10,
+      "text": "Смягчите бровь. Смягчите челюсть.",
+      "file": "c010.ogg",
+      "durationSec": 7.8
+    },
+    {
+      "index": 11,
+      "text": "Опустите плечи от ушей.",
+      "file": "c011.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 12,
+      "text": "Представьте себе, как день оседает, как пыль после ветерка.",
+      "file": "c012.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 13,
+      "text": "Что случилось, то случилось.",
+      "file": "c013.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 14,
+      "text": "То, что осталось, может подождать до утра.",
+      "file": "c014.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 15,
+      "text": "Почувствуйте, как матрас или пол удерживают вас.",
+      "file": "c015.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 16,
+      "text": "Дышите тише. Тело тяжелее.",
+      "file": "c016.ogg",
+      "durationSec": 7.632
+    },
+    {
+      "index": 17,
+      "text": "Если придет сон, позвольте ему.",
+      "file": "c017.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 18,
+      "text": "Если нет, все равно оставайтесь в этой мягкости.",
+      "file": "c018.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 19,
+      "text": "Еще три медленных вдоха.",
+      "file": "c019.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 20,
+      "text": "В. Вне.",
+      "file": "c020.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 21,
+      "text": "В. Вне.",
+      "file": "c021.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 22,
+      "text": "В. Вне.",
+      "file": "c022.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 23,
+      "text": "Спокойной ночи дню. Мир ночи.",
+      "file": "c023.ogg",
+      "durationSec": 7.368
+    }
+  ]
+}

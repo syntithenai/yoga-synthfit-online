@@ -1,0 +1,154 @@
+{
+  "id": "evening-wind-down",
+  "voiceId": "fr-denise",
+  "edgeVoice": "fr-FR-DeniseNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 140,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Cette pratique est pour la fin de la journée.",
+      "file": "c000.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 1,
+      "text": "Baissez les lumières si vous le pouvez.",
+      "file": "c001.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 2,
+      "text": "Allongez-vous ou inclinez-vous avec un soutien.",
+      "file": "c002.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 3,
+      "text": "Que la journée soit terminée, même si l'esprit énumère encore les tâches.",
+      "file": "c003.ogg",
+      "durationSec": 8.304
+    },
+    {
+      "index": 4,
+      "text": "Vous pouvez les déposer pour l'instant.",
+      "file": "c004.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 5,
+      "text": "Inspirez doucement en comptant jusqu’à quatre.",
+      "file": "c005.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 6,
+      "text": "Expirez en comptant jusqu’à six.",
+      "file": "c006.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 7,
+      "text": "Encore. Quatre entrées. Six sorties.",
+      "file": "c007.ogg",
+      "durationSec": 8.568
+    },
+    {
+      "index": 8,
+      "text": "Des expirations plus longues indiquent au corps qu'il peut se reposer en toute sécurité.",
+      "file": "c008.ogg",
+      "durationSec": 8.784
+    },
+    {
+      "index": 9,
+      "text": "Recherchez les tensions restantes sur le visage.",
+      "file": "c009.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 10,
+      "text": "Adoucit le sourcil. Adoucit la mâchoire.",
+      "file": "c010.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 11,
+      "text": "Éloignez les épaules des oreilles.",
+      "file": "c011.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 12,
+      "text": "Imaginez la journée se déposer comme de la poussière après une brise.",
+      "file": "c012.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 13,
+      "text": "Ce qui est arrivé est arrivé.",
+      "file": "c013.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 14,
+      "text": "Ce qui reste peut attendre jusqu'au matin.",
+      "file": "c014.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 15,
+      "text": "Sentez le matelas ou le sol vous retenir.",
+      "file": "c015.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 16,
+      "text": "Respirez plus calmement. Corps plus lourd.",
+      "file": "c016.ogg",
+      "durationSec": 6.96
+    },
+    {
+      "index": 17,
+      "text": "Si le sommeil vient, laissez-le.",
+      "file": "c017.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 18,
+      "text": "Sinon, reposez-vous quand même dans cette douceur.",
+      "file": "c018.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 19,
+      "text": "Trois autres respirations lentes.",
+      "file": "c019.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 20,
+      "text": "In. Out.",
+      "file": "c020.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 21,
+      "text": "Dans. Dehors.",
+      "file": "c021.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 22,
+      "text": "Dans. Dehors.",
+      "file": "c022.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 23,
+      "text": "Bonne nuit au jour. Paix à la nuit.",
+      "file": "c023.ogg",
+      "durationSec": 6.408
+    }
+  ]
+}

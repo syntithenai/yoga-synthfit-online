@@ -1,0 +1,352 @@
+{
+  "id": "garden-dusk-5",
+  "voiceId": "ja-keita",
+  "edgeVoice": "ja-JP-KeitaNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 358,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "いらっしゃいませ。",
+      "file": "c000.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 1,
+      "text": "快適な座席に座るか、気分が良い場合は横になってください。",
+      "file": "c001.ogg",
+      "durationSec": 8.76
+    },
+    {
+      "index": 2,
+      "text": "手を休めましょう。",
+      "file": "c002.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 3,
+      "text": "目を閉じるか、視線を和らげてください。",
+      "file": "c003.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 4,
+      "text": "身体が支えられている重さに注目してください。",
+      "file": "c004.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 5,
+      "text": "鼻からゆっくりと息を吸います。",
+      "file": "c005.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 6,
+      "text": "そして長く楽に息を吐くことができます。",
+      "file": "c006.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 7,
+      "text": "また。ソフトに吸い込みます。",
+      "file": "c007.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 8,
+      "text": "ゆっくりと息を吐きます。",
+      "file": "c008.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 9,
+      "text": "考えがさまよっても、それは問題ありません。呼吸に戻ります。",
+      "file": "c009.ogg",
+      "durationSec": 10.344
+    },
+    {
+      "index": 10,
+      "text": "柔らかな夕暮れ時の静かな壁に囲まれた庭園を想像してみてください。",
+      "file": "c010.ogg",
+      "durationSec": 9.408
+    },
+    {
+      "index": 11,
+      "text": "石畳の道には一日の最後の暖かさが保たれています。",
+      "file": "c011.ogg",
+      "durationSec": 8.616
+    },
+    {
+      "index": 12,
+      "text": "優しい温もりを足裏から感じてください。",
+      "file": "c012.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 13,
+      "text": "ラベンダーとイブニングローズが穏やかな香りを放ちます。",
+      "file": "c013.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 14,
+      "text": "涼しい風が壁をすり抜けて首元を冷やします。",
+      "file": "c014.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 15,
+      "text": "暖かい午後の後は空気が新鮮です。",
+      "file": "c015.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 16,
+      "text": "息のように柔らかく刈り込まれた生垣の間をゆっくりと歩きます。",
+      "file": "c016.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 17,
+      "text": "あなたの指は、まだ太陽を保持している葉をブラシします。",
+      "file": "c017.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 18,
+      "text": "暖かい。スムーズ。生きている。",
+      "file": "c018.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 19,
+      "text": "静かな木の下で木のベンチが待っています。",
+      "file": "c019.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 20,
+      "text": "あなたは座ります。背中に木の温もりが心地よく感じられます。",
+      "file": "c020.ogg",
+      "durationSec": 9.864
+    },
+    {
+      "index": 21,
+      "text": "上空はラベンダー色とバラ色に変わります。",
+      "file": "c021.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 22,
+      "text": "鳥が住み着く。庭は静寂に包まれます。",
+      "file": "c022.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 23,
+      "text": "石と木から優しく伝わる温もりを感じてください。",
+      "file": "c023.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 24,
+      "text": "夕方の爽やかな涼しさを顔に感じてください。",
+      "file": "c024.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 25,
+      "text": "香りと静けさを吸い込みます。",
+      "file": "c025.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 26,
+      "text": "持ち込んだその日は息を吐きます。",
+      "file": "c026.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 27,
+      "text": "蛾が最後の金色の光を通過します。",
+      "file": "c027.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 28,
+      "text": "ここには緊急なものは何もありません。すべてが十分です。",
+      "file": "c028.ogg",
+      "durationSec": 9.216
+    },
+    {
+      "index": 29,
+      "text": "それで十分に休んでください。",
+      "file": "c029.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 30,
+      "text": "夕暮れの空気にお腹をなじませましょう。",
+      "file": "c030.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 31,
+      "text": "次の呼吸は一日の中で最も静かな呼吸にしましょう。",
+      "file": "c031.ogg",
+      "durationSec": 8.496
+    },
+    {
+      "index": 32,
+      "text": "終了する前に、道をゆっくりと 1 周してください。",
+      "file": "c032.ogg",
+      "durationSec": 7.536
+    },
+    {
+      "index": 33,
+      "text": "足元で冷える温かい石。",
+      "file": "c033.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 34,
+      "text": "生け垣からその日蓄えられた香水が放出されます。",
+      "file": "c034.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 35,
+      "text": "風は今、夕方のエッジを持っています - 新鮮で、ほとんど甘いです。",
+      "file": "c035.ogg",
+      "durationSec": 10.92
+    },
+    {
+      "index": 36,
+      "text": "まだ門を開けずに門のところで立ち止まってください。",
+      "file": "c036.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 37,
+      "text": "肩に落ち着きが戻ってきたのを感じてください。",
+      "file": "c037.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 38,
+      "text": "庭の静寂を小さなランタンのように内側に運びます。",
+      "file": "c038.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 39,
+      "text": "それでは、少しの間、一人で呼吸の中で休んでください。",
+      "file": "c039.ogg",
+      "durationSec": 9.024
+    },
+    {
+      "index": 40,
+      "text": "ゆっくりと吸い込みます。",
+      "file": "c040.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 41,
+      "text": "ゆっくりと息を吐きます。",
+      "file": "c041.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 42,
+      "text": "吸い込む。",
+      "file": "c042.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 43,
+      "text": "息を吐きます。",
+      "file": "c043.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 44,
+      "text": "体が温かいところはどこでも温かさを感じます。",
+      "file": "c044.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 45,
+      "text": "空気が冷たければどこでも涼しさを感じます。",
+      "file": "c045.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 46,
+      "text": "吸い込む。",
+      "file": "c046.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 47,
+      "text": "息を吐きます。",
+      "file": "c047.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 48,
+      "text": "どこにも行くところがない。修正するものは何もありません。",
+      "file": "c048.ogg",
+      "durationSec": 8.928
+    },
+    {
+      "index": 49,
+      "text": "吸い込む。",
+      "file": "c049.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 50,
+      "text": "息を吐きます。",
+      "file": "c050.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 51,
+      "text": "ここで数回静かに呼吸してください。",
+      "file": "c051.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 52,
+      "text": "いつでもこの場所に戻れることを知っておいてください。",
+      "file": "c052.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 53,
+      "text": "準備ができたら、呼吸を深めてください。",
+      "file": "c053.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 54,
+      "text": "指や足の指を小刻みに動かします。",
+      "file": "c054.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 55,
+      "text": "そっと目を開けてください。",
+      "file": "c055.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 56,
+      "text": "この平和を少しでも持ち歩きましょう。",
+      "file": "c056.ogg",
+      "durationSec": 5.568
+    }
+  ]
+}

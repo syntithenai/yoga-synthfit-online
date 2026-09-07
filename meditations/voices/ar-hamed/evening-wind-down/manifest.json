@@ -1,0 +1,154 @@
+{
+  "id": "evening-wind-down",
+  "voiceId": "ar-hamed",
+  "edgeVoice": "ar-SA-HamedNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 153,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "هذه الممارسة لنهاية اليوم.",
+      "file": "c000.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 1,
+      "text": "Dim the lights if you can.",
+      "file": "c001.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 2,
+      "text": "الاستلقاء أو الاستلقاء مع الدعم.",
+      "file": "c002.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 3,
+      "text": "دع اليوم ينتهي، حتى لو كان العقل لا يزال يسرد المهام.",
+      "file": "c003.ogg",
+      "durationSec": 9.264
+    },
+    {
+      "index": 4,
+      "text": "يمكنك وضعها في الوقت الراهن.",
+      "file": "c004.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 5,
+      "text": "يستنشق بهدوء مع العد لأربعة.",
+      "file": "c005.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 6,
+      "text": "الزفير مع العد ستة.",
+      "file": "c006.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 7,
+      "text": "مرة أخرى. أربعة في. ستة خارج.",
+      "file": "c007.ogg",
+      "durationSec": 9.744
+    },
+    {
+      "index": 8,
+      "text": "الزفير الأطول يخبر الجسم أن الراحة آمنة.",
+      "file": "c008.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 9,
+      "text": "البحث عن التوتر المتبقي في الوجه.",
+      "file": "c009.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 10,
+      "text": "تنعيم الحاجب. تنعيم الفك.",
+      "file": "c010.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 11,
+      "text": "إسقاط الكتفين بعيدا عن الأذنين.",
+      "file": "c011.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 12,
+      "text": "تخيل اليوم الذي يستقر مثل الغبار بعد النسيم.",
+      "file": "c012.ogg",
+      "durationSec": 7.896
+    },
+    {
+      "index": 13,
+      "text": "ما حدث، حدث.",
+      "file": "c013.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 14,
+      "text": "ما تبقى يمكن أن ينتظر حتى الصباح.",
+      "file": "c014.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 15,
+      "text": "Feel the mattress or the floor holding you.",
+      "file": "c015.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 16,
+      "text": "التنفس أكثر هدوءا. الجسم أثقل.",
+      "file": "c016.ogg",
+      "durationSec": 8.304
+    },
+    {
+      "index": 17,
+      "text": "إذا جاء النوم فليفعل.",
+      "file": "c017.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 18,
+      "text": "إذا لم يكن الأمر كذلك، فاستريح في هذه النعومة على أي حال.",
+      "file": "c018.ogg",
+      "durationSec": 10.128
+    },
+    {
+      "index": 19,
+      "text": "ثلاثة أنفاس بطيئة أخرى.",
+      "file": "c019.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 20,
+      "text": "في. خارج.",
+      "file": "c020.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 21,
+      "text": "In. Out.",
+      "file": "c021.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 22,
+      "text": "في. خارج.",
+      "file": "c022.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 23,
+      "text": "Good night to the day. Peace to the night.",
+      "file": "c023.ogg",
+      "durationSec": 7.176
+    }
+  ]
+}

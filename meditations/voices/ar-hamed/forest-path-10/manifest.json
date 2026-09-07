@@ -1,0 +1,664 @@
+{
+  "id": "forest-path-10",
+  "voiceId": "ar-hamed",
+  "edgeVoice": "ar-SA-HamedNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 748,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "مرحباً.",
+      "file": "c000.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 1,
+      "text": "ابحث عن وضعية لا تطلب منك شيئًا.",
+      "file": "c001.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 2,
+      "text": "اجلس، أو استلقِ، مع أي دعم تحتاجه.",
+      "file": "c002.ogg",
+      "durationSec": 7.8
+    },
+    {
+      "index": 3,
+      "text": "دع يديك تستريح مفتوحة أو ناعمة.",
+      "file": "c003.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 4,
+      "text": "اسمح لعينيك بالإغلاق، أو احتفظ بنظرة ناعمة.",
+      "file": "c004.ogg",
+      "durationSec": 8.736
+    },
+    {
+      "index": 5,
+      "text": "Feel the places where your body meets the ground.",
+      "file": "c005.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 6,
+      "text": "الكعب أو عظام الجلوس أو مؤخرة الرأس أو طول العمود الفقري.",
+      "file": "c006.ogg",
+      "durationSec": 9.312
+    },
+    {
+      "index": 7,
+      "text": "لا شيء يصمد الآن.",
+      "file": "c007.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 8,
+      "text": "خذ نفسا بطيئا من خلال الأنف.",
+      "file": "c008.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 9,
+      "text": "اشعر ببرودة الهواء القادمة.",
+      "file": "c009.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 10,
+      "text": "والزفير لفترة أطول قليلا.",
+      "file": "c010.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 11,
+      "text": "اشعر بدفء الزفير المغادر.",
+      "file": "c011.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 12,
+      "text": "مرة أخرى. شهيق ناعم.",
+      "file": "c012.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 13,
+      "text": "الزفير غير مستعجل.",
+      "file": "c013.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 14,
+      "text": "دع الكتفين يسقطون جزءًا.",
+      "file": "c014.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 15,
+      "text": "دع الفك ينفتح.",
+      "file": "c015.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 16,
+      "text": "دع البطن يكون ناعما.",
+      "file": "c016.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 17,
+      "text": "ابق مع ثلاثة أنفاس هادئة، تمامًا كما هي.",
+      "file": "c017.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 18,
+      "text": "يستنشق. يصل.",
+      "file": "c018.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 19,
+      "text": "الزفير. يستقر.",
+      "file": "c019.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 20,
+      "text": "إذا شرد العقل، لاحظ ذلك بلطف، ثم عد إلى هذا النفس.",
+      "file": "c020.ogg",
+      "durationSec": 10.296
+    },
+    {
+      "index": 21,
+      "text": "ابدأ الآن في السير ببطء إلى الغابة القديمة.",
+      "file": "c021.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 22,
+      "text": "المسار ناعم بالإبر والأوراق المتساقطة.",
+      "file": "c022.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 23,
+      "text": "تصدر كل خطوة صوتًا هادئًا، ثم يعود الصمت.",
+      "file": "c023.ogg",
+      "durationSec": 8.664
+    },
+    {
+      "index": 24,
+      "text": "خيوط ضوء الشمس من خلال فروع عالية في شرائط دافئة.",
+      "file": "c024.ogg",
+      "durationSec": 8.808
+    },
+    {
+      "index": 25,
+      "text": "اشعر برقعة من الشمس على ساعدك — حرارة لطيفة مفاجئة.",
+      "file": "c025.ogg",
+      "durationSec": 10.104
+    },
+    {
+      "index": 26,
+      "text": "ثم الظل مرة أخرى، بارد وأخضر.",
+      "file": "c026.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 27,
+      "text": "نسيم يحرك المظلة. الهواء النقي يجد وجهك.",
+      "file": "c027.ogg",
+      "durationSec": 9.936
+    },
+    {
+      "index": 28,
+      "text": "رائحة الراتنج، والتربة الرطبة، وحلاوة الطحلب النظيفة.",
+      "file": "c028.ogg",
+      "durationSec": 10.224
+    },
+    {
+      "index": 29,
+      "text": "يوقف. ضع راحة اليد على اللحاء الخشن.",
+      "file": "c029.ogg",
+      "durationSec": 8.376
+    },
+    {
+      "index": 30,
+      "text": "اشعر بسكون الشجرة وهو يدخل يدك.",
+      "file": "c030.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 31,
+      "text": "تواصل أعمق. أصوات العالم الخارجي تتلاشى.",
+      "file": "c031.ogg",
+      "durationSec": 9.648
+    },
+    {
+      "index": 32,
+      "text": "في مكان ما يتحدث الدفق بمقاطع صغيرة مشرقة.",
+      "file": "c032.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 33,
+      "text": "تتبع حتى يظهر الماء بين الحجارة.",
+      "file": "c033.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 34,
+      "text": "يركع. اغمس يديك. وضوح رائع.",
+      "file": "c034.ogg",
+      "durationSec": 9.888
+    },
+    {
+      "index": 35,
+      "text": "رش قليلا على معصميك. نضارة توقظ الجلد.",
+      "file": "c035.ogg",
+      "durationSec": 9.792
+    },
+    {
+      "index": 36,
+      "text": "اجلس على صخرة مسطحة يدفئها عمود ضيق من الشمس.",
+      "file": "c036.ogg",
+      "durationSec": 9.648
+    },
+    {
+      "index": 37,
+      "text": "اشعر بهذا الدفء في عظامك وظهر فخذيك.",
+      "file": "c037.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 38,
+      "text": "اشعر بالنفس البارد للتيار على ساقيك.",
+      "file": "c038.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 39,
+      "text": "تنادي الطيور مرة واحدة، ثم تترك الهدوء مرة أخرى.",
+      "file": "c039.ogg",
+      "durationSec": 9.528
+    },
+    {
+      "index": 40,
+      "text": "تنفس نضارة الغابة.",
+      "file": "c040.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 41,
+      "text": "قم بالزفير في صناديق المرضى من حولك.",
+      "file": "c041.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 42,
+      "text": "لاحظ كيف هبطت كتفيك دون أن يُطلب منك ذلك.",
+      "file": "c042.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 43,
+      "text": "كيف يلين الفك عندما لا يكون هناك مكان آخر.",
+      "file": "c043.ogg",
+      "durationSec": 8.016
+    },
+    {
+      "index": 44,
+      "text": "قف عندما تكون مستعدًا وامشِ لمسافة أبعد قليلاً.",
+      "file": "c044.ogg",
+      "durationSec": 8.496
+    },
+    {
+      "index": 45,
+      "text": "يقوم السرخس بتنظيف عجولك بأطراف الأصابع الخضراء الباردة.",
+      "file": "c045.ogg",
+      "durationSec": 9.672
+    },
+    {
+      "index": 46,
+      "text": "يتم فتح المقاصة - مستديرة مثل التنفس.",
+      "file": "c046.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 47,
+      "text": "الاستلقاء على الطحلب العميق.",
+      "file": "c047.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 48,
+      "text": "تستقبل الأرض وزنك بالكامل.",
+      "file": "c048.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 49,
+      "text": "دفء الشمس المصفاة على وجهك.",
+      "file": "c049.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 50,
+      "text": "برودة الطحلب على طول عمودك الفقري.",
+      "file": "c050.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 51,
+      "text": "يصل النسيم، ويغادر، ويصل مرة أخرى.",
+      "file": "c051.ogg",
+      "durationSec": 8.904
+    },
+    {
+      "index": 52,
+      "text": "ابق مع الشعور بأنك محتجز في مكان حي.",
+      "file": "c052.ogg",
+      "durationSec": 7.344
+    },
+    {
+      "index": 53,
+      "text": "آمن. هادئ. الانتماء دون جهد.",
+      "file": "c053.ogg",
+      "durationSec": 9.096
+    },
+    {
+      "index": 54,
+      "text": "عد خمسة أنفاس بطيئة هنا، كل واحد منها أكثر ليونة.",
+      "file": "c054.ogg",
+      "durationSec": 9.912
+    },
+    {
+      "index": 55,
+      "text": "لاحظ الرائحة مرة أخرى - خضراء، رطبة، صادقة.",
+      "file": "c055.ogg",
+      "durationSec": 10.368
+    },
+    {
+      "index": 56,
+      "text": "لاحظ الصوت مرة أخرى - لا شيء تقريبًا، وهذا كثير.",
+      "file": "c056.ogg",
+      "durationSec": 10.032
+    },
+    {
+      "index": 57,
+      "text": "If a thought appears, let it drift like a leaf on the stream.",
+      "file": "c057.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 58,
+      "text": "ارجع إلى الدفء على الجلد أينما تجدك الشمس.",
+      "file": "c058.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 59,
+      "text": "العودة إلى البرودة في الظل بين تلك الشرائط الدافئة.",
+      "file": "c059.ogg",
+      "durationSec": 7.776
+    },
+    {
+      "index": 60,
+      "text": "لقد مشيت مسافة كافية إلى الداخل.",
+      "file": "c060.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 61,
+      "text": "دع ثلاثة أنفاس بطيئة تغلق هذا في الجسم.",
+      "file": "c061.ogg",
+      "durationSec": 7.68
+    },
+    {
+      "index": 62,
+      "text": "قبل أن تغادر، قف مرة أخرى عند النهر.",
+      "file": "c062.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 63,
+      "text": "شاهد جديلة المياه الصافية حول الحجارة.",
+      "file": "c063.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 64,
+      "text": "يرتفع الهواء البارد من السطح المتحرك.",
+      "file": "c064.ogg",
+      "durationSec": 6.96
+    },
+    {
+      "index": 65,
+      "text": "لا يزال الضوء الدافئ يجد شريطًا من ساعدك.",
+      "file": "c065.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 66,
+      "text": "كوب ماء وبلل الحاجب إذا أردت - في الخيال، بارد ولطيف.",
+      "file": "c066.ogg",
+      "durationSec": 10.464
+    },
+    {
+      "index": 67,
+      "text": "الغابة لا تصفق. إنه يستمر بكل بساطة.",
+      "file": "c067.ogg",
+      "durationSec": 9.408
+    },
+    {
+      "index": 68,
+      "text": "هذا الاستمرار هو المعلم.",
+      "file": "c068.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 69,
+      "text": "قم بالسير في الطريق نحو الخارج ببضع خطوات هادئة في ذهنك.",
+      "file": "c069.ogg",
+      "durationSec": 9.408
+    },
+    {
+      "index": 70,
+      "text": "الإبر تحت الأقدام. صوت ناعم. عودة ناعمة.",
+      "file": "c070.ogg",
+      "durationSec": 11.712
+    },
+    {
+      "index": 71,
+      "text": "ومع ذلك فإن سلام الفداء يبقى في الصدر مثل الشمس المخزونة.",
+      "file": "c071.ogg",
+      "durationSec": 8.88
+    },
+    {
+      "index": 72,
+      "text": "اشعر به هناك - الدفء خلف عظمة القص.",
+      "file": "c072.ogg",
+      "durationSec": 7.872
+    },
+    {
+      "index": 73,
+      "text": "اشعر بالانتعاش في الخياشيم.",
+      "file": "c073.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 74,
+      "text": "يمكنك إحضار كليهما إلى الغرف العادية.",
+      "file": "c074.ogg",
+      "durationSec": 6.96
+    },
+    {
+      "index": 75,
+      "text": "نظرة أخيرة من خلال الفروع إلى عملة السماء.",
+      "file": "c075.ogg",
+      "durationSec": 7.68
+    },
+    {
+      "index": 76,
+      "text": "كافٍ.",
+      "file": "c076.ogg",
+      "durationSec": 2.568
+    },
+    {
+      "index": 77,
+      "text": "الآن دع القصة ترتاح، وابقَ مع الإحساس.",
+      "file": "c077.ogg",
+      "durationSec": 8.16
+    },
+    {
+      "index": 78,
+      "text": "يستنشق نضارة هذا المكان.",
+      "file": "c078.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 79,
+      "text": "الزفير في الدفء والهدوء.",
+      "file": "c079.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 80,
+      "text": "يستنشق.",
+      "file": "c080.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 81,
+      "text": "الزفير.",
+      "file": "c081.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 82,
+      "text": "مرة أخرى. شهيق ناعم.",
+      "file": "c082.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 83,
+      "text": "زفير أطول.",
+      "file": "c083.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 84,
+      "text": "اشعر بالجسد ممسكًا بأرض هذا العالم المتخيل.",
+      "file": "c084.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 85,
+      "text": "يستنشق.",
+      "file": "c085.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 86,
+      "text": "الزفير.",
+      "file": "c086.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 87,
+      "text": "إذا شردت الأفكار، ارجع إلى الدفء على الجلد.",
+      "file": "c087.ogg",
+      "durationSec": 7.464
+    },
+    {
+      "index": 88,
+      "text": "أو لتبريد الهواء عند الأنف.",
+      "file": "c088.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 89,
+      "text": "يستنشق.",
+      "file": "c089.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 90,
+      "text": "الزفير.",
+      "file": "c090.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 91,
+      "text": "يستنشق.",
+      "file": "c091.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 92,
+      "text": "الزفير.",
+      "file": "c092.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 93,
+      "text": "يقضي. تليين. يكمل.",
+      "file": "c093.ogg",
+      "durationSec": 8.28
+    },
+    {
+      "index": 94,
+      "text": "يستنشق.",
+      "file": "c094.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 95,
+      "text": "الزفير.",
+      "file": "c095.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 96,
+      "text": "دورة أخرى سهلة.",
+      "file": "c096.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 97,
+      "text": "يستنشق.",
+      "file": "c097.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 98,
+      "text": "الزفير.",
+      "file": "c098.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 99,
+      "text": "استمر في هذا الشعور لبضعة أنفاس أخرى.",
+      "file": "c099.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 100,
+      "text": "الدفء. نعومة. كفاية.",
+      "file": "c100.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 101,
+      "text": "يمكنك العودة إلى هذا المكان عندما تحتاج إليه.",
+      "file": "c101.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 102,
+      "text": "إنه يعيش في انتباهك، وليس في خيالك فقط.",
+      "file": "c102.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 103,
+      "text": "البدء في تعميق التنفس.",
+      "file": "c103.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 104,
+      "text": "اشعر بالغرفة من حولك مرة أخرى.",
+      "file": "c104.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 105,
+      "text": "تذبذب الأصابع. تنعيم أصابع القدم.",
+      "file": "c105.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 106,
+      "text": "عندما تكون مستعدا، افتح عينيك.",
+      "file": "c106.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 107,
+      "text": "خذ نفسًا سهلاً آخر.",
+      "file": "c107.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 108,
+      "text": "احمل هذا الهدوء إلى كل ما يأتي بعد ذلك.",
+      "file": "c108.ogg",
+      "durationSec": 7.104
+    }
+  ]
+}

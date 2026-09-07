@@ -1,0 +1,634 @@
+{
+  "id": "bamboo-garden-10",
+  "voiceId": "en-au-natasha",
+  "edgeVoice": "en-AU-NatashaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 455,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Welcome.",
+      "file": "c000.ogg",
+      "durationSec": 1.433
+    },
+    {
+      "index": 1,
+      "text": "Find a posture that asks nothing of you.",
+      "file": "c001.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 2,
+      "text": "Sit, or lie down, with whatever support you need.",
+      "file": "c002.ogg",
+      "durationSec": 4.98
+    },
+    {
+      "index": 3,
+      "text": "Let your hands rest open or soft.",
+      "file": "c003.ogg",
+      "durationSec": 4.223
+    },
+    {
+      "index": 4,
+      "text": "Allow your eyes to close, or keep a soft gaze.",
+      "file": "c004.ogg",
+      "durationSec": 5.492
+    },
+    {
+      "index": 5,
+      "text": "Feel the places where your body meets the ground.",
+      "file": "c005.ogg",
+      "durationSec": 5.326
+    },
+    {
+      "index": 6,
+      "text": "The heels, the sit bones, the back of the head, or the length of the spine.",
+      "file": "c006.ogg",
+      "durationSec": 8.695
+    },
+    {
+      "index": 7,
+      "text": "Nothing to hold up right now.",
+      "file": "c007.ogg",
+      "durationSec": 2.888
+    },
+    {
+      "index": 8,
+      "text": "Take a slow breath in through the nose.",
+      "file": "c008.ogg",
+      "durationSec": 3.87
+    },
+    {
+      "index": 9,
+      "text": "Feel the coolness of the air arriving.",
+      "file": "c009.ogg",
+      "durationSec": 4.226
+    },
+    {
+      "index": 10,
+      "text": "And breathe out a little longer.",
+      "file": "c010.ogg",
+      "durationSec": 3.111
+    },
+    {
+      "index": 11,
+      "text": "Feel the warmth of the exhale leaving.",
+      "file": "c011.ogg",
+      "durationSec": 4.288
+    },
+    {
+      "index": 12,
+      "text": "Again. Soft inhale.",
+      "file": "c012.ogg",
+      "durationSec": 3.354
+    },
+    {
+      "index": 13,
+      "text": "Unhurried exhale.",
+      "file": "c013.ogg",
+      "durationSec": 2.529
+    },
+    {
+      "index": 14,
+      "text": "Let the shoulders drop a fraction.",
+      "file": "c014.ogg",
+      "durationSec": 3.643
+    },
+    {
+      "index": 15,
+      "text": "Let the jaw unclench.",
+      "file": "c015.ogg",
+      "durationSec": 2.942
+    },
+    {
+      "index": 16,
+      "text": "Let the belly be soft.",
+      "file": "c016.ogg",
+      "durationSec": 2.542
+    },
+    {
+      "index": 17,
+      "text": "Stay with three quiet breaths, just as they are.",
+      "file": "c017.ogg",
+      "durationSec": 5.382
+    },
+    {
+      "index": 18,
+      "text": "Inhale. Arrive.",
+      "file": "c018.ogg",
+      "durationSec": 2.655
+    },
+    {
+      "index": 19,
+      "text": "Exhale. Settle.",
+      "file": "c019.ogg",
+      "durationSec": 2.774
+    },
+    {
+      "index": 20,
+      "text": "If the mind wanders, notice it kindly, and come back to this breath.",
+      "file": "c020.ogg",
+      "durationSec": 7.995
+    },
+    {
+      "index": 21,
+      "text": "Picture a bamboo garden after rain.",
+      "file": "c021.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 22,
+      "text": "Stone is dark and clean. Leaves shine.",
+      "file": "c022.ogg",
+      "durationSec": 4.69
+    },
+    {
+      "index": 23,
+      "text": "Cool freshness fills the air like a soft bell.",
+      "file": "c023.ogg",
+      "durationSec": 5.379
+    },
+    {
+      "index": 24,
+      "text": "A break in the clouds lets sun through.",
+      "file": "c024.ogg",
+      "durationSec": 4.219
+    },
+    {
+      "index": 25,
+      "text": "Feel sudden gentle warmth on your forehead and cheekbones.",
+      "file": "c025.ogg",
+      "durationSec": 6.26
+    },
+    {
+      "index": 26,
+      "text": "Steam lifts faintly from the path — earth breathing out.",
+      "file": "c026.ogg",
+      "durationSec": 6.257
+    },
+    {
+      "index": 27,
+      "text": "You step onto stepping-stones set in moss.",
+      "file": "c027.ogg",
+      "durationSec": 4.686
+    },
+    {
+      "index": 28,
+      "text": "Each stone is cool and sure underfoot.",
+      "file": "c028.ogg",
+      "durationSec": 4.396
+    },
+    {
+      "index": 29,
+      "text": "Bamboo creaks and whispers in a light breeze.",
+      "file": "c029.ogg",
+      "durationSec": 5.1
+    },
+    {
+      "index": 30,
+      "text": "The sound is green. The sound is calm.",
+      "file": "c030.ogg",
+      "durationSec": 4.864
+    },
+    {
+      "index": 31,
+      "text": "Smell wet leaves, stone, and a faint sweetness of tea plants nearby.",
+      "file": "c031.ogg",
+      "durationSec": 7.422
+    },
+    {
+      "index": 32,
+      "text": "Pause beside a small pond.",
+      "file": "c032.ogg",
+      "durationSec": 3.288
+    },
+    {
+      "index": 33,
+      "text": "Koi move like slow thoughts beneath the surface.",
+      "file": "c033.ogg",
+      "durationSec": 5.033
+    },
+    {
+      "index": 34,
+      "text": "Sun flecks warm your wrists as you rest them on the rail.",
+      "file": "c034.ogg",
+      "durationSec": 5.794
+    },
+    {
+      "index": 35,
+      "text": "A breeze cools the dampness at your temples.",
+      "file": "c035.ogg",
+      "durationSec": 4.918
+    },
+    {
+      "index": 36,
+      "text": "Freshness in. Softness out.",
+      "file": "c036.ogg",
+      "durationSec": 4.054
+    },
+    {
+      "index": 37,
+      "text": "Follow a covered walkway of worn wood.",
+      "file": "c037.ogg",
+      "durationSec": 4.284
+    },
+    {
+      "index": 38,
+      "text": "The boards are cool in shade, warmer where light falls.",
+      "file": "c038.ogg",
+      "durationSec": 6.376
+    },
+    {
+      "index": 39,
+      "text": "You sit on a bench facing raked gravel and one perfect stone.",
+      "file": "c039.ogg",
+      "durationSec": 6.836
+    },
+    {
+      "index": 40,
+      "text": "Nothing needs rearranging.",
+      "file": "c040.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 41,
+      "text": "Feel the quiet geometry settle your mind.",
+      "file": "c041.ogg",
+      "durationSec": 4.798
+    },
+    {
+      "index": 42,
+      "text": "Warmth returns as cloud thins — a kind hand on your shoulders.",
+      "file": "c042.ogg",
+      "durationSec": 7.42
+    },
+    {
+      "index": 43,
+      "text": "Then shade again, cool and restful.",
+      "file": "c043.ogg",
+      "durationSec": 4.398
+    },
+    {
+      "index": 44,
+      "text": "Sip imaginary tea. Taste warmth. Feel the cup’s heat in your palms.",
+      "file": "c044.ogg",
+      "durationSec": 8.52
+    },
+    {
+      "index": 45,
+      "text": "Outside the garden, life continues. Inside, time loosens.",
+      "file": "c045.ogg",
+      "durationSec": 7.428
+    },
+    {
+      "index": 46,
+      "text": "Walk once more beneath bamboo.",
+      "file": "c046.ogg",
+      "durationSec": 3.356
+    },
+    {
+      "index": 47,
+      "text": "Let the tall stalks sway your breath into the same easy rhythm.",
+      "file": "c047.ogg",
+      "durationSec": 7.131
+    },
+    {
+      "index": 48,
+      "text": "Cool drip from a leaf finds your wrist — a tiny fresh surprise.",
+      "file": "c048.ogg",
+      "durationSec": 7.303
+    },
+    {
+      "index": 49,
+      "text": "Then sun again, warm on the same spot until it dries.",
+      "file": "c049.ogg",
+      "durationSec": 6.784
+    },
+    {
+      "index": 50,
+      "text": "You belong to this peace for as long as you stay.",
+      "file": "c050.ogg",
+      "durationSec": 5.149
+    },
+    {
+      "index": 51,
+      "text": "And a thread of it will come with you when you leave.",
+      "file": "c051.ogg",
+      "durationSec": 4.513
+    },
+    {
+      "index": 52,
+      "text": "Sit once more. Hands open on your knees.",
+      "file": "c052.ogg",
+      "durationSec": 4.565
+    },
+    {
+      "index": 53,
+      "text": "Warmth wherever light touches. Coolness in the shade of bamboo.",
+      "file": "c053.ogg",
+      "durationSec": 7.93
+    },
+    {
+      "index": 54,
+      "text": "Inhale the after-rain freshness.",
+      "file": "c054.ogg",
+      "durationSec": 3.757
+    },
+    {
+      "index": 55,
+      "text": "Exhale into the raked quiet of stone and gravel.",
+      "file": "c055.ogg",
+      "durationSec": 5.501
+    },
+    {
+      "index": 56,
+      "text": "Nothing sharp remains. Only soft edges and enough air.",
+      "file": "c056.ogg",
+      "durationSec": 6.485
+    },
+    {
+      "index": 57,
+      "text": "Return to the pond for a final pause.",
+      "file": "c057.ogg",
+      "durationSec": 4.513
+    },
+    {
+      "index": 58,
+      "text": "Ripples from a fallen drop widen and vanish.",
+      "file": "c058.ogg",
+      "durationSec": 5.26
+    },
+    {
+      "index": 59,
+      "text": "Sun flecks dance, then still.",
+      "file": "c059.ogg",
+      "durationSec": 3.641
+    },
+    {
+      "index": 60,
+      "text": "Warmth on the cheekbone. Cool mist-memory in the nose.",
+      "file": "c060.ogg",
+      "durationSec": 6.778
+    },
+    {
+      "index": 61,
+      "text": "Bow slightly to the garden — a small inward nod.",
+      "file": "c061.ogg",
+      "durationSec": 6.725
+    },
+    {
+      "index": 62,
+      "text": "Walk the stepping-stones once more, slower than before.",
+      "file": "c062.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 63,
+      "text": "Cool moss between stones. Warm wood of the bridge rail.",
+      "file": "c063.ogg",
+      "durationSec": 6.718
+    },
+    {
+      "index": 64,
+      "text": "Bamboo speaks in leaf-language overhead.",
+      "file": "c064.ogg",
+      "durationSec": 4.402
+    },
+    {
+      "index": 65,
+      "text": "You understand enough of it: stay, soften, continue.",
+      "file": "c065.ogg",
+      "durationSec": 6.31
+    },
+    {
+      "index": 66,
+      "text": "At the threshold, feel both worlds — garden peace and ordinary day.",
+      "file": "c066.ogg",
+      "durationSec": 8.811
+    },
+    {
+      "index": 67,
+      "text": "You may braid them.",
+      "file": "c067.ogg",
+      "durationSec": 2.128
+    },
+    {
+      "index": 68,
+      "text": "Inhale freshness for the braid.",
+      "file": "c068.ogg",
+      "durationSec": 3.522
+    },
+    {
+      "index": 69,
+      "text": "Exhale warmth into the hands, ready to meet what comes.",
+      "file": "c069.ogg",
+      "durationSec": 6.137
+    },
+    {
+      "index": 70,
+      "text": "The garden remains, whether you are looking or not.",
+      "file": "c070.ogg",
+      "durationSec": 5.266
+    },
+    {
+      "index": 71,
+      "text": "Now let the story rest, and stay with sensation.",
+      "file": "c071.ogg",
+      "durationSec": 5.495
+    },
+    {
+      "index": 72,
+      "text": "Inhale the freshness of this place.",
+      "file": "c072.ogg",
+      "durationSec": 3.753
+    },
+    {
+      "index": 73,
+      "text": "Exhale into its warmth and quiet.",
+      "file": "c073.ogg",
+      "durationSec": 3.806
+    },
+    {
+      "index": 74,
+      "text": "Inhale.",
+      "file": "c074.ogg",
+      "durationSec": 1.253
+    },
+    {
+      "index": 75,
+      "text": "Exhale.",
+      "file": "c075.ogg",
+      "durationSec": 1.502
+    },
+    {
+      "index": 76,
+      "text": "Again. Soft inhale.",
+      "file": "c076.ogg",
+      "durationSec": 3.294
+    },
+    {
+      "index": 77,
+      "text": "Longer exhale.",
+      "file": "c077.ogg",
+      "durationSec": 2.306
+    },
+    {
+      "index": 78,
+      "text": "Feel the body held by the ground of this imagined world.",
+      "file": "c078.ogg",
+      "durationSec": 5.964
+    },
+    {
+      "index": 79,
+      "text": "Inhale.",
+      "file": "c079.ogg",
+      "durationSec": 1.204
+    },
+    {
+      "index": 80,
+      "text": "Exhale.",
+      "file": "c080.ogg",
+      "durationSec": 1.323
+    },
+    {
+      "index": 81,
+      "text": "If thoughts wander, return to warmth on the skin.",
+      "file": "c081.ogg",
+      "durationSec": 5.733
+    },
+    {
+      "index": 82,
+      "text": "Or to cool air at the nose.",
+      "file": "c082.ogg",
+      "durationSec": 2.935
+    },
+    {
+      "index": 83,
+      "text": "Inhale.",
+      "file": "c083.ogg",
+      "durationSec": 1.547
+    },
+    {
+      "index": 84,
+      "text": "Exhale.",
+      "file": "c084.ogg",
+      "durationSec": 1.56
+    },
+    {
+      "index": 85,
+      "text": "Inhale.",
+      "file": "c085.ogg",
+      "durationSec": 1.201
+    },
+    {
+      "index": 86,
+      "text": "Exhale.",
+      "file": "c086.ogg",
+      "durationSec": 1.553
+    },
+    {
+      "index": 87,
+      "text": "Stay. Soften. Continue.",
+      "file": "c087.ogg",
+      "durationSec": 3.641
+    },
+    {
+      "index": 88,
+      "text": "Inhale.",
+      "file": "c088.ogg",
+      "durationSec": 1.262
+    },
+    {
+      "index": 89,
+      "text": "Exhale.",
+      "file": "c089.ogg",
+      "durationSec": 1.316
+    },
+    {
+      "index": 90,
+      "text": "One more easy cycle.",
+      "file": "c090.ogg",
+      "durationSec": 2.249
+    },
+    {
+      "index": 91,
+      "text": "Inhale.",
+      "file": "c091.ogg",
+      "durationSec": 1.198
+    },
+    {
+      "index": 92,
+      "text": "Exhale.",
+      "file": "c092.ogg",
+      "durationSec": 1.436
+    },
+    {
+      "index": 93,
+      "text": "Linger in this feeling for a few more breaths.",
+      "file": "c093.ogg",
+      "durationSec": 4.683
+    },
+    {
+      "index": 94,
+      "text": "Warmth. Softness. Enoughness.",
+      "file": "c094.ogg",
+      "durationSec": 4.685
+    },
+    {
+      "index": 95,
+      "text": "You can return to this place whenever you need it.",
+      "file": "c095.ogg",
+      "durationSec": 4.629
+    },
+    {
+      "index": 96,
+      "text": "It lives in your attention, not only in imagination.",
+      "file": "c096.ogg",
+      "durationSec": 5.963
+    },
+    {
+      "index": 97,
+      "text": "Begin to deepen the breath.",
+      "file": "c097.ogg",
+      "durationSec": 2.363
+    },
+    {
+      "index": 98,
+      "text": "Feel the room around you again.",
+      "file": "c098.ogg",
+      "durationSec": 3.469
+    },
+    {
+      "index": 99,
+      "text": "Wiggle the fingers. Soften the toes.",
+      "file": "c099.ogg",
+      "durationSec": 4.044
+    },
+    {
+      "index": 100,
+      "text": "When you are ready, open your eyes.",
+      "file": "c100.ogg",
+      "durationSec": 3.932
+    },
+    {
+      "index": 101,
+      "text": "Take one more easy breath.",
+      "file": "c101.ogg",
+      "durationSec": 2.591
+    },
+    {
+      "index": 102,
+      "text": "Carry this calm into whatever comes next.",
+      "file": "c102.ogg",
+      "durationSec": 4.51
+    }
+  ],
+  "engine": "elevenlabs",
+  "elevenVoice": "hpp4J3VqNfWAUOO0d1Us",
+  "elevenLabel": "Bella",
+  "elevenSpeed": 0.7,
+  "atempo": 0.8,
+  "eqDb": 6.0
+}

@@ -1,0 +1,148 @@
+{
+  "id": "body-scan",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 145,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Nous scannerons doucement le corps.",
+      "file": "c000.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 1,
+      "text": "Allongez-vous ou asseyez-vous facilement.",
+      "file": "c001.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 2,
+      "text": "Fermez les yeux si vous vous sentez en sécurité.",
+      "file": "c002.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 3,
+      "text": "Commencez par le sommet de la tête.",
+      "file": "c003.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 4,
+      "text": "Remarquez toute sensation là-bas. Chaleur. Fraîcheur. Rien du tout.",
+      "file": "c004.ogg",
+      "durationSec": 12.624
+    },
+    {
+      "index": 5,
+      "text": "Pas besoin de le changer. Remarquez simplement.",
+      "file": "c005.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 6,
+      "text": "Déplacez-vous doucement vers le front et les yeux.",
+      "file": "c006.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 7,
+      "text": "Laissez les petits muscles autour des yeux s’adoucir.",
+      "file": "c007.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 8,
+      "text": "Sentez la mâchoire. Desserrez si vous le pouvez.",
+      "file": "c008.ogg",
+      "durationSec": 7.536
+    },
+    {
+      "index": 9,
+      "text": "Langue reposant légèrement.",
+      "file": "c009.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 10,
+      "text": "Épaules. Sont-ils levés ? Laissez-les tomber un peu.",
+      "file": "c010.ogg",
+      "durationSec": 9.168
+    },
+    {
+      "index": 11,
+      "text": "Les bras lourds. Mains ouvertes ou douces.",
+      "file": "c011.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 12,
+      "text": "La poitrine monte et descend avec le souffle.",
+      "file": "c012.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 13,
+      "text": "Ventre mou. Pas de forçage.",
+      "file": "c013.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 14,
+      "text": "Hanches et bassin au repos.",
+      "file": "c014.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 15,
+      "text": "Cuisses. Genoux. Bas des jambes.",
+      "file": "c015.ogg",
+      "durationSec": 8.016
+    },
+    {
+      "index": 16,
+      "text": "Pieds. Semelles touchant le sol ou le tapis.",
+      "file": "c016.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 17,
+      "text": "Maintenant, ressentez le corps tout entier comme un seul champ de conscience.",
+      "file": "c017.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 18,
+      "text": "Le souffle le traverse.",
+      "file": "c018.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 19,
+      "text": "Si un point tendu apparaît, envoyez-y une aimable expiration.",
+      "file": "c019.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 20,
+      "text": "Restez pendant trois respirations tranquilles.",
+      "file": "c020.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 21,
+      "text": "Lorsque vous êtes prêt, remuez les doigts et les orteils.",
+      "file": "c021.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 22,
+      "text": "Ouvrez les yeux. Revenez doucement.",
+      "file": "c022.ogg",
+      "durationSec": 6.192
+    }
+  ]
+}

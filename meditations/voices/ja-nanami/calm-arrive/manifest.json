@@ -1,0 +1,136 @@
+{
+  "id": "calm-arrive",
+  "voiceId": "ja-nanami",
+  "edgeVoice": "ja-JP-NanamiNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 127,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "いらっしゃいませ。",
+      "file": "c000.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 1,
+      "text": "到着まで少しお時間をください。",
+      "file": "c001.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 2,
+      "text": "快適な座席を見つけるか、気分が良い場合は横になってください。",
+      "file": "c002.ogg",
+      "durationSec": 9.816
+    },
+    {
+      "index": 3,
+      "text": "手を休めましょう。",
+      "file": "c003.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 4,
+      "text": "Allow your eyes to close, or soften your gaze.",
+      "file": "c004.ogg",
+      "durationSec": 8.664
+    },
+    {
+      "index": 5,
+      "text": "あなたがここにいることに気づいてください。",
+      "file": "c005.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 6,
+      "text": "今のところ修正することはありません。",
+      "file": "c006.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 7,
+      "text": "完了するものは何もありません。",
+      "file": "c007.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 8,
+      "text": "鼻からゆっくりと息を吸います。",
+      "file": "c008.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 9,
+      "text": "And a longer breath out.",
+      "file": "c009.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 10,
+      "text": "また。ソフトに吸い込みます。",
+      "file": "c010.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 11,
+      "text": "ゆっくりと息を吐きます。",
+      "file": "c011.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 12,
+      "text": "体の重みが支えられているのを感じてください。",
+      "file": "c012.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 13,
+      "text": "The floor, the chair, the earth holding you.",
+      "file": "c013.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 14,
+      "text": "考えがさまよっても、それは問題ありません。",
+      "file": "c014.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 15,
+      "text": "ただ気づいて、この呼吸に戻ってください。",
+      "file": "c015.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 16,
+      "text": "吸い込む。到着。",
+      "file": "c016.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 17,
+      "text": "Exhale. Settle.",
+      "file": "c017.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 18,
+      "text": "One more easy breath.",
+      "file": "c018.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 19,
+      "text": "準備ができたら、目を開けてください。",
+      "file": "c019.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 20,
+      "text": "Carry this quiet with you.",
+      "file": "c020.ogg",
+      "durationSec": 5.184
+    }
+  ]
+}

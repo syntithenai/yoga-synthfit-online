@@ -1,0 +1,364 @@
+{
+  "id": "meadow-breeze-5",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 373,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать.",
+      "file": "c000.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 1,
+      "text": "Сядьте поудобнее или лягте, если так удобнее.",
+      "file": "c001.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 2,
+      "text": "Let your hands rest.",
+      "file": "c002.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 3,
+      "text": "Позвольте глазам закрыться или смягчите взгляд.",
+      "file": "c003.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 4,
+      "text": "Обратите внимание на вес вашего тела.",
+      "file": "c004.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 5,
+      "text": "Сделайте медленный вдох через нос.",
+      "file": "c005.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 6,
+      "text": "И более длинный и легкий выдох.",
+      "file": "c006.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 7,
+      "text": "Again. Soft inhale.",
+      "file": "c007.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 8,
+      "text": "Мягкий выдох.",
+      "file": "c008.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 9,
+      "text": "Если мысли блуждают, это нормально. Вернитесь к дыханию.",
+      "file": "c009.ogg",
+      "durationSec": 10.032
+    },
+    {
+      "index": 10,
+      "text": "Представьте себе широкий горный луг поздним утром.",
+      "file": "c010.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 11,
+      "text": "Высокие травы покачиваются легкими волнами.",
+      "file": "c011.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 12,
+      "text": "Солнце теплое, но не резкое.",
+      "file": "c012.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 13,
+      "text": "Почувствуйте его на макушке, доброе и устойчивое.",
+      "file": "c013.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 14,
+      "text": "Свежий ветерок гуляет по траве и находит твое лицо.",
+      "file": "c014.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 15,
+      "text": "Он пахнет полевыми цветами и высушенной на солнце землей.",
+      "file": "c015.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 16,
+      "text": "Вы идете медленно, касаясь кончиками пальцев семенных головок.",
+      "file": "c016.ogg",
+      "durationSec": 8.424
+    },
+    {
+      "index": 17,
+      "text": "Мягкое щекотание. Мягкий звук.",
+      "file": "c017.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 18,
+      "text": "Бабочки поднимаются и снова неторопливо садятся на землю.",
+      "file": "c018.ogg",
+      "durationSec": 7.776
+    },
+    {
+      "index": 19,
+      "text": "Вы находите место, где можно прилечь в траве.",
+      "file": "c019.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 20,
+      "text": "The earth holds your whole length.",
+      "file": "c020.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 21,
+      "text": "Тепло вдоль передней части. Прохладная почвенная тень по бокам.",
+      "file": "c021.ogg",
+      "durationSec": 10.32
+    },
+    {
+      "index": 22,
+      "text": "The breeze comes and goes like a friendly tide.",
+      "file": "c022.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 23,
+      "text": "Вдохните свежесть. Выдохните в открытое небо.",
+      "file": "c023.ogg",
+      "durationSec": 8.952
+    },
+    {
+      "index": 24,
+      "text": "Облако на мгновение скользит по солнцу.",
+      "file": "c024.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 25,
+      "text": "Прохлада. Затем тепло возвращается к вашему лицу.",
+      "file": "c025.ogg",
+      "durationSec": 9.192
+    },
+    {
+      "index": 26,
+      "text": "Обратите внимание, насколько огромной кажется тишина.",
+      "file": "c026.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 27,
+      "text": "Насколько незначительным кажется любое беспокойство в этой обширной области.",
+      "file": "c027.ogg",
+      "durationSec": 8.76
+    },
+    {
+      "index": 28,
+      "text": "Твои руки лежат в траве. Крошечные стебли ласково прижимаются.",
+      "file": "c028.ogg",
+      "durationSec": 10.368
+    },
+    {
+      "index": 29,
+      "text": "Оставайтесь с солнечным теплом в закрытых глазах.",
+      "file": "c029.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 30,
+      "text": "Stay with the soft press of grass against your arms.",
+      "file": "c030.ogg",
+      "durationSec": 7.536
+    },
+    {
+      "index": 31,
+      "text": "Вам разрешено быть таким же.",
+      "file": "c031.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 32,
+      "text": "Let the meadow breathe you for a few more cycles.",
+      "file": "c032.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 33,
+      "text": "Roll your attention from the warm crown of the head",
+      "file": "c033.ogg",
+      "durationSec": 7.608
+    },
+    {
+      "index": 34,
+      "text": "сквозь мягкое лицо, мягкое горло,",
+      "file": "c034.ogg",
+      "durationSec": 5.928
+    },
+    {
+      "index": 35,
+      "text": "into a chest that rises easily under open sky.",
+      "file": "c035.ogg",
+      "durationSec": 7.224
+    },
+    {
+      "index": 36,
+      "text": "The breeze finds the inside of your wrists.",
+      "file": "c036.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 37,
+      "text": "Прохладный. Живой. Дружелюбно.",
+      "file": "c037.ogg",
+      "durationSec": 9.408
+    },
+    {
+      "index": 38,
+      "text": "Где-то пчелы работают без срочности.",
+      "file": "c038.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 39,
+      "text": "Their hum is another kind of quiet.",
+      "file": "c039.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 40,
+      "text": "Stay until warmth and freshness feel like one fabric.",
+      "file": "c040.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 41,
+      "text": "Теперь отдохните некоторое время в одиночестве.",
+      "file": "c041.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 42,
+      "text": "Медленно вдохните.",
+      "file": "c042.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 43,
+      "text": "Медленно выдохните.",
+      "file": "c043.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 44,
+      "text": "Вдохните.",
+      "file": "c044.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 45,
+      "text": "Выдохните.",
+      "file": "c045.ogg",
+      "durationSec": 3.336
+    },
+    {
+      "index": 46,
+      "text": "Почувствуйте тепло везде, где тепло телу.",
+      "file": "c046.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 47,
+      "text": "Feel coolness wherever the air is cool.",
+      "file": "c047.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 48,
+      "text": "Вдохните.",
+      "file": "c048.ogg",
+      "durationSec": 3.36
+    },
+    {
+      "index": 49,
+      "text": "Выдохните.",
+      "file": "c049.ogg",
+      "durationSec": 3.336
+    },
+    {
+      "index": 50,
+      "text": "Nowhere to go. Nothing to fix.",
+      "file": "c050.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 51,
+      "text": "Inhale.",
+      "file": "c051.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 52,
+      "text": "Выдохните.",
+      "file": "c052.ogg",
+      "durationSec": 3.336
+    },
+    {
+      "index": 53,
+      "text": "Отдохните здесь и сделайте несколько спокойных вдохов.",
+      "file": "c053.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 54,
+      "text": "Know that you can return to this place anytime.",
+      "file": "c054.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 55,
+      "text": "Когда будете готовы, сделайте глубокий вдох.",
+      "file": "c055.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 56,
+      "text": "Wiggle fingers and toes.",
+      "file": "c056.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 57,
+      "text": "Тихо откройте глаза.",
+      "file": "c057.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 58,
+      "text": "Carry a little of this peace with you.",
+      "file": "c058.ogg",
+      "durationSec": 5.424
+    }
+  ]
+}

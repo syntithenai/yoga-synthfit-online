@@ -1,0 +1,148 @@
+{
+  "id": "breath-awareness",
+  "voiceId": "fr-henri",
+  "edgeVoice": "fr-FR-HenriNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 128,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Installez-vous dans une posture stable.",
+      "file": "c000.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 1,
+      "text": "Dos haut mais non rigide.",
+      "file": "c001.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 2,
+      "text": "Portez votre attention sur la respiration telle qu’elle est déjà.",
+      "file": "c002.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 3,
+      "text": "Ne le changez pas encore. Regardez simplement.",
+      "file": "c003.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 4,
+      "text": "Ressentez la fraîcheur de l’inspiration au niveau des narines.",
+      "file": "c004.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 5,
+      "text": "Ressentez la chaleur de l’expiration.",
+      "file": "c005.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 6,
+      "text": "Ou remarquez la montée et la descente du ventre.",
+      "file": "c006.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 7,
+      "text": "Choisissez un endroit pour retenir votre attention.",
+      "file": "c007.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 8,
+      "text": "Lorsque l’esprit s’égare, revenez gentiment.",
+      "file": "c008.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 9,
+      "text": "Aucun jugement. Revenez simplement.",
+      "file": "c009.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 10,
+      "text": "Maintenant, si cela vous semble facile, comptez les cycles doux.",
+      "file": "c010.ogg",
+      "durationSec": 7.776
+    },
+    {
+      "index": 11,
+      "text": "Inhaler. Un.",
+      "file": "c011.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 12,
+      "text": "Exhaler. Un.",
+      "file": "c012.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 13,
+      "text": "Inhaler. Deux.",
+      "file": "c013.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 14,
+      "text": "Exhaler. Deux.",
+      "file": "c014.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 15,
+      "text": "Continuez jusqu'à cinq, puis recommencez à une heure.",
+      "file": "c015.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 16,
+      "text": "Si vous perdez le compte, recommencez avec bienveillance.",
+      "file": "c016.ogg",
+      "durationSec": 6.936
+    },
+    {
+      "index": 17,
+      "text": "Le retour est la pratique.",
+      "file": "c017.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 18,
+      "text": "Laissez la respiration être naturelle. Aucune contrainte.",
+      "file": "c018.ogg",
+      "durationSec": 8.376
+    },
+    {
+      "index": 19,
+      "text": "Encore quelques cycles en silence.",
+      "file": "c019.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 20,
+      "text": "Relâchez le décompte.",
+      "file": "c020.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 21,
+      "text": "Restez en conscience ouverte pendant un moment.",
+      "file": "c021.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 22,
+      "text": "Lorsque vous êtes prêt, ouvrez les yeux.",
+      "file": "c022.ogg",
+      "durationSec": 5.064
+    }
+  ]
+}
