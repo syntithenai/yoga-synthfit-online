@@ -1,0 +1,1 @@
+function e(e,t){let n=t.replace(/^\//,``),r=e||`/`;return r===`./`||r===`.`?`/${n}`:r.endsWith(`/`)?`${r}${n}`:`${r}/${n}`}function t(t){return e(`/`,t)}function n(e){let n=e.trim();if(!n||/^https?:\/\//i.test(n)||typeof window>`u`)return n;try{return new URL(n.startsWith(`/`)?n:t(n),window.location.href).href}catch{return n}}export{t as n,n as t};
