@@ -1,0 +1,1 @@
+import{b as e}from"./tvDisplay-D-_WdTz2.js";var t=e({SYNTHFIT_PACKAGE_ID:()=>a,SYNTHYOGA_PACKAGE_ID:()=>SYNTHYOGA_PACKAGE_ID,isTrackingOwnerApp:()=>i,registerSuiteApp:()=>r}),n=null;function r(e){n=e}function i(){return n===`synthfit`}var a=`online.synthfit.app`;export{t as i,i as n,r,a as t};
