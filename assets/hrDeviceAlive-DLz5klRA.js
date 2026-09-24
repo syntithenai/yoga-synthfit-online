@@ -1,1 +1,0 @@
-function e(e){let t=e.deviceKind===`hr`||e.deviceKind===`altius`||e.deviceKind===`dafit`||e.deviceKind===`fitpro`||e.deviceKind===`colmi`,n=t?null:e.bandAddress,r=e.hrAddress||(t?e.bandAddress:null);return!!(n||r)}function t(e){return!!e.bikeAddress}function n(e){return e.bikeAutoCapture===!0&&t(e)}export{t as n,e as r,n as t};
