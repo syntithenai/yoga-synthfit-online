@@ -11,7 +11,7 @@ All themes are **photorealistic** Comfy Flux.2 Klein photography with theme atmo
 - **sunrise:** fiery coral-gold / molten gold against deep teal–indigo (high saturation, not pastel wash)
 - **sunrise2:** photoreal golden-hour photography — coral-gold light, deep teal shadows, heron/horizon motifs as real scenes
 
-Manifest: `scripts/drafts/learn_image_manifest.json`. Generator: `scripts/generate_editorial_images.py`.
+Manifest: `$YOGAPP_MEDIA/drafts/learn_image_manifest.json`. Generator: `scripts/generate_editorial_images.py`.
 
 ## Legacy single-file heroes
 
