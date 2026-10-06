@@ -1,1 +1,0 @@
-async function e(e,t,n,r){return!1}export{e as mirrorIfSendToBand};

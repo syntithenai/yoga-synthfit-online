@@ -1,882 +1,930 @@
 {
  "archers": {
-  "3d": "0449e028b26e",
-  "muscles": "2e5410eb2c65"
+  "3d": "9146dbe12ee0",
+  "muscles": "36cbce07e91b"
  },
  "ardha-chandrachapasana-prep": {
-  "3d": "f08aa0c3f551",
-  "muscles": "781c7d915eff"
+  "3d": "aa552a52e440",
+  "muscles": "ad5b5eb0e10d"
  },
  "ardha-chandrasana-namaskar": {
-  "3d": "533c952d4185",
-  "muscles": "60d6fdb42801"
+  "3d": "b0ed6e2f8287",
+  "muscles": "d177e69b545b"
  },
  "ardha-navasana": {
-  "3d": "a32ea5dd2427",
-  "muscles": "6d34bfce5693"
+  "3d": "fecc09090b70",
+  "muscles": "fe14fe0a4d5e"
  },
  "ardha-padmasana": {
-  "3d": "2259850f240d",
-  "muscles": "738693b45594"
+  "3d": "4f030d06635d",
+  "muscles": "0445eb311036"
  },
  "baddha-hasta-utthita-stiti-vayu-muktyasana-prep": {
-  "3d": "9213515199b4",
-  "muscles": "05d9e9318846"
+  "3d": "36c23e95d036",
+  "muscles": "eb2536973949"
  },
  "baddha-natarajasana": {
-  "3d": "8b53536ed7cc",
-  "muscles": "6d10a4b7c8ec"
+  "3d": "99e00a06448a",
+  "muscles": "f5a5f824c1bc"
+ },
+ "baddha-virabhadrasana-1": {
+  "3d": "b91373fb33cf",
+  "muscles": "81e50a2b6f68"
  },
  "banana": {
-  "3d": "b855d55d816a",
-  "muscles": "b7b6ed364116"
+  "3d": "89574f48eeb8",
+  "muscles": "522d66041c06"
  },
  "bhujangasana-1": {
-  "3d": "8910047914aa",
-  "muscles": "597ed0b90c45"
+  "3d": "3b21cd282024",
+  "muscles": "df4c3c8d2e63"
  },
  "big-toe": {
-  "3d": "e5fd06dc263b",
-  "muscles": "6b26d6df53ae"
+  "3d": "46d3584293f0",
+  "muscles": "f1f90f5c10f3"
+ },
+ "bird-dog": {
+  "3d": "60ec279eb35e",
+  "muscles": "2b1abedf3a25"
  },
  "bird-of-paradise": {
-  "3d": "9b06aa7fe6d2",
-  "muscles": "7efbba587afb"
+  "3d": "b41aa63ab2a7",
+  "muscles": "820bf4193806"
  },
  "boat": {
-  "3d": "5455404366d5",
-  "muscles": "62e48a6543be"
+  "3d": "f391a82bb465",
+  "muscles": "472512800fb5"
  },
  "both-feet-behind-the-head-i": {
-  "3d": "fdd0c7bf611a",
-  "muscles": "fa36e64cbc9e"
+  "3d": "4139b8ea7ecf",
+  "muscles": "453413ed529b"
  },
  "both-feet-behind-the-head-ii": {
-  "3d": "4f4ac7eb1a92",
-  "muscles": "d63add829979"
+  "3d": "5ad7ee15b583",
+  "muscles": "d82bc36896c1"
  },
  "bound-angle": {
-  "3d": "17d7860b83f6",
-  "muscles": "edfe532e6bcd"
+  "3d": "8be2b337d48f",
+  "muscles": "e03b724796f9"
  },
  "bound-revolved-chair": {
-  "3d": "2666382efab7",
-  "muscles": "b624955fc92f"
+  "3d": "7542f57c7a86",
+  "muscles": "c5c64c694fcf"
+ },
+ "bound-side-angle": {
+  "3d": "27f30d5e4715",
+  "muscles": "e876e4419a4e"
  },
  "bow": {
-  "3d": "077ee1814037",
-  "muscles": "0eefad3d0563"
+  "3d": "434f5c0eb52c",
+  "muscles": "57ec84e18a87"
  },
  "breath-belly": {
-  "3d": "578d485caa4b",
-  "muscles": "47fd3c9f1e36"
+  "3d": "a35c03ca2894",
+  "muscles": "fecbcbb08e05"
  },
  "breath-bhastrika": {
-  "3d": "8549d41f672e",
-  "muscles": "a3db2d009529"
+  "3d": "fb58da9080c1",
+  "muscles": "ec92ba5eb405"
  },
  "breath-bhramari": {
-  "3d": "248351157640",
-  "muscles": "cdfded6c99f6"
+  "3d": "b78dae3d8df5",
+  "muscles": "45e56953bd14"
  },
  "breath-dirga": {
-  "3d": "647e96bee832",
-  "muscles": "c6d1516b8dcf"
+  "3d": "b906cb2ae996",
+  "muscles": "36be4b477d3f"
  },
  "breath-kapalabhati": {
-  "3d": "aeba4e8ced6c",
-  "muscles": "9e41e4a653ac"
+  "3d": "3750ff67e211",
+  "muscles": "2008e497292b"
  },
  "breath-kumbhaka": {
-  "3d": "c33c9a1d8aa5",
-  "muscles": "2dd00ef8da75"
+  "3d": "102274f55c60",
+  "muscles": "e833f7cd49c1"
  },
  "breath-nadi-shodhana": {
-  "3d": "5a2e26ed1230",
-  "muscles": "3d0f4a7c11f0"
+  "3d": "f351cfa1dbcb",
+  "muscles": "f100523756bb"
  },
  "breath-sama-vritti": {
-  "3d": "6c77df0b2eff",
-  "muscles": "313496f5c89e"
+  "3d": "13b2d2d89a09",
+  "muscles": "d905dc5c062b"
  },
  "breath-sheetali": {
-  "3d": "78a6cbc5ef55",
-  "muscles": "306e22a17bc3"
+  "3d": "4fef565feae9",
+  "muscles": "e3188792ad96"
  },
  "breath-ujjayi": {
-  "3d": "56724ce01065",
-  "muscles": "e5b30a1286b5"
+  "3d": "503fbab2b14b",
+  "muscles": "9829ae54e436"
  },
  "bridge": {
-  "3d": "b39812ea6fc5",
-  "muscles": "5911aeb8d6e3"
+  "3d": "a4c2bf55c00b",
+  "muscles": "02e11b37733a"
  },
  "camel": {
-  "3d": "fc2d2908eb47",
-  "muscles": "648b824f2ea6"
+  "3d": "ede0b70bfdec",
+  "muscles": "e47a261c7ff4"
  },
  "cat": {
-  "3d": "da7639a2f0c1",
-  "muscles": "87128f50d048"
+  "3d": "2a76a505fa45",
+  "muscles": "723c6cd55695"
  },
  "chair": {
-  "3d": "6dfa31038a00",
-  "muscles": "20300847a108"
+  "3d": "37485da05243",
+  "muscles": "4ba4791d4636"
  },
  "chair-eagle-arms": {
-  "3d": "20d3882be58e",
-  "muscles": "f6a698aef439"
+  "3d": "9dd87430dc56",
+  "muscles": "311d99d43806"
  },
  "chair-figure-four": {
-  "3d": "79c97fa77ce2",
-  "muscles": "b2eb1dd6a435"
+  "3d": "3b83ae6a199c",
+  "muscles": "c629cb1fe499"
  },
  "chair-hinge-fold": {
-  "3d": "8bc40eb43f17",
-  "muscles": "4ac45a8e91dd"
+  "3d": "78d8adda3a14",
+  "muscles": "597b58973c4c"
  },
  "chair-mountain": {
-  "3d": "796759a1e791",
-  "muscles": "dc7b37ac4a17"
+  "3d": "488c526858e0",
+  "muscles": "19e61ab99bc0"
  },
  "chair-pigeon": {
-  "3d": "1eab6be6413b",
-  "muscles": "300d34c793b8"
+  "3d": "3b526286919c",
+  "muscles": "7f418e83509f"
  },
  "chair-sit-to-stand": {
-  "3d": "1c070c7031a9",
-  "muscles": "474d37873493"
+  "3d": "b156def65c33",
+  "muscles": "01ac96be4a93"
  },
  "chair-spine-twist": {
-  "3d": "8cbedfdf90c0",
-  "muscles": "9f389dc61fa0"
+  "3d": "52ee72708ece",
+  "muscles": "3f97ac37a5b8"
  },
  "chair-standing-hinge": {
-  "3d": "95011b01aaf7",
-  "muscles": "805f9cecf191"
+  "3d": "f5035cea7a39",
+  "muscles": "eb44c0e51d1e"
  },
  "childs": {
-  "3d": "8ce642f75d12",
-  "muscles": "3cdf091794c4"
+  "3d": "15004781b735",
+  "muscles": "9087d7ae0917"
  },
  "chin-stand": {
-  "3d": "2d55d6fa12c0",
-  "muscles": "ae90658b0147"
+  "3d": "b3dc7a4f1988",
+  "muscles": "947db717fafb"
  },
  "cobra": {
-  "3d": "4b745d1a43f2",
-  "muscles": "e9d1f7c25f25"
+  "3d": "999e0e201d42",
+  "muscles": "1318e4bcd84f"
  },
  "corpse": {
-  "3d": "9e9566689858",
-  "muscles": "1de4ba38262d"
+  "3d": "7dd619c056aa",
+  "muscles": "4c154d396f7e"
  },
  "cow": {
-  "3d": "8bfa3a4862a9",
-  "muscles": "c6909e5dab2a"
+  "3d": "9acaf999f8b9",
+  "muscles": "bef2eeaaf8db"
  },
  "cow-face": {
-  "3d": "de3fdfc78844",
-  "muscles": "bd83363df5e8"
+  "3d": "f0c4bb7a65f2",
+  "muscles": "ebcf4f939066"
  },
  "crane": {
-  "3d": "bfcc2f55973a",
-  "muscles": "a9d1da3cc4d1"
+  "3d": "4cc86e3f349b",
+  "muscles": "c4c3be3f97ad"
  },
  "cross-legged-forward-fold": {
-  "3d": "3e60cf826115",
-  "muscles": "79fab8dc8916"
+  "3d": "0a94da2ca117",
+  "muscles": "b29ea9accd26"
  },
  "crow-kakasana": {
-  "3d": "e0fbe4f2f1d3",
-  "muscles": "b212b9fea4ee"
+  "3d": "499c45d5c40a",
+  "muscles": "3df1e388fffa"
  },
  "dancer": {
-  "3d": "fabd139e365d",
-  "muscles": "92c6a8fde300"
+  "3d": "ac7e7909d7ef",
+  "muscles": "0909be94c79a"
  },
  "deaf-mans": {
-  "3d": "a6bf18a00b1f",
-  "muscles": "8d4fefd24c64"
+  "3d": "01d17e409637",
+  "muscles": "45273107a588"
  },
  "dolphin": {
-  "3d": "45c4e48756b5",
-  "muscles": "217f564fdbce"
+  "3d": "108ebf7c2c60",
+  "muscles": "65eb222096aa"
  },
  "downward-facing-dog": {
-  "3d": "7ed9ce84a08d",
-  "muscles": "1101fa5f20df"
+  "3d": "b9b217e5277e",
+  "muscles": "a1c5a38468cd"
  },
  "dragonfly": {
-  "3d": "5e96a6d97db1",
-  "muscles": "2a82488bc525"
+  "3d": "874fff422da1",
+  "muscles": "f10d1bb5a587"
  },
  "eagle": {
-  "3d": "7e009fe537de",
-  "muscles": "3cb7f3fbccd0"
+  "3d": "0e96b1a6779b",
+  "muscles": "58d700b03de0"
  },
  "easy": {
-  "3d": "e556879f35fa",
-  "muscles": "34d3e5a61ea2"
+  "3d": "846182f3c816",
+  "muscles": "50f5177b09a9"
  },
  "eight-angle": {
-  "3d": "955001438086",
-  "muscles": "188bcc092266"
+  "3d": "ab2efb378116",
+  "muscles": "d97d57bbc9e0"
  },
  "eight-point": {
-  "3d": "02266eac636c",
-  "muscles": "4177034f1bd9"
+  "3d": "fd86e3dd03f2",
+  "muscles": "689dd5630bce"
  },
  "eka-hasta-parshvasana": {
-  "3d": "14a31f9e82a2",
-  "muscles": "d8a1b2acba1e"
+  "3d": "67ad890ef2db",
+  "muscles": "440fbaf55aea"
  },
  "eka-pada-indudalasana": {
-  "3d": "ce170ec35c3e",
-  "muscles": "1678510a1079"
+  "3d": "44f19b82cf87",
+  "muscles": "5da65fe85ab8"
  },
  "eka-pada-setu-bandhasana": {
-  "3d": "04825499ff45",
-  "muscles": "29637c77840c"
+  "3d": "bd32a5306d36",
+  "muscles": "218f57d7524d"
+ },
+ "eka-pada-utkatasana-1": {
+  "3d": "2a168d3eff7a",
+  "muscles": "cc2af506f07c"
  },
  "eka-pada-uttanasana-2": {
-  "3d": "b114349ca625",
-  "muscles": "9bef6f813e2a"
+  "3d": "b6146d02bb41",
+  "muscles": "c0c9420a3f30"
  },
  "eka-padangushta-vasishtasana": {
-  "3d": "4ae132b876b0",
-  "muscles": "2d9cf7863c80"
+  "3d": "7dd64f3b6a4d",
+  "muscles": "10f4bc407476"
  },
  "elephant-trunk": {
-  "3d": "33ecb9cd4d6d",
-  "muscles": "ca8920941232"
+  "3d": "b23a6efceeda",
+  "muscles": "523823b411dc"
  },
  "embryo-in-womb": {
-  "3d": "bf3a0687f1c4",
-  "muscles": "67891529c1c8"
+  "3d": "f93a017235ce",
+  "muscles": "e0a5d339579d"
  },
  "extended-side-angle": {
-  "3d": "dbbc5ebfee38",
-  "muscles": "f6b7ac5bec18"
+  "3d": "98d6b875691b",
+  "muscles": "3546c5d099b2"
  },
  "extended-side-plank": {
-  "3d": "7c1cbaa5af7d",
-  "muscles": "6584c885ed78"
+  "3d": "26fa17a7d66f",
+  "muscles": "28fd0a1e7dfa"
  },
  "extended-standing-hand-to-big-toe": {
-  "3d": "ed505701e26c",
-  "muscles": "3f8c0f888326"
+  "3d": "60479fedb527",
+  "muscles": "6d1ed021a42f"
  },
  "extended-supine-hand-to-big-toe": {
-  "3d": "2631b95c1c14",
-  "muscles": "a62b011974f4"
+  "3d": "a12dc5a48a6e",
+  "muscles": "b184e0be152c"
  },
  "figure-four": {
-  "3d": "89d02cac92bc",
-  "muscles": "9e9bbf41edb6"
+  "3d": "28a78f9d9488",
+  "muscles": "8d24fdada5da"
  },
  "fire-log": {
-  "3d": "008606dda5fd",
-  "muscles": "aee781aef345"
+  "3d": "74c2cad77d82",
+  "muscles": "3b790e08011a"
  },
  "firefly": {
-  "3d": "aec045f43b49",
-  "muscles": "8f342a526d97"
+  "3d": "45d3c0ae9758",
+  "muscles": "e620f9767d46"
  },
  "fish": {
-  "3d": "8cad6c50fd22",
-  "muscles": "40ea832da8b1"
+  "3d": "94f6a5bb640b",
+  "muscles": "1de2bfc40663"
  },
  "floating-stick": {
-  "3d": "a5eb929260dd",
-  "muscles": "b39f8de6c8ff"
+  "3d": "c94542fa33eb",
+  "muscles": "7b9ff803fbb7"
  },
  "flying-man": {
-  "3d": "9184568cb54b",
-  "muscles": "63fe3366ed29"
+  "3d": "4b20ea7682eb",
+  "muscles": "1cbc2e79c37a"
  },
  "flying-pigeon": {
-  "3d": "53d993a37fa3",
-  "muscles": "c4741d50573a"
+  "3d": "4e6e2bec96ec",
+  "muscles": "e808807f2135"
  },
  "flying-warrior": {
-  "3d": "f755f3bc4087",
-  "muscles": "d0c3d30ac370"
+  "3d": "e902a3868700",
+  "muscles": "fc13b2c10852"
  },
  "foot-behind-the-head-i": {
-  "3d": "6c3e4e5cf3c2",
-  "muscles": "b6a9c03ca4f1"
+  "3d": "bc73625cc173",
+  "muscles": "7eba539e8199"
  },
  "foot-behind-the-head-ii": {
-  "3d": "34b7d92cbecb",
-  "muscles": "bdb64dadd74a"
+  "3d": "5aa584b7527a",
+  "muscles": "64c75150d943"
  },
  "forearm-balance": {
-  "3d": "4702ecf6ae3c",
-  "muscles": "99470125078a"
+  "3d": "f42ebec48d1b",
+  "muscles": "abef5490e825"
  },
  "four-limbed-staff": {
-  "3d": "1cab8ac04c58",
-  "muscles": "9536b9304c70"
+  "3d": "02bb565747b5",
+  "muscles": "f408c5c671de"
  },
  "frog": {
-  "3d": "923bc0385e98",
-  "muscles": "7dbce6a987b5"
+  "3d": "4c39163b1f1c",
+  "muscles": "c3b202511e4e"
  },
  "front-splits": {
-  "3d": "11a43c7098e4",
-  "muscles": "79932f9bb518"
+  "3d": "c8c33f831b9e",
+  "muscles": "153ac3e02152"
  },
  "garland": {
-  "3d": "905f036d9d0a",
-  "muscles": "2d0d7239cd09"
+  "3d": "53cbd177a2f8",
+  "muscles": "827a8646df18"
  },
  "gate": {
-  "3d": "2415e6cbb638",
-  "muscles": "e8e168df9a88"
+  "3d": "df24a8483c92",
+  "muscles": "e53af36b1b6d"
  },
  "goddess": {
-  "3d": "306852c608bc",
-  "muscles": "74ba0fcd57d6"
+  "3d": "e570c5ba31dc",
+  "muscles": "e7a3fb6603b5"
  },
  "gorilla": {
-  "3d": "bbddff1c7dbc",
-  "muscles": "86bc930a6eee"
+  "3d": "e1668889b3ec",
+  "muscles": "50f6a1e04d95"
  },
  "half-bow": {
-  "3d": "c3b1c9ec41d0",
-  "muscles": "3211bc10accd"
+  "3d": "1799d654ae31",
+  "muscles": "5e8bea145a4c"
+ },
+ "half-handstand": {
+  "3d": "ca69b5205448",
+  "muscles": "df3c8f7c4972"
  },
  "half-pigeon": {
-  "3d": "e48e9694822a",
-  "muscles": "148009f6bd9e"
+  "3d": "d4b65acb86e9",
+  "muscles": "134246c33065"
  },
  "half-splits": {
-  "3d": "939c8f9ce3d8",
-  "muscles": "7406791884d9"
+  "3d": "65ed2000ea3f",
+  "muscles": "e71bf35de78a"
  },
  "half-standing-forward-bend": {
-  "3d": "e156959cb4eb",
-  "muscles": "bbb735cb31be"
+  "3d": "9878af757e37",
+  "muscles": "346682b72391"
  },
  "handstand": {
-  "3d": "30f13d379bbd",
-  "muscles": "71e64d1a6e5b"
+  "3d": "8dbe3fc66b4f",
+  "muscles": "268b425267eb"
  },
  "happy-baby": {
-  "3d": "e4698033496d",
-  "muscles": "dcff9797ebdd"
+  "3d": "bd4a6f841a07",
+  "muscles": "b60ad31eae44"
  },
  "hasta-pada-parivritta-ardha-chandrachapasana": {
-  "3d": "69fd2c7b7fc3",
-  "muscles": "b0a3a94d9133"
+  "3d": "a911362fde7d",
+  "muscles": "1b80ca5b9f34"
  },
  "head-to-knee": {
-  "3d": "e23060eed006",
-  "muscles": "f5c433f65dbf"
+  "3d": "c666fd8aa48e",
+  "muscles": "f272c52e2bd6"
  },
  "head-to-knee-i": {
-  "3d": "e3c5e497ff5b",
-  "muscles": "c30510f48a29"
+  "3d": "5e9b373473d6",
+  "muscles": "f4dd3d5fa459"
  },
  "head-to-knee-ii": {
-  "3d": "af30258a4b63",
-  "muscles": "2fa73dfc099b"
+  "3d": "106ab1f1390a",
+  "muscles": "cb3be83f4be1"
  },
  "head-to-knee-iii": {
-  "3d": "9f92b60ad52f",
-  "muscles": "fb018848b072"
+  "3d": "16527578bc2c",
+  "muscles": "c485d5b2748d"
+ },
+ "headstand-prep": {
+  "3d": "e86cefb9a9c6",
+  "muscles": "9497a9a1e267"
  },
  "hero": {
-  "3d": "e7efc187f600",
-  "muscles": "d3ef80f3cf19"
+  "3d": "de1fbce073dd",
+  "muscles": "3dd8dfcde5c5"
  },
  "heron": {
-  "3d": "d874486a197a",
-  "muscles": "c2be32e29346"
+  "3d": "e9f53021d8df",
+  "muscles": "a902aa6f283c"
  },
  "high-lunge": {
-  "3d": "84fa1a9377ac",
-  "muscles": "ffc00c60b504"
+  "3d": "08753495ff53",
+  "muscles": "1eccadffe6c1"
  },
  "horse": {
-  "3d": "b11018a23494",
-  "muscles": "5e0e10d04b3d"
+  "3d": "440d6c44f51e",
+  "muscles": "d74a97849bed"
  },
  "humble-flamingo": {
-  "3d": "fb8c21fad6ed",
-  "muscles": "55e8c8697440"
+  "3d": "2dad211c46da",
+  "muscles": "f7ef6065f8bb"
  },
  "indudalasana": {
-  "3d": "903afcd11791",
-  "muscles": "3a1d0e9da616"
+  "3d": "80b5d142db41",
+  "muscles": "1ead61a69091"
  },
  "inverted-staff": {
-  "3d": "0245a085f972",
-  "muscles": "d22cfbe484e3"
+  "3d": "627416c232c7",
+  "muscles": "66cb1e158038"
  },
  "knee-lift": {
-  "3d": "458d3a3e4abc",
-  "muscles": "4a80e0b9134b"
+  "3d": "d96fbd82f41a",
+  "muscles": "22f7d9d2d5a9"
  },
  "kneeling": {
-  "3d": "890e1190a3d1",
-  "muscles": "136484eb1399"
+  "3d": "e1a87664579b",
+  "muscles": "06b18f5e2728"
  },
  "laghuvajrasana": {
-  "3d": "c4dd0444b7be",
-  "muscles": "ecc8bc359bab"
+  "3d": "54182103db27",
+  "muscles": "20d970b3727b"
  },
  "legs-up-wall": {
-  "3d": "a5a4102e1a9d",
-  "muscles": "2fa7c87cedb3"
+  "3d": "febd82ca413f",
+  "muscles": "442ff38dfa7a"
  },
  "lizard": {
-  "3d": "2524cb57c582",
-  "muscles": "cfc913926594"
+  "3d": "bc35b6a4ce98",
+  "muscles": "91ca60bcc060"
  },
  "locust-i": {
-  "3d": "0b96d464b5c5",
-  "muscles": "b839604d7b1f"
+  "3d": "8b485655e463",
+  "muscles": "7b28f97c5f7b"
  },
  "locust-ii": {
-  "3d": "ae9a624770ee",
-  "muscles": "9a676f44f5d7"
+  "3d": "ecbace26a581",
+  "muscles": "d90a697f0643"
  },
  "locust-iii": {
-  "3d": "5bc411d9e517",
-  "muscles": "7ba33adf77d3"
+  "3d": "255b7708517d",
+  "muscles": "b35a8a39154d"
  },
  "lotus": {
-  "3d": "0e678e23907e",
-  "muscles": "00fdcc960061"
+  "3d": "50d2dc9707d1",
+  "muscles": "65079ce60543"
  },
  "low-lunge": {
-  "3d": "1cee2ae213d5",
-  "muscles": "c6790e216909"
+  "3d": "db816152f3be",
+  "muscles": "651bf202e4ba"
+ },
+ "low-lunge-quad": {
+  "3d": "956d09c5329e",
+  "muscles": "452b65ee69c1"
  },
  "lunge": {
-  "3d": "6e06b335f0bc",
-  "muscles": "57211c5e275f"
+  "3d": "b39bd6f918c5",
+  "muscles": "63396fea2eb5"
  },
  "mat-eagle-arms": {
-  "3d": "f0946f059c59",
-  "muscles": "3b8d846d7c8d"
+  "3d": "1ef0db317389",
+  "muscles": "977a62da2045"
  },
  "morning-stretch": {
-  "3d": "2a8422066e26",
-  "muscles": "e92accef491f"
+  "3d": "468607417f8f",
+  "muscles": "345f780c1440"
  },
  "mountain": {
-  "3d": "a550a2cb7207",
-  "muscles": "f3020125aaf7"
+  "3d": "6f989c4691b2",
+  "muscles": "b1c926d6dd9f"
  },
  "noose": {
-  "3d": "aa9304501191",
-  "muscles": "911e1d5218f5"
+  "3d": "bafbf755cc68",
+  "muscles": "6ea72c51ba87"
  },
  "one-legged-king-pigeon": {
-  "3d": "5be2f2900749",
-  "muscles": "604609e791ff"
+  "3d": "14d0f0cd02f2",
+  "muscles": "ce6008896d80"
  },
  "paripurna-bhujangasana": {
-  "3d": "2bea3c2cdfeb",
-  "muscles": "b4dbcb9004aa"
+  "3d": "bc8fde8fada0",
+  "muscles": "4a04d4741fb1"
+ },
+ "parivritta-anjaneyasana": {
+  "3d": "89052e746f5e",
+  "muscles": "bc5c0570adc3"
  },
  "parivritta-baddha-sukhasana": {
-  "3d": "37bbfbab7fcb",
-  "muscles": "6eb069723f87"
+  "3d": "7f63b89ffe8c",
+  "muscles": "38ae30b0790e"
+ },
+ "parivritta-janu-shirshasana": {
+  "3d": "4800af36aef0",
+  "muscles": "053f3af59b92"
  },
  "parivritta-parshva-konasana": {
-  "3d": "9d5b365c3525",
-  "muscles": "df2c2ad64f63"
+  "3d": "59606fdcdfc2",
+  "muscles": "8bdf677201b6"
  },
  "parivritta-sukhasana": {
-  "3d": "20b1823fcce0",
-  "muscles": "176faac95c85"
+  "3d": "33f183bb8827",
+  "muscles": "b0e6c3250dc8"
  },
  "parshva-sukhasana": {
-  "3d": "5687370dcabf",
-  "muscles": "d582b29fac4e"
+  "3d": "4e67058af218",
+  "muscles": "4355c2744457"
  },
  "parshvasana": {
-  "3d": "34c8cf7a28a9",
-  "muscles": "19ae98e802ab"
+  "3d": "afefe720d7a1",
+  "muscles": "dc759038f21f"
  },
  "patan-vrikshasana": {
-  "3d": "97fd287d8a97",
-  "muscles": "cf0eb8e11b7b"
+  "3d": "6736216eb387",
+  "muscles": "44714b7cad7b"
  },
  "peacock": {
-  "3d": "9b702d10d84e",
-  "muscles": "cb253e657169"
+  "3d": "0e25e56cf5e3",
+  "muscles": "e7e71e047ade"
  },
  "pendant": {
-  "3d": "9e5fd026945f",
-  "muscles": "65c70db6ec5f"
+  "3d": "ab711f8b13b3",
+  "muscles": "12ff265eac92"
  },
  "pigeon": {
-  "3d": "2f816b39dd8e",
-  "muscles": "63e4abe62010"
+  "3d": "b28396bf17b1",
+  "muscles": "c0b6de2d4e18"
  },
  "plank": {
-  "3d": "e5a9c1c84e04",
-  "muscles": "2cd928881e32"
+  "3d": "a0dea89b6eac",
+  "muscles": "4e460c882cdc"
  },
  "plow": {
-  "3d": "a485e33fa09f",
-  "muscles": "b861450416ff"
+  "3d": "b1e6517e2a8d",
+  "muscles": "bdce7665e329"
+ },
+ "prapadasana": {
+  "3d": "334cc7e013c9",
+  "muscles": "8251d340ccc2"
  },
  "puppy": {
-  "3d": "c541b2b1b039",
-  "muscles": "24b5549fa842"
+  "3d": "e128985aca01",
+  "muscles": "e15b4e8b7181"
  },
  "pyramid": {
-  "3d": "6450a2db9f72",
-  "muscles": "ba79b36d1140"
+  "3d": "601b192fe6ff",
+  "muscles": "526128b56d97"
  },
  "raja-kapotasana": {
-  "3d": "5d5fabed318a",
-  "muscles": "d3e9156a9297"
+  "3d": "35ddcb9beddf",
+  "muscles": "b330c0e250e9"
  },
  "reclined-bent-knees": {
-  "3d": "420c0b068641",
-  "muscles": "49183e783abb"
+  "3d": "0474b05fc0b4",
+  "muscles": "50ddc52aadaa"
  },
  "reclining-butterfly": {
-  "3d": "23697eda2eb4",
-  "muscles": "6e9316865cc1"
+  "3d": "30b7c95c056b",
+  "muscles": "a35e0bc9b78e"
  },
  "reverse-corpse": {
-  "3d": "974f623516ef",
-  "muscles": "ea2ddd633f69"
+  "3d": "da8c18babcb5",
+  "muscles": "bc7dd60b339a"
  },
  "reverse-warrior": {
-  "3d": "a53a1416f4f3",
-  "muscles": "654f0baba4cd"
+  "3d": "766878a3e6a9",
+  "muscles": "2240a62b6f71"
  },
  "revolved-bird-of-paradise": {
-  "3d": "9b9e3df6f032",
-  "muscles": "7364ab598131"
+  "3d": "0adb882ede04",
+  "muscles": "11b0124794a9"
+ },
+ "revolved-chair": {
+  "3d": "1a6eeec00bcc",
+  "muscles": "43c3b3eef55b"
  },
  "revolved-half-moon": {
-  "3d": "b9fb7261d484",
-  "muscles": "e7204d24dbe8"
+  "3d": "99c1aee10695",
+  "muscles": "ccbcd7976321"
  },
  "revolved-standing-hand-to-big-toe": {
-  "3d": "858f2e0acf61",
-  "muscles": "ba483daafa3d"
+  "3d": "1bcefc1ba67b",
+  "muscles": "7461edb9b839"
  },
  "revolved-triangle": {
-  "3d": "a740222997cc",
-  "muscles": "7ddd37b941c9"
+  "3d": "66349e97025a",
+  "muscles": "aa61902e150c"
  },
  "revolved-wide-legged-forward-bend": {
-  "3d": "c3e9da2a279a",
-  "muscles": "488b126ed87d"
+  "3d": "5354555f61d4",
+  "muscles": "3d5e7028003d"
  },
  "rooster": {
-  "3d": "88d478848cd1",
-  "muscles": "e7e700e6b603"
+  "3d": "bf4dfa007348",
+  "muscles": "8f91f617f6b1"
  },
  "sage-gherandas": {
-  "3d": "560dc5f60e6b",
-  "muscles": "6f538940338f"
+  "3d": "1105b356af7e",
+  "muscles": "2b7f715de6c5"
  },
  "sage-marichis-i": {
-  "3d": "89ce8c5938d5",
-  "muscles": "4610c3cf6258"
+  "3d": "b90046072d36",
+  "muscles": "735805d6ade8"
  },
  "sage-marichis-ii": {
-  "3d": "d55d77b278ad",
-  "muscles": "515fab43aaa1"
+  "3d": "3e492adc400e",
+  "muscles": "d5abf054dd98"
  },
  "sage-marichis-iii": {
-  "3d": "592c008d1f8d",
-  "muscles": "11e17fe70f1e"
+  "3d": "245ded4b60f8",
+  "muscles": "d92a41c4de27"
  },
  "sage-marichis-iv": {
-  "3d": "08300e37f946",
-  "muscles": "0ecdad90256d"
+  "3d": "7f983c4b5133",
+  "muscles": "0522c8937808"
  },
  "salamba-parivid-pada-bhujangasana": {
-  "3d": "fd5600d19a2f",
-  "muscles": "834ce198be04"
+  "3d": "85a2760b3a17",
+  "muscles": "850aebedf9a7"
  },
  "scorpion": {
-  "3d": "5e94826e2fa9",
-  "muscles": "2e95399fee39"
+  "3d": "6720dd9f6d0c",
+  "muscles": "2da41312a8b5"
  },
  "seated-cactus-arms": {
-  "3d": "1d6081fbc120",
-  "muscles": "7a168d1beb95"
+  "3d": "44d50580fbaa",
+  "muscles": "3815a7072a39"
  },
  "seated-cat": {
-  "3d": "eeed3a15b2e6",
-  "muscles": "2bf25b7b3251"
+  "3d": "835bd059b9a2",
+  "muscles": "6bc88571d823"
  },
  "seated-cow": {
-  "3d": "3347f1783791",
-  "muscles": "51eddbd06bfc"
+  "3d": "acb735828764",
+  "muscles": "eb5adf55172b"
  },
  "seated-forward-bend-i": {
-  "3d": "fb1daadbda5e",
-  "muscles": "9a496f18a85d"
+  "3d": "25f4b1e3cee3",
+  "muscles": "8e250dbd5263"
  },
  "seated-forward-bend-ii": {
-  "3d": "39be17e4d328",
-  "muscles": "20b12722c138"
+  "3d": "dcb13b29ece2",
+  "muscles": "0b1374012bbe"
  },
  "seated-forward-bend-iii": {
-  "3d": "e1131b8db3b8",
-  "muscles": "a99847824c7a"
+  "3d": "c246cc25681e",
+  "muscles": "2465e28f92ec"
  },
  "seated-gate": {
-  "3d": "4e58dd73d6a3",
-  "muscles": "8ae93fad0b79"
+  "3d": "02e89dd03612",
+  "muscles": "8ee9ed375b9b"
  },
  "seated-half-bound-lotus-forward-bend": {
-  "3d": "ed1c1a7f4755",
-  "muscles": "962273d8fda5"
+  "3d": "51b6e22a71e6",
+  "muscles": "63d7d78108ce"
  },
  "seated-rest": {
-  "3d": "98cc3538afba",
-  "muscles": "3dc506663cea"
+  "3d": "2e6980910a10",
+  "muscles": "3d8a8c7a4a00"
  },
  "seated-three-limbed-forward-bend": {
-  "3d": "5b37a9ec1c43",
-  "muscles": "833c6ab1d1fe"
+  "3d": "4dd5982d72d3",
+  "muscles": "b00f17a10cad"
  },
  "seated-twist": {
-  "3d": "b82f494b7b8a",
-  "muscles": "db27dd0a047a"
+  "3d": "8318f3421f19",
+  "muscles": "590ee622df7c"
  },
  "seated-warrior-arms": {
-  "3d": "02029becc6ed",
-  "muscles": "36668e3a63cb"
+  "3d": "790217de8294",
+  "muscles": "743d9fef4fed"
  },
  "shoulder-pressing": {
-  "3d": "27ff6a26dcb0",
-  "muscles": "0e2da047fab5"
+  "3d": "3d7c061062a4",
+  "muscles": "4d33145d8d85"
  },
  "side-crow": {
-  "3d": "0f7530b90cf6",
-  "muscles": "aeeba342e1a7"
+  "3d": "50ef1fa29325",
+  "muscles": "f9abfd3393f1"
  },
  "side-lunge": {
-  "3d": "31caba7f56ca",
-  "muscles": "74e5d26d02e3"
+  "3d": "3181dcb1f56f",
+  "muscles": "58ecbddf7d75"
  },
  "side-plank": {
-  "3d": "054a4f42aa28",
-  "muscles": "25f3a8188acd"
+  "3d": "72310078989f",
+  "muscles": "9277c2d44ecf"
  },
  "side-wide-legged-forward-bend": {
-  "3d": "11fb5aba1aa1",
-  "muscles": "d9937d4e9535"
+  "3d": "ef4abb847256",
+  "muscles": "b930058e3065"
  },
  "sleeping-yogi": {
-  "3d": "1ee410ef3d56",
-  "muscles": "e26c0ccf7fd8"
+  "3d": "3f0bd22e51e8",
+  "muscles": "148c3542a11a"
  },
  "snake": {
-  "3d": "8b8ee82fd67c",
-  "muscles": "b01bc10a0681"
+  "3d": "b5fa33380d8f",
+  "muscles": "7230ada508c6"
  },
  "sphinx": {
-  "3d": "6727fea67ceb",
-  "muscles": "b615271905f8"
+  "3d": "1a3d02a04f0c",
+  "muscles": "1295528df48d"
  },
  "staff": {
-  "3d": "73f44960d515",
-  "muscles": "5f984b9b670d"
+  "3d": "09a3439f9a7b",
+  "muscles": "dea44ce45010"
  },
  "standing-back-bend": {
-  "3d": "9ca46535628a",
-  "muscles": "4a172322e80e"
+  "3d": "f80e96282fa7",
+  "muscles": "273c9e8c1587"
  },
  "standing-foot-behind-the-head": {
-  "3d": "19142312b5aa",
-  "muscles": "950ea43ba1cf"
+  "3d": "f63bb59da53b",
+  "muscles": "f9869bee966c"
  },
  "standing-foot-to-head": {
-  "3d": "7d6df7b39c24",
-  "muscles": "ad510d3d4d69"
+  "3d": "faf52b5db057",
+  "muscles": "78b88163ea65"
  },
  "standing-forward-bend": {
-  "3d": "1a2221312d1b",
-  "muscles": "1fa48c5d7ec1"
+  "3d": "b36ae86fe713",
+  "muscles": "528bf204cc22"
  },
  "standing-half-bound-lotus-forward-bend": {
-  "3d": "e954463ec68f",
-  "muscles": "292c5c48a439"
+  "3d": "4e80e01e1c0b",
+  "muscles": "e625b68e0967"
  },
  "standing-hand-to-big-toe": {
-  "3d": "84dd8fd2a98b",
-  "muscles": "8caa8e1b57f3"
+  "3d": "df4da4554abd",
+  "muscles": "bee22bb18121"
  },
  "standing-hinge": {
-  "3d": "c72f22ede038",
-  "muscles": "9cb18826ad75"
+  "3d": "2b1ff11f7805",
+  "muscles": "db14a60786a9"
  },
  "standing-side-bend": {
-  "3d": "4a634956706a",
-  "muscles": "0306be6c81e6"
+  "3d": "55e35f810610",
+  "muscles": "0cbdccfb6436"
  },
  "standing-splits": {
-  "3d": "b47629aeff0b",
-  "muscles": "6926da677091"
+  "3d": "98c10082af49",
+  "muscles": "356833dc5fde"
  },
  "sukha-vrikshasana": {
-  "3d": "edad663f1de6",
-  "muscles": "847a7912d6c9"
+  "3d": "9902b3854d7e",
+  "muscles": "974f8581940a"
  },
  "supine-foot-to-head": {
-  "3d": "33b08bdf10e9",
-  "muscles": "577d14f9c1ca"
+  "3d": "ea12df3114d5",
+  "muscles": "b8cfe92be535"
  },
  "supine-hand-to-big-toe": {
-  "3d": "2cb20ece0e7f",
-  "muscles": "cf2a09e9f339"
+  "3d": "e55ce3629cda",
+  "muscles": "fe4c1dc6e2b8"
  },
  "supine-spinal-twist": {
-  "3d": "1caefd8b722d",
-  "muscles": "6a63c51014df"
+  "3d": "66045ec504c3",
+  "muscles": "a8e74631adae"
  },
  "supine-straddle": {
-  "3d": "4a7c93eb2052",
-  "muscles": "fd377f9d07cd"
+  "3d": "57c167f7ccf5",
+  "muscles": "b00e9c9e5a77"
  },
  "supported-calf-raise": {
-  "3d": "20263ec3ae00",
-  "muscles": "28f56ce6fad5"
+  "3d": "1abf802b2a0b",
+  "muscles": "9b9f17cfce2a"
  },
  "supported-headstand": {
-  "3d": "4f334775040a",
-  "muscles": "432436280fc7"
+  "3d": "3c68b8828141",
+  "muscles": "ccb5880e5975"
  },
  "supported-shoulder-stand": {
-  "3d": "0990efa1a228",
-  "muscles": "e381775d6dd8"
+  "3d": "c169f4dacf2e",
+  "muscles": "67e7025bb071"
+ },
+ "supta-virasana": {
+  "3d": "7e080cb75842",
+  "muscles": "3a1fcebed4e2"
  },
  "table": {
-  "3d": "a6f248799693",
-  "muscles": "9043b7fff1a3"
+  "3d": "18d4634a9ee7",
+  "muscles": "002dd61855b3"
  },
  "tadasana-namaskar": {
-  "3d": "78702ee707fa",
-  "muscles": "847589350108"
+  "3d": "098f7e7d6906",
+  "muscles": "a28804c1c803"
  },
  "tadasana-urdhva-baddha-hastasana": {
-  "3d": "66c107e57d3a",
-  "muscles": "79d068ec4e47"
+  "3d": "b0abf582f51b",
+  "muscles": "ca095631d295"
  },
  "tandavasana": {
-  "3d": "0d7a2b5751f0",
-  "muscles": "fcaa266dde00"
+  "3d": "9909765138a1",
+  "muscles": "8e9113346c8f"
  },
  "thread-needle": {
-  "3d": "279a97d8affb",
-  "muscles": "75910c4e29f8"
+  "3d": "5b97972af9b1",
+  "muscles": "65fb8efab971"
  },
  "thunderbolt": {
-  "3d": "7d58fb5c5031",
-  "muscles": "503579959e8b"
+  "3d": "5d0223d32c00",
+  "muscles": "9cf6fe7d0241"
  },
  "tiger": {
-  "3d": "b26021299281",
-  "muscles": "3fc3421b6367"
+  "3d": "0a7936836212",
+  "muscles": "59b27ac67fc1"
  },
  "toe-stand": {
-  "3d": "910587280aed",
-  "muscles": "b6ade5a45eb7"
+  "3d": "9b250710ebc7",
+  "muscles": "db0a830c9554"
  },
  "tortoise": {
-  "3d": "8b77dd52e620",
-  "muscles": "cb3422e1a53b"
+  "3d": "7c9e445b6045",
+  "muscles": "60c38ab22bc5"
  },
  "tree": {
-  "3d": "a282356e35cd",
-  "muscles": "aa3d91cc63ff"
+  "3d": "fd7a0327274f",
+  "muscles": "afd67331cdad"
  },
  "triangle": {
-  "3d": "aced7d543f2a",
-  "muscles": "15cece9b562b"
+  "3d": "8ab32ab9fa95",
+  "muscles": "7f32a6aa7364"
  },
  "upward-facing-dog": {
-  "3d": "4c51e2094154",
-  "muscles": "fd54e1ddcad3"
+  "3d": "c982fed1d8a6",
+  "muscles": "6511a4f28a21"
  },
  "upward-plank": {
-  "3d": "d08e44ff10dd",
-  "muscles": "cdf9a402fb6c"
+  "3d": "344a1a0d3509",
+  "muscles": "31f783cc8335"
  },
  "upward-salute": {
-  "3d": "8807dd57e661",
-  "muscles": "2c9f95a4207e"
+  "3d": "8f6ee9a87965",
+  "muscles": "4298ecb2fc63"
  },
  "utthita-pada-vishama-salamba-bhujangasana": {
-  "3d": "159787c3444c",
-  "muscles": "c05ad03f0ff9"
+  "3d": "f02df91498d7",
+  "muscles": "be692ea754d6"
  },
  "utthita-trikonasana": {
-  "3d": "4e75249f1b50",
-  "muscles": "13142200b46d"
+  "3d": "acbdd538ed19",
+  "muscles": "55dd1ce3f885"
  },
  "vrikshasana-namaskar": {
-  "3d": "6ad3714a31ff",
-  "muscles": "a681d4c8d112"
+  "3d": "93887d4645e4",
+  "muscles": "c57a98bcfa06"
  },
  "warrior-i": {
-  "3d": "1a6edd6ee8b0",
-  "muscles": "ea379b5c50f7"
+  "3d": "4833e4ffab8c",
+  "muscles": "a183bcbf7095"
  },
  "warrior-ii": {
-  "3d": "9cb98cb50288",
-  "muscles": "e20745b02c3d"
+  "3d": "3ae19f065904",
+  "muscles": "82e85e83f105"
  },
  "warrior-iii": {
-  "3d": "0f89c7148b8c",
-  "muscles": "7adaba7f4b8e"
+  "3d": "4c5f09368b89",
+  "muscles": "afcca0153dc9"
  },
  "waterfall": {
-  "3d": "99ab8afd5740",
-  "muscles": "fceed43bd878"
+  "3d": "c0df7d3312bc",
+  "muscles": "b1fa4403cdec"
  },
  "wheel": {
-  "3d": "720232b82756",
-  "muscles": "d9eaf0316d03"
+  "3d": "7c42074ddfc2",
+  "muscles": "844062131464"
  },
  "wide-legged-forward-bend-i": {
-  "3d": "b398ff545e8a",
-  "muscles": "5eac3764f241"
+  "3d": "e1d0c35f7970",
+  "muscles": "8f9000d471ea"
  },
  "wide-legged-forward-bend-ii": {
-  "3d": "d4a3ffa97313",
-  "muscles": "79edb47166a3"
+  "3d": "ba59fd4518e0",
+  "muscles": "9aae2c9a8e8f"
  },
  "wide-legged-forward-bend-iii": {
-  "3d": "002ab72b520b",
-  "muscles": "b0848ae81351"
+  "3d": "dc9a8f160792",
+  "muscles": "0cfa2e39b3a3"
  },
  "wide-legged-forward-bend-iv": {
-  "3d": "5736f1226417",
-  "muscles": "59acc016b1c3"
+  "3d": "a92fd807700a",
+  "muscles": "73d152220dd9"
  },
  "wide-seated-fold": {
-  "3d": "3759685597c3",
-  "muscles": "eb307af86817"
+  "3d": "bbca28c2f8bc",
+  "muscles": "3d3b95462ba6"
  },
  "wide-splits": {
-  "3d": "2cd2d8dc34e6",
-  "muscles": "968d70d8e30e"
+  "3d": "309b4362dec4",
+  "muscles": "512d218e847d"
  },
  "wild-thing": {
-  "3d": "b45d20afa196",
-  "muscles": "0dd1d28b11cc"
+  "3d": "fccac5f1f91e",
+  "muscles": "827a81d60e2f"
  },
  "wind-removing": {
-  "3d": "59ce43f2a00b",
-  "muscles": "87edafd42ee5"
+  "3d": "69cab7cd4df1",
+  "muscles": "10576c07fa75"
  }
 }
