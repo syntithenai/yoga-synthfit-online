@@ -12,9 +12,46 @@
         color: #1f332c;
       }
     </style>
-    <script type="module" crossorigin src="/assets/tv-CtqxFNQF.js"></script>
-    <link rel="modulepreload" crossorigin href="/assets/tvDisplay-DPXzsyfi.js">
-    <link rel="stylesheet" crossorigin href="/assets/tv-B0-bOANf.css">
+    <script src="https://www.gstatic.com/cast/sdk/libs/caf_receiver/v3/cast_receiver_framework.js"></script>
+    <script>
+      // Cast aborts the launch (session_error) if the receiver doesn't start
+      // quickly, so start CAF before the app bundle parses. Messages are buffered
+      // until the app attaches. Namespace must match TV_DISPLAY_NAMESPACE.
+      ;(function () {
+        if (new URLSearchParams(location.search).get('t')) return
+        var framework = window.cast && window.cast.framework
+        if (!framework || !framework.CastReceiverContext) return
+        var ns = 'urn:x-cast:net.tunebook.yoga.display'
+        var tvCast = { context: null, pending: [], onMessage: null }
+        try {
+          var context = framework.CastReceiverContext.getInstance()
+          context.addCustomMessageListener(ns, function (event) {
+            var data = event && event.data !== undefined ? event.data : event
+            if (tvCast.onMessage) tvCast.onMessage(data)
+            else tvCast.pending.push(data)
+          })
+          var options = new framework.CastReceiverOptions()
+          options.disableIdleTimeout = true
+          if (framework.system && framework.system.MessageType) {
+            options.customNamespaces = {}
+            options.customNamespaces[ns] = framework.system.MessageType.JSON
+          }
+          context.start(options)
+          tvCast.context = context
+          window.__tvCast = tvCast
+        } catch (err) {
+          console.warn('Cast receiver init failed', err)
+        }
+      })()
+    </script>
+    <script type="module" crossorigin src="/assets/tv-CrVNLl8A.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/locales-D3wEl2EP.js">
+    <link rel="modulepreload" crossorigin href="/assets/dist-Bkzel0jJ.js">
+    <link rel="modulepreload" crossorigin href="/assets/platform-D2bZmwek.js">
+    <link rel="modulepreload" crossorigin href="/assets/teacherPoses-CpiuX-0H.js">
+    <link rel="modulepreload" crossorigin href="/assets/PoseViewer3D-XSE2Ibmr.js">
+    <link rel="stylesheet" crossorigin href="/assets/PoseViewer3D-BUSahOhA.css">
+    <link rel="stylesheet" crossorigin href="/assets/tv-CtcK3o-l.css">
   </head>
   <body>
     <div id="root"></div>
