@@ -1,0 +1,1 @@
+import{t as e}from"./dist-Bkzel0jJ.js";import{r as t}from"./main-Csg_RIx-.js";var n=[3301,3302,3303,3304];async function r(r){if(e.getPlatform()!==`web`)try{await t.cancel({notifications:n.map(e=>({id:e}))})}catch{}}export{r as syncCheckInReminders};
