@@ -1,0 +1,1 @@
+var e=[`root`,`spine03`,`spine01`,`neck01`,`head`,`clavicle.L`,`upperarm01.L`,`lowerarm01.L`,`wrist.L`,`clavicle.R`,`upperarm01.R`,`lowerarm01.R`,`wrist.R`,`upperleg01.L`,`lowerleg01.L`,`foot.L`,`upperleg01.R`,`lowerleg01.R`,`foot.R`],t=`pelvis`,n=e=>e===`pelvis`?`root`:e;export{t as n,n as r,e as t};
