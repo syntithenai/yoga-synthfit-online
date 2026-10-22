@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Local demo sign-in</title>
+    <style>
+      body {
+        font-family: system-ui, sans-serif;
+        max-width: 32rem;
+        margin: 3rem auto;
+        padding: 0 1rem;
+        line-height: 1.45;
+        color: #1a1a1a;
+      }
+      code {
+        background: #f2f2f2;
+        padding: 0.1em 0.35em;
+        border-radius: 4px;
+      }
+      .err {
+        color: #a11;
+      }
+    </style>
+  </head>
+  <body>
+    <p id="status">Signing in to local demo…</p>
+    <script>
+      const SCOPES = [
+        'openid',
+        'email',
+        'profile',
+        'https://www.googleapis.com/auth/drive.file',
+        'https://www.googleapis.com/auth/drive.appdata',
+      ]
+      const params = new URLSearchParams(location.search)
+      const api = params.get('api') || 'http://localhost:8791'
+      const next = params.get('next') || '/'
+      const as = (params.get('as') || '').toLowerCase()
+      const status = document.getElementById('status')
+
+      function signIn({ email, name }) {
+        const key = `google:${email}`
+        // Fresh profile so a production directory cache can't hide the local seed.
+        localStorage.clear()
+        localStorage.setItem('yogapp_active_profile', key)
+        localStorage.setItem(
+          'synth_google_auth_v1',
+          JSON.stringify({
+            accessToken: `demo:${email}`,
+            expiresAt: Date.now() + 30 * 86400_000,
+            user: { name, email },
+            scopes: SCOPES,
+            updatedAt: Date.now(),
+          }),
+        )
+        localStorage.setItem('yogapp_media_proxy_base', api)
+        status.textContent = `Signed in as ${name} (${email}). Opening app…`
+        // Hash route so the SPA boots already signed in (no Google OAuth).
+        const dest = next.startsWith('http') ? next : new URL(next, location.origin).href
+        location.replace(dest)
+      }
+
+      async function main() {
+        let email = (params.get('email') || '').trim().toLowerCase()
+        let name = (params.get('name') || '').trim()
+        if (!email && (as === 'teacher' || as === 'student')) {
+          const res = await fetch(`${api}/demo/cast`)
+          if (!res.ok) throw new Error(`demo cast unavailable (${res.status}) — is demo:guide running?`)
+          const cast = await res.json()
+          const who = cast[as]
+          email = who.email
+          name = who.name
+        }
+        if (!email || !email.includes('@')) {
+          status.className = 'err'
+          status.innerHTML =
+            'Use <code>?as=teacher</code>, <code>?as=student</code>, or <code>?email=you@example.com</code>.'
+          return
+        }
+        if (!name) name = email.split('@')[0].replace(/[._]/g, ' ')
+        signIn({ email, name })
+      }
+
+      main().catch((err) => {
+        status.className = 'err'
+        status.textContent = String(err.message || err)
+      })
+    </script>
+  </body>
+</html>
