@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated": "2026-10-23T00:00:00Z",
+  "apps": {
+    "yoga": {
+      "web": "https://yoga.synthfit.online/",
+      "android": "https://play.google.com/store/apps/details?id=app.yogapp.practice",
+      "ios": "https://apps.apple.com/app/id6819889881"
+    },
+    "synthfit": {
+      "web": "https://synthfit.online/",
+      "android": null,
+      "ios": null
+    },
+    "synthhealth": {
+      "web": "https://health.synthfit.online/",
+      "android": null,
+      "ios": null
+    },
+    "flowarts": {
+      "web": "https://flowarts.synthfit.online/",
+      "android": null,
+      "ios": null
+    }
+  }
+}
