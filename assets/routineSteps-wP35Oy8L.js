@@ -1,1 +1,0 @@
-function e(e){if(!e)return 6;let t=e.category===`transition`?4:6,n=e.minHoldSec;return typeof n==`number`&&Number.isFinite(n)&&n>0?Math.max(t,Math.round(n)):t}function t(e){return typeof e.comment==`string`}export{e as n,t};
