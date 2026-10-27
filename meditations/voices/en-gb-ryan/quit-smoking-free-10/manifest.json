@@ -1,0 +1,372 @@
+{
+  "id": "quit-smoking-free-10",
+  "voiceId": "en-gb-ryan",
+  "edgeVoice": "en-GB-RyanNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 504,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Welcome.",
+      "file": "c000.ogg",
+      "durationSec": 1.393
+    },
+    {
+      "index": 1,
+      "text": "This practice is for you as a non-smoker.",
+      "file": "c001.ogg",
+      "durationSec": 3.344
+    },
+    {
+      "index": 2,
+      "text": "Find a comfortable seat, or lie down if that feels better.",
+      "file": "c002.ogg",
+      "durationSec": 4.11
+    },
+    {
+      "index": 3,
+      "text": "Let the hands rest.",
+      "file": "c003.ogg",
+      "durationSec": 2.227
+    },
+    {
+      "index": 4,
+      "text": "Soften the eyes, or close them.",
+      "file": "c004.ogg",
+      "durationSec": 2.635
+    },
+    {
+      "index": 5,
+      "text": "Take a slow breath in.",
+      "file": "c005.ogg",
+      "durationSec": 2.554
+    },
+    {
+      "index": 6,
+      "text": "And a longer breath out.",
+      "file": "c006.ogg",
+      "durationSec": 2.376
+    },
+    {
+      "index": 7,
+      "text": "[pause:16]",
+      "file": "c007.ogg",
+      "durationSec": 16.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Feel the body supported.",
+      "file": "c008.ogg",
+      "durationSec": 2.508
+    },
+    {
+      "index": 9,
+      "text": "Nothing to prove. Nowhere to rush.",
+      "file": "c009.ogg",
+      "durationSec": 3.386
+    },
+    {
+      "index": 10,
+      "text": "[pause:16]",
+      "file": "c010.ogg",
+      "durationSec": 16.0,
+      "silence": true
+    },
+    {
+      "index": 11,
+      "text": "We will work with clear statements of freedom.",
+      "file": "c011.ogg",
+      "durationSec": 3.506
+    },
+    {
+      "index": 12,
+      "text": "Listen, or silently repeat what lands true.",
+      "file": "c012.ogg",
+      "durationSec": 3.75
+    },
+    {
+      "index": 13,
+      "text": "[pause:18]",
+      "file": "c013.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 14,
+      "text": "I am a non-smoker now.",
+      "file": "c014.ogg",
+      "durationSec": 2.67
+    },
+    {
+      "index": 15,
+      "text": "[pause:16]",
+      "file": "c015.ogg",
+      "durationSec": 16.0,
+      "silence": true
+    },
+    {
+      "index": 16,
+      "text": "I am so happy to be rid of the nicotine disease.",
+      "file": "c016.ogg",
+      "durationSec": 3.634
+    },
+    {
+      "index": 17,
+      "text": "[pause:18]",
+      "file": "c017.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 18,
+      "text": "Smoking is no longer a part of my life or my identity.",
+      "file": "c018.ogg",
+      "durationSec": 4.273
+    },
+    {
+      "index": 19,
+      "text": "[pause:18]",
+      "file": "c019.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 20,
+      "text": "I am getting these triggers because of past memories or watching other smokers.",
+      "file": "c020.ogg",
+      "durationSec": 5.225
+    },
+    {
+      "index": 21,
+      "text": "[pause:18]",
+      "file": "c021.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 22,
+      "text": "These triggers can't do anything to me, because I have freed myself from the slavery of addiction.",
+      "file": "c022.ogg",
+      "durationSec": 6.269
+    },
+    {
+      "index": 23,
+      "text": "[pause:22]",
+      "file": "c023.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 24,
+      "text": "I feel sorry for smokers who are still stuck with their smoking deceptions.",
+      "file": "c024.ogg",
+      "durationSec": 5.225
+    },
+    {
+      "index": 25,
+      "text": "Who are trapped in the miserable cycle of nicotine depletion, urge, and refilling.",
+      "file": "c025.ogg",
+      "durationSec": 5.523
+    },
+    {
+      "index": 26,
+      "text": "[pause:18]",
+      "file": "c026.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 27,
+      "text": "I don't suffer like them anymore.",
+      "file": "c027.ogg",
+      "durationSec": 3.145
+    },
+    {
+      "index": 28,
+      "text": "[pause:14]",
+      "file": "c028.ogg",
+      "durationSec": 14.0,
+      "silence": true
+    },
+    {
+      "index": 29,
+      "text": "Now I know the truth.",
+      "file": "c029.ogg",
+      "durationSec": 2.31
+    },
+    {
+      "index": 30,
+      "text": "There is absolutely no benefit of smoking.",
+      "file": "c030.ogg",
+      "durationSec": 3.634
+    },
+    {
+      "index": 31,
+      "text": "[pause:18]",
+      "file": "c031.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 32,
+      "text": "The urine stick has never helped anyone, and it never will.",
+      "file": "c032.ogg",
+      "durationSec": 4.667
+    },
+    {
+      "index": 33,
+      "text": "[pause:18]",
+      "file": "c033.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 34,
+      "text": "Smoking has created a lot of problems for me.",
+      "file": "c034.ogg",
+      "durationSec": 3.913
+    },
+    {
+      "index": 35,
+      "text": "[pause:14]",
+      "file": "c035.ogg",
+      "durationSec": 14.0,
+      "silence": true
+    },
+    {
+      "index": 36,
+      "text": "I took the best decision of my life to never smoke another puff of that disgusting poison.",
+      "file": "c036.ogg",
+      "durationSec": 6.339
+    },
+    {
+      "index": 37,
+      "text": "That decision was final.",
+      "file": "c037.ogg",
+      "durationSec": 2.345
+    },
+    {
+      "index": 38,
+      "text": "[pause:22]",
+      "file": "c038.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 39,
+      "text": "Now, I respect the Law of Smoking.",
+      "file": "c039.ogg",
+      "durationSec": 3.03
+    },
+    {
+      "index": 40,
+      "text": "[pause:18]",
+      "file": "c040.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 41,
+      "text": "Now, all my situations are getting better.",
+      "file": "c041.ogg",
+      "durationSec": 3.228
+    },
+    {
+      "index": 42,
+      "text": "I am becoming happier, healthier, and more confident.",
+      "file": "c042.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 43,
+      "text": "[pause:22]",
+      "file": "c043.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 44,
+      "text": "I am free.",
+      "file": "c044.ogg",
+      "durationSec": 1.556
+    },
+    {
+      "index": 45,
+      "text": "[pause:28]",
+      "file": "c045.ogg",
+      "durationSec": 28.0,
+      "silence": true
+    },
+    {
+      "index": 46,
+      "text": "Rest in that freedom for a few breaths.",
+      "file": "c046.ogg",
+      "durationSec": 3.228
+    },
+    {
+      "index": 47,
+      "text": "Triggers may still visit as old memory.",
+      "file": "c047.ogg",
+      "durationSec": 3.425
+    },
+    {
+      "index": 48,
+      "text": "They cannot return you to slavery.",
+      "file": "c048.ogg",
+      "durationSec": 3.181
+    },
+    {
+      "index": 49,
+      "text": "[pause:36]",
+      "file": "c049.ogg",
+      "durationSec": 36.0,
+      "silence": true
+    },
+    {
+      "index": 50,
+      "text": "I am a non-smoker now.",
+      "file": "c050.ogg",
+      "durationSec": 2.67
+    },
+    {
+      "index": 51,
+      "text": "I am free.",
+      "file": "c051.ogg",
+      "durationSec": 1.753
+    },
+    {
+      "index": 52,
+      "text": "[pause:28]",
+      "file": "c052.ogg",
+      "durationSec": 28.0,
+      "silence": true
+    },
+    {
+      "index": 53,
+      "text": "Take one more easy breath.",
+      "file": "c053.ogg",
+      "durationSec": 2.345
+    },
+    {
+      "index": 54,
+      "text": "Wiggle the fingers.",
+      "file": "c054.ogg",
+      "durationSec": 2.032
+    },
+    {
+      "index": 55,
+      "text": "When you are ready, open the eyes.",
+      "file": "c055.ogg",
+      "durationSec": 2.473
+    },
+    {
+      "index": 56,
+      "text": "Carry this freedom with you.",
+      "file": "c056.ogg",
+      "durationSec": 2.427
+    }
+  ],
+  "engine": "indextts"
+}

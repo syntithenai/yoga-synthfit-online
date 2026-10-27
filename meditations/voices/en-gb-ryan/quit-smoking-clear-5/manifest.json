@@ -1,0 +1,298 @@
+{
+  "id": "quit-smoking-clear-5",
+  "voiceId": "en-gb-ryan",
+  "edgeVoice": "en-GB-RyanNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 253,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Welcome.",
+      "file": "c000.ogg",
+      "durationSec": 1.591
+    },
+    {
+      "index": 1,
+      "text": "This is a practice of clear breath.",
+      "file": "c001.ogg",
+      "durationSec": 2.786
+    },
+    {
+      "index": 2,
+      "text": "Find a comfortable seat, or lie down if that feels better.",
+      "file": "c002.ogg",
+      "durationSec": 4.028
+    },
+    {
+      "index": 3,
+      "text": "Let the hands rest.",
+      "file": "c003.ogg",
+      "durationSec": 2.193
+    },
+    {
+      "index": 4,
+      "text": "Soften the eyes, or close them.",
+      "file": "c004.ogg",
+      "durationSec": 2.586
+    },
+    {
+      "index": 5,
+      "text": "Take a slow breath in through the nose.",
+      "file": "c005.ogg",
+      "durationSec": 2.995
+    },
+    {
+      "index": 6,
+      "text": "And a longer breath out.",
+      "file": "c006.ogg",
+      "durationSec": 2.455
+    },
+    {
+      "index": 7,
+      "text": "[pause:10]",
+      "file": "c007.ogg",
+      "durationSec": 10.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Notice the air as it is.",
+      "file": "c008.ogg",
+      "durationSec": 2.47
+    },
+    {
+      "index": 9,
+      "text": "Cool on the inhale.",
+      "file": "c009.ogg",
+      "durationSec": 2.067
+    },
+    {
+      "index": 10,
+      "text": "Warm on the exhale.",
+      "file": "c010.ogg",
+      "durationSec": 2.306
+    },
+    {
+      "index": 11,
+      "text": "No smoke. No poison. Just breath.",
+      "file": "c011.ogg",
+      "durationSec": 3.553
+    },
+    {
+      "index": 12,
+      "text": "[pause:12]",
+      "file": "c012.ogg",
+      "durationSec": 12.0,
+      "silence": true
+    },
+    {
+      "index": 13,
+      "text": "Feel the chest expand without effort.",
+      "file": "c013.ogg",
+      "durationSec": 3.41
+    },
+    {
+      "index": 14,
+      "text": "Feel the ribs widen a little.",
+      "file": "c014.ogg",
+      "durationSec": 2.67
+    },
+    {
+      "index": 15,
+      "text": "[pause:12]",
+      "file": "c015.ogg",
+      "durationSec": 12.0,
+      "silence": true
+    },
+    {
+      "index": 16,
+      "text": "Place a hand on the heart, or rest both hands in the lap.",
+      "file": "c016.ogg",
+      "durationSec": 3.913
+    },
+    {
+      "index": 17,
+      "text": "Sense a body that is healing.",
+      "file": "c017.ogg",
+      "durationSec": 2.473
+    },
+    {
+      "index": 18,
+      "text": "Lungs clearing. Blood freer. Sense of smell returning, day by day.",
+      "file": "c018.ogg",
+      "durationSec": 5.422
+    },
+    {
+      "index": 19,
+      "text": "[pause:16]",
+      "file": "c019.ogg",
+      "durationSec": 16.0,
+      "silence": true
+    },
+    {
+      "index": 20,
+      "text": "Silently try these phrases, or just listen.",
+      "file": "c020.ogg",
+      "durationSec": 3.75
+    },
+    {
+      "index": 21,
+      "text": "My breath belongs to me.",
+      "file": "c021.ogg",
+      "durationSec": 2.647
+    },
+    {
+      "index": 22,
+      "text": "[pause:12]",
+      "file": "c022.ogg",
+      "durationSec": 12.0,
+      "silence": true
+    },
+    {
+      "index": 23,
+      "text": "I choose clean air.",
+      "file": "c023.ogg",
+      "durationSec": 2.194
+    },
+    {
+      "index": 24,
+      "text": "[pause:12]",
+      "file": "c024.ogg",
+      "durationSec": 12.0,
+      "silence": true
+    },
+    {
+      "index": 25,
+      "text": "I am done with that poison.",
+      "file": "c025.ogg",
+      "durationSec": 2.392
+    },
+    {
+      "index": 26,
+      "text": "[pause:14]",
+      "file": "c026.ogg",
+      "durationSec": 14.0,
+      "silence": true
+    },
+    {
+      "index": 27,
+      "text": "Picture your next ordinary moment without a cigarette.",
+      "file": "c027.ogg",
+      "durationSec": 3.866
+    },
+    {
+      "index": 28,
+      "text": "Coffee. A walk. A pause after a meal.",
+      "file": "c028.ogg",
+      "durationSec": 3.344
+    },
+    {
+      "index": 29,
+      "text": "See yourself complete in that moment, already free.",
+      "file": "c029.ogg",
+      "durationSec": 3.947
+    },
+    {
+      "index": 30,
+      "text": "[pause:22]",
+      "file": "c030.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 31,
+      "text": "If a memory of smoking appears, let it be a picture, not a plan.",
+      "file": "c031.ogg",
+      "durationSec": 5.027
+    },
+    {
+      "index": 32,
+      "text": "Return to this inhale.",
+      "file": "c032.ogg",
+      "durationSec": 2.484
+    },
+    {
+      "index": 33,
+      "text": "Return to this exhale.",
+      "file": "c033.ogg",
+      "durationSec": 2.473
+    },
+    {
+      "index": 34,
+      "text": "[pause:14]",
+      "file": "c034.ogg",
+      "durationSec": 14.0,
+      "silence": true
+    },
+    {
+      "index": 35,
+      "text": "Breathe in freedom.",
+      "file": "c035.ogg",
+      "durationSec": 2.113
+    },
+    {
+      "index": 36,
+      "text": "Breathe out the old habit's story.",
+      "file": "c036.ogg",
+      "durationSec": 3.193
+    },
+    {
+      "index": 37,
+      "text": "[pause:14]",
+      "file": "c037.ogg",
+      "durationSec": 14.0,
+      "silence": true
+    },
+    {
+      "index": 38,
+      "text": "You took the decision that matters.",
+      "file": "c038.ogg",
+      "durationSec": 2.609
+    },
+    {
+      "index": 39,
+      "text": "Your body is catching up to that truth.",
+      "file": "c039.ogg",
+      "durationSec": 2.914
+    },
+    {
+      "index": 40,
+      "text": "[pause:12]",
+      "file": "c040.ogg",
+      "durationSec": 12.0,
+      "silence": true
+    },
+    {
+      "index": 41,
+      "text": "Take one more clear breath in.",
+      "file": "c041.ogg",
+      "durationSec": 2.786
+    },
+    {
+      "index": 42,
+      "text": "And a long, easy breath out.",
+      "file": "c042.ogg",
+      "durationSec": 2.503
+    },
+    {
+      "index": 43,
+      "text": "Wiggle the fingers.",
+      "file": "c043.ogg",
+      "durationSec": 2.148
+    },
+    {
+      "index": 44,
+      "text": "When you are ready, open the eyes.",
+      "file": "c044.ogg",
+      "durationSec": 2.786
+    },
+    {
+      "index": 45,
+      "text": "Carry this clear air with you.",
+      "file": "c045.ogg",
+      "durationSec": 2.67
+    }
+  ],
+  "engine": "indextts"
+}
