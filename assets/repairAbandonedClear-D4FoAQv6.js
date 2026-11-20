@@ -1,0 +1,1 @@
+import{C as e,p as t}from"./localStore-C0PwS21y.js";import{r as n}from"./clearUserData-D4dIma7d.js";async function r(){try{if(n())return;let r=await t();if((r.userRoutines??[]).length)return;let i=r.tombstones;if(!i||!Object.values(i).some(e=>e&&Object.keys(e).length))return;await e({...r,tombstones:{}},!1)}catch{}}export{r as dropAbandonedClearTombstones};

@@ -1,0 +1,1 @@
+import{t as e}from"./dist-CCw1VNLe.js";import{t}from"./esm-CT86CMCe.js";var n=[3301,3302,3303,3304];async function r(r){if(e.getPlatform()!==`web`)try{await t.cancel({notifications:n.map(e=>({id:e}))})}catch{}}export{r as syncCheckInReminders};
